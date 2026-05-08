@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T18:19:21.763Z",
+  "lastUpdated": "2026-05-08T19:19:04.697Z",
   "data": {
     "boom_level_one": {
       "gameName": "Boom Level One",
@@ -477,19 +477,29 @@
           "percentile": 99.91
         },
         {
+          "score": 309,
+          "teams": 1,
+          "percentile": 99.91
+        },
+        {
           "score": 308.5,
           "teams": 1,
           "percentile": 99.91
         },
         {
+          "score": 308,
+          "teams": 1,
+          "percentile": 99.9
+        },
+        {
           "score": 307.5,
           "teams": 1,
-          "percentile": 99.91
+          "percentile": 99.9
         },
         {
           "score": 307,
           "teams": 3,
-          "percentile": 99.9
+          "percentile": 99.89
         },
         {
           "score": 305,
@@ -499,7 +509,7 @@
         {
           "score": 304,
           "teams": 1,
-          "percentile": 99.89
+          "percentile": 99.88
         },
         {
           "score": 303.5,
@@ -509,17 +519,17 @@
         {
           "score": 302,
           "teams": 1,
-          "percentile": 99.88
+          "percentile": 99.87
         },
         {
           "score": 301,
-          "teams": 2,
+          "teams": 3,
           "percentile": 99.87
         },
         {
           "score": 300,
           "teams": 1,
-          "percentile": 99.87
+          "percentile": 99.86
         },
         {
           "score": 299,
@@ -529,67 +539,67 @@
         {
           "score": 298.5,
           "teams": 3,
-          "percentile": 99.86
+          "percentile": 99.85
         },
         {
           "score": 298,
           "teams": 1,
-          "percentile": 99.85
+          "percentile": 99.84
         },
         {
           "score": 297.5,
           "teams": 1,
-          "percentile": 99.85
+          "percentile": 99.84
         },
         {
           "score": 297,
           "teams": 3,
-          "percentile": 99.84
+          "percentile": 99.83
         },
         {
           "score": 296,
           "teams": 1,
-          "percentile": 99.84
+          "percentile": 99.83
         },
         {
           "score": 294.5,
           "teams": 1,
-          "percentile": 99.83
+          "percentile": 99.82
         },
         {
           "score": 294,
           "teams": 1,
-          "percentile": 99.83
+          "percentile": 99.82
         },
         {
           "score": 293,
           "teams": 1,
-          "percentile": 99.83
+          "percentile": 99.82
         },
         {
           "score": 292,
           "teams": 2,
-          "percentile": 99.82
+          "percentile": 99.81
         },
         {
           "score": 291.5,
           "teams": 1,
-          "percentile": 99.82
+          "percentile": 99.81
         },
         {
           "score": 291,
           "teams": 1,
-          "percentile": 99.82
+          "percentile": 99.81
         },
         {
           "score": 290.5,
           "teams": 1,
-          "percentile": 99.81
+          "percentile": 99.8
         },
         {
           "score": 289.5,
           "teams": 1,
-          "percentile": 99.81
+          "percentile": 99.8
         },
         {
           "score": 289,
@@ -599,22 +609,22 @@
         {
           "score": 288.5,
           "teams": 1,
-          "percentile": 99.8
+          "percentile": 99.79
         },
         {
           "score": 288,
           "teams": 2,
-          "percentile": 99.8
+          "percentile": 99.79
         },
         {
           "score": 287,
           "teams": 1,
-          "percentile": 99.79
+          "percentile": 99.78
         },
         {
           "score": 286.5,
           "teams": 2,
-          "percentile": 99.79
+          "percentile": 99.78
         },
         {
           "score": 286,
@@ -624,12 +634,12 @@
         {
           "score": 285.5,
           "teams": 1,
-          "percentile": 99.78
+          "percentile": 99.77
         },
         {
           "score": 285,
           "teams": 3,
-          "percentile": 99.78
+          "percentile": 99.77
         },
         {
           "score": 284,
@@ -638,3413 +648,3418 @@
         },
         {
           "score": 283,
-          "teams": 1,
-          "percentile": 99.76
+          "teams": 3,
+          "percentile": 99.74
         },
         {
           "score": 282.5,
           "teams": 1,
-          "percentile": 99.75
+          "percentile": 99.74
         },
         {
           "score": 282,
           "teams": 1,
-          "percentile": 99.75
+          "percentile": 99.73
         },
         {
           "score": 281.5,
           "teams": 1,
-          "percentile": 99.74
+          "percentile": 99.73
         },
         {
           "score": 281,
           "teams": 2,
-          "percentile": 99.74
+          "percentile": 99.73
         },
         {
           "score": 280.5,
           "teams": 1,
-          "percentile": 99.74
+          "percentile": 99.72
         },
         {
           "score": 280,
           "teams": 2,
-          "percentile": 99.73
+          "percentile": 99.72
         },
         {
           "score": 279,
           "teams": 2,
-          "percentile": 99.73
+          "percentile": 99.71
         },
         {
           "score": 278.5,
           "teams": 1,
-          "percentile": 99.72
+          "percentile": 99.71
         },
         {
           "score": 278,
           "teams": 5,
-          "percentile": 99.71
+          "percentile": 99.7
         },
         {
           "score": 276.5,
           "teams": 2,
-          "percentile": 99.7
+          "percentile": 99.69
         },
         {
           "score": 276,
           "teams": 2,
-          "percentile": 99.69
+          "percentile": 99.68
         },
         {
           "score": 275.5,
           "teams": 2,
-          "percentile": 99.69
+          "percentile": 99.67
         },
         {
           "score": 275,
           "teams": 7,
-          "percentile": 99.68
+          "percentile": 99.66
         },
         {
           "score": 274.5,
           "teams": 2,
-          "percentile": 99.66
+          "percentile": 99.65
         },
         {
           "score": 274,
           "teams": 4,
-          "percentile": 99.65
+          "percentile": 99.64
         },
         {
           "score": 273.5,
           "teams": 2,
-          "percentile": 99.64
+          "percentile": 99.63
         },
         {
           "score": 273,
           "teams": 2,
-          "percentile": 99.64
+          "percentile": 99.62
         },
         {
           "score": 272,
           "teams": 3,
-          "percentile": 99.63
+          "percentile": 99.62
         },
         {
           "score": 271.5,
           "teams": 1,
-          "percentile": 99.62
+          "percentile": 99.61
+        },
+        {
+          "score": 271,
+          "teams": 1,
+          "percentile": 99.61
         },
         {
           "score": 270,
-          "teams": 3,
-          "percentile": 99.62
+          "teams": 5,
+          "percentile": 99.6
         },
         {
           "score": 269.5,
           "teams": 2,
-          "percentile": 99.61
+          "percentile": 99.59
         },
         {
           "score": 269,
           "teams": 2,
-          "percentile": 99.61
+          "percentile": 99.58
         },
         {
           "score": 268.5,
           "teams": 1,
-          "percentile": 99.6
+          "percentile": 99.58
         },
         {
           "score": 268,
           "teams": 4,
-          "percentile": 99.59
+          "percentile": 99.57
         },
         {
           "score": 267.5,
           "teams": 4,
-          "percentile": 99.58
+          "percentile": 99.56
         },
         {
           "score": 267,
           "teams": 8,
-          "percentile": 99.56
+          "percentile": 99.54
         },
         {
           "score": 266.5,
           "teams": 3,
-          "percentile": 99.55
+          "percentile": 99.53
         },
         {
           "score": 266,
           "teams": 2,
-          "percentile": 99.54
+          "percentile": 99.52
         },
         {
           "score": 265.5,
           "teams": 3,
-          "percentile": 99.53
+          "percentile": 99.51
         },
         {
           "score": 265,
           "teams": 6,
-          "percentile": 99.52
+          "percentile": 99.5
         },
         {
           "score": 264.5,
           "teams": 2,
-          "percentile": 99.51
+          "percentile": 99.49
         },
         {
           "score": 264,
           "teams": 5,
-          "percentile": 99.5
+          "percentile": 99.48
         },
         {
           "score": 263.5,
           "teams": 2,
-          "percentile": 99.49
+          "percentile": 99.47
         },
         {
           "score": 263,
           "teams": 2,
-          "percentile": 99.48
+          "percentile": 99.46
         },
         {
           "score": 262.5,
           "teams": 2,
-          "percentile": 99.48
+          "percentile": 99.46
         },
         {
           "score": 262,
           "teams": 5,
-          "percentile": 99.47
+          "percentile": 99.45
         },
         {
           "score": 261,
-          "teams": 3,
-          "percentile": 99.46
+          "teams": 4,
+          "percentile": 99.43
         },
         {
           "score": 260.5,
           "teams": 1,
-          "percentile": 99.45
+          "percentile": 99.43
         },
         {
           "score": 260,
           "teams": 1,
-          "percentile": 99.45
+          "percentile": 99.42
         },
         {
           "score": 259.5,
           "teams": 2,
-          "percentile": 99.44
+          "percentile": 99.42
         },
         {
           "score": 259,
           "teams": 5,
-          "percentile": 99.43
+          "percentile": 99.41
         },
         {
           "score": 258.5,
           "teams": 1,
-          "percentile": 99.42
+          "percentile": 99.39
         },
         {
           "score": 258,
-          "teams": 2,
-          "percentile": 99.42
+          "teams": 3,
+          "percentile": 99.39
         },
         {
           "score": 257,
           "teams": 1,
-          "percentile": 99.41
+          "percentile": 99.38
         },
         {
           "score": 256,
           "teams": 5,
-          "percentile": 99.41
+          "percentile": 99.37
         },
         {
           "score": 255.5,
           "teams": 2,
-          "percentile": 99.4
+          "percentile": 99.37
         },
         {
           "score": 255,
           "teams": 4,
-          "percentile": 99.39
+          "percentile": 99.36
         },
         {
           "score": 254.5,
           "teams": 1,
-          "percentile": 99.38
+          "percentile": 99.35
         },
         {
           "score": 254,
           "teams": 3,
-          "percentile": 99.37
+          "percentile": 99.34
         },
         {
           "score": 253.5,
           "teams": 4,
-          "percentile": 99.36
+          "percentile": 99.33
         },
         {
           "score": 253,
           "teams": 12,
-          "percentile": 99.34
+          "percentile": 99.31
         },
         {
           "score": 252.5,
           "teams": 6,
-          "percentile": 99.31
+          "percentile": 99.28
         },
         {
           "score": 252,
           "teams": 1,
-          "percentile": 99.3
+          "percentile": 99.27
         },
         {
           "score": 251.5,
           "teams": 4,
-          "percentile": 99.3
+          "percentile": 99.27
         },
         {
           "score": 251,
           "teams": 4,
-          "percentile": 99.28
+          "percentile": 99.25
         },
         {
           "score": 250.5,
           "teams": 3,
-          "percentile": 99.27
+          "percentile": 99.24
         },
         {
           "score": 250,
           "teams": 5,
-          "percentile": 99.26
+          "percentile": 99.23
         },
         {
           "score": 249.5,
           "teams": 1,
-          "percentile": 99.25
+          "percentile": 99.22
         },
         {
           "score": 249,
           "teams": 5,
-          "percentile": 99.24
+          "percentile": 99.21
         },
         {
           "score": 248.5,
           "teams": 4,
-          "percentile": 99.23
+          "percentile": 99.2
         },
         {
           "score": 248,
           "teams": 4,
-          "percentile": 99.22
+          "percentile": 99.19
         },
         {
           "score": 247.5,
           "teams": 3,
-          "percentile": 99.21
+          "percentile": 99.18
         },
         {
           "score": 247,
           "teams": 8,
-          "percentile": 99.19
+          "percentile": 99.16
         },
         {
           "score": 246.5,
           "teams": 2,
-          "percentile": 99.17
+          "percentile": 99.14
         },
         {
           "score": 246,
           "teams": 9,
-          "percentile": 99.16
+          "percentile": 99.13
         },
         {
           "score": 245.5,
           "teams": 5,
-          "percentile": 99.14
+          "percentile": 99.11
         },
         {
           "score": 245,
           "teams": 6,
-          "percentile": 99.12
+          "percentile": 99.09
         },
         {
           "score": 244.5,
           "teams": 3,
-          "percentile": 99.1
+          "percentile": 99.07
         },
         {
           "score": 244,
           "teams": 4,
-          "percentile": 99.09
+          "percentile": 99.06
         },
         {
           "score": 243,
           "teams": 10,
-          "percentile": 99.07
+          "percentile": 99.04
         },
         {
           "score": 242.5,
           "teams": 3,
-          "percentile": 99.05
+          "percentile": 99.02
         },
         {
           "score": 242,
           "teams": 8,
-          "percentile": 99.04
+          "percentile": 99.01
         },
         {
           "score": 241.5,
           "teams": 6,
-          "percentile": 99.01
+          "percentile": 98.98
         },
         {
           "score": 241,
           "teams": 3,
-          "percentile": 99
+          "percentile": 98.97
         },
         {
           "score": 240.5,
           "teams": 4,
-          "percentile": 98.99
+          "percentile": 98.96
         },
         {
           "score": 240,
           "teams": 7,
-          "percentile": 98.97
+          "percentile": 98.94
         },
         {
           "score": 239.5,
           "teams": 3,
-          "percentile": 98.96
+          "percentile": 98.92
         },
         {
           "score": 239,
           "teams": 6,
-          "percentile": 98.94
+          "percentile": 98.91
         },
         {
           "score": 238.5,
           "teams": 3,
-          "percentile": 98.93
+          "percentile": 98.9
         },
         {
           "score": 238,
           "teams": 5,
-          "percentile": 98.92
+          "percentile": 98.89
         },
         {
           "score": 237,
           "teams": 1,
-          "percentile": 98.91
+          "percentile": 98.88
         },
         {
           "score": 236.5,
           "teams": 4,
-          "percentile": 98.9
+          "percentile": 98.87
         },
         {
           "score": 236,
           "teams": 12,
-          "percentile": 98.88
+          "percentile": 98.85
         },
         {
           "score": 235.5,
           "teams": 3,
-          "percentile": 98.86
+          "percentile": 98.83
         },
         {
           "score": 235,
           "teams": 6,
-          "percentile": 98.85
+          "percentile": 98.81
         },
         {
           "score": 234.5,
           "teams": 4,
-          "percentile": 98.83
+          "percentile": 98.8
         },
         {
           "score": 234,
           "teams": 3,
-          "percentile": 98.82
+          "percentile": 98.79
         },
         {
           "score": 233.5,
           "teams": 5,
-          "percentile": 98.81
+          "percentile": 98.78
         },
         {
           "score": 233,
           "teams": 10,
-          "percentile": 98.79
+          "percentile": 98.76
         },
         {
           "score": 232.5,
           "teams": 4,
-          "percentile": 98.77
+          "percentile": 98.74
         },
         {
           "score": 232,
           "teams": 16,
-          "percentile": 98.74
+          "percentile": 98.71
         },
         {
           "score": 231.5,
           "teams": 1,
-          "percentile": 98.71
+          "percentile": 98.68
         },
         {
           "score": 231,
           "teams": 10,
-          "percentile": 98.7
+          "percentile": 98.67
         },
         {
           "score": 230.5,
           "teams": 11,
-          "percentile": 98.67
+          "percentile": 98.64
         },
         {
           "score": 230,
-          "teams": 11,
-          "percentile": 98.64
+          "teams": 12,
+          "percentile": 98.6
         },
         {
           "score": 229.5,
           "teams": 6,
-          "percentile": 98.61
+          "percentile": 98.58
         },
         {
           "score": 229,
           "teams": 8,
-          "percentile": 98.59
+          "percentile": 98.56
         },
         {
           "score": 228.5,
           "teams": 9,
-          "percentile": 98.57
+          "percentile": 98.53
         },
         {
           "score": 228,
           "teams": 13,
-          "percentile": 98.53
+          "percentile": 98.5
         },
         {
           "score": 227.5,
           "teams": 3,
-          "percentile": 98.51
+          "percentile": 98.47
         },
         {
           "score": 227,
           "teams": 7,
-          "percentile": 98.49
+          "percentile": 98.46
         },
         {
           "score": 226.5,
           "teams": 6,
-          "percentile": 98.47
+          "percentile": 98.44
         },
         {
           "score": 226,
           "teams": 9,
-          "percentile": 98.45
+          "percentile": 98.41
         },
         {
           "score": 225.5,
           "teams": 6,
-          "percentile": 98.43
+          "percentile": 98.39
         },
         {
           "score": 225,
           "teams": 6,
-          "percentile": 98.41
+          "percentile": 98.38
         },
         {
           "score": 224.5,
           "teams": 5,
-          "percentile": 98.4
+          "percentile": 98.36
         },
         {
           "score": 224.08,
           "teams": 1,
-          "percentile": 98.39
+          "percentile": 98.35
         },
         {
           "score": 224,
           "teams": 14,
-          "percentile": 98.37
+          "percentile": 98.33
         },
         {
           "score": 223.2,
           "teams": 1,
-          "percentile": 98.34
+          "percentile": 98.31
         },
         {
           "score": 223,
           "teams": 6,
-          "percentile": 98.33
+          "percentile": 98.3
         },
         {
           "score": 222.5,
           "teams": 9,
-          "percentile": 98.31
+          "percentile": 98.28
         },
         {
           "score": 222,
           "teams": 8,
-          "percentile": 98.29
+          "percentile": 98.25
         },
         {
           "score": 221.5,
           "teams": 2,
-          "percentile": 98.27
+          "percentile": 98.24
         },
         {
           "score": 221,
           "teams": 12,
-          "percentile": 98.25
+          "percentile": 98.22
         },
         {
           "score": 220.5,
           "teams": 3,
-          "percentile": 98.23
+          "percentile": 98.2
         },
         {
           "score": 220,
           "teams": 8,
-          "percentile": 98.22
+          "percentile": 98.18
         },
         {
           "score": 219.5,
           "teams": 5,
-          "percentile": 98.2
+          "percentile": 98.16
         },
         {
           "score": 219,
           "teams": 10,
-          "percentile": 98.18
+          "percentile": 98.14
         },
         {
           "score": 218.5,
           "teams": 6,
-          "percentile": 98.15
+          "percentile": 98.12
         },
         {
           "score": 218,
           "teams": 14,
-          "percentile": 98.12
+          "percentile": 98.09
         },
         {
           "score": 217.5,
           "teams": 3,
-          "percentile": 98.1
+          "percentile": 98.06
         },
         {
           "score": 217,
           "teams": 8,
-          "percentile": 98.08
+          "percentile": 98.05
         },
         {
           "score": 216.5,
           "teams": 5,
-          "percentile": 98.06
+          "percentile": 98.03
         },
         {
           "score": 216,
           "teams": 11,
-          "percentile": 98.04
+          "percentile": 98.01
         },
         {
           "score": 215.5,
           "teams": 5,
-          "percentile": 98.02
+          "percentile": 97.98
         },
         {
           "score": 215,
           "teams": 11,
-          "percentile": 98
+          "percentile": 97.96
         },
         {
           "score": 214.5,
           "teams": 4,
-          "percentile": 97.97
+          "percentile": 97.94
         },
         {
           "score": 214,
           "teams": 21,
-          "percentile": 97.94
+          "percentile": 97.9
         },
         {
           "score": 213.5,
           "teams": 7,
-          "percentile": 97.9
+          "percentile": 97.86
         },
         {
           "score": 213,
           "teams": 16,
-          "percentile": 97.87
+          "percentile": 97.83
         },
         {
           "score": 212.5,
           "teams": 4,
-          "percentile": 97.84
+          "percentile": 97.8
         },
         {
           "score": 212,
           "teams": 12,
-          "percentile": 97.81
+          "percentile": 97.78
         },
         {
           "score": 211.5,
           "teams": 7,
-          "percentile": 97.79
+          "percentile": 97.75
         },
         {
           "score": 211,
           "teams": 12,
-          "percentile": 97.76
+          "percentile": 97.72
         },
         {
           "score": 210.5,
           "teams": 9,
-          "percentile": 97.72
+          "percentile": 97.69
         },
         {
           "score": 210,
           "teams": 15,
-          "percentile": 97.69
+          "percentile": 97.65
         },
         {
           "score": 209.5,
           "teams": 11,
-          "percentile": 97.65
+          "percentile": 97.61
         },
         {
           "score": 209,
           "teams": 23,
-          "percentile": 97.6
+          "percentile": 97.57
         },
         {
           "score": 208.5,
           "teams": 10,
-          "percentile": 97.55
+          "percentile": 97.52
         },
         {
           "score": 208,
           "teams": 18,
-          "percentile": 97.51
+          "percentile": 97.48
         },
         {
           "score": 207.5,
           "teams": 10,
-          "percentile": 97.47
+          "percentile": 97.44
         },
         {
           "score": 207.13,
           "teams": 1,
-          "percentile": 97.46
+          "percentile": 97.42
         },
         {
           "score": 207,
           "teams": 17,
-          "percentile": 97.43
+          "percentile": 97.4
         },
         {
           "score": 206.6,
           "teams": 1,
-          "percentile": 97.4
+          "percentile": 97.37
         },
         {
           "score": 206.5,
           "teams": 9,
-          "percentile": 97.39
+          "percentile": 97.36
         },
         {
           "score": 206,
           "teams": 18,
-          "percentile": 97.35
+          "percentile": 97.31
         },
         {
           "score": 205.5,
           "teams": 7,
-          "percentile": 97.31
+          "percentile": 97.27
         },
         {
           "score": 205,
           "teams": 17,
-          "percentile": 97.27
+          "percentile": 97.24
         },
         {
           "score": 204.5,
           "teams": 9,
-          "percentile": 97.23
+          "percentile": 97.2
         },
         {
           "score": 204.2,
           "teams": 1,
-          "percentile": 97.22
+          "percentile": 97.18
         },
         {
           "score": 204,
           "teams": 22,
-          "percentile": 97.18
+          "percentile": 97.15
         },
         {
           "score": 203.62,
           "teams": 1,
-          "percentile": 97.15
+          "percentile": 97.11
         },
         {
           "score": 203.5,
           "teams": 9,
-          "percentile": 97.13
+          "percentile": 97.1
         },
         {
           "score": 203,
           "teams": 20,
-          "percentile": 97.08
+          "percentile": 97.05
         },
         {
           "score": 202.5,
           "teams": 9,
-          "percentile": 97.04
+          "percentile": 97.01
         },
         {
           "score": 202,
           "teams": 31,
-          "percentile": 96.98
+          "percentile": 96.94
         },
         {
           "score": 201.5,
           "teams": 10,
-          "percentile": 96.91
+          "percentile": 96.88
         },
         {
           "score": 201,
           "teams": 23,
-          "percentile": 96.86
+          "percentile": 96.83
         },
         {
           "score": 200.5,
           "teams": 10,
-          "percentile": 96.81
+          "percentile": 96.77
         },
         {
           "score": 200,
           "teams": 18,
-          "percentile": 96.77
+          "percentile": 96.73
         },
         {
           "score": 199.5,
           "teams": 9,
-          "percentile": 96.73
+          "percentile": 96.69
         },
         {
           "score": 199,
           "teams": 16,
-          "percentile": 96.69
+          "percentile": 96.65
         },
         {
           "score": 198.5,
           "teams": 9,
-          "percentile": 96.65
+          "percentile": 96.61
         },
         {
           "score": 198.1,
           "teams": 1,
-          "percentile": 96.63
+          "percentile": 96.6
         },
         {
           "score": 198,
           "teams": 19,
-          "percentile": 96.6
+          "percentile": 96.57
         },
         {
           "score": 197.5,
           "teams": 13,
-          "percentile": 96.56
+          "percentile": 96.52
         },
         {
           "score": 197,
           "teams": 17,
-          "percentile": 96.51
+          "percentile": 96.48
         },
         {
           "score": 196.5,
           "teams": 6,
-          "percentile": 96.47
+          "percentile": 96.44
         },
         {
           "score": 196,
           "teams": 26,
-          "percentile": 96.43
+          "percentile": 96.39
         },
         {
           "score": 195.5,
           "teams": 10,
-          "percentile": 96.37
+          "percentile": 96.34
         },
         {
           "score": 195,
           "teams": 25,
-          "percentile": 96.32
+          "percentile": 96.28
         },
         {
           "score": 194.8,
           "teams": 1,
-          "percentile": 96.27
+          "percentile": 96.24
         },
         {
           "score": 194.5,
           "teams": 18,
-          "percentile": 96.25
+          "percentile": 96.21
         },
         {
           "score": 194,
           "teams": 20,
-          "percentile": 96.18
+          "percentile": 96.15
         },
         {
           "score": 193.5,
           "teams": 8,
-          "percentile": 96.13
+          "percentile": 96.1
         },
         {
           "score": 193,
           "teams": 19,
-          "percentile": 96.09
+          "percentile": 96.06
         },
         {
           "score": 192.5,
           "teams": 17,
-          "percentile": 96.03
+          "percentile": 96
         },
         {
           "score": 192,
           "teams": 32,
-          "percentile": 95.95
+          "percentile": 95.92
         },
         {
           "score": 191.5,
           "teams": 12,
-          "percentile": 95.88
+          "percentile": 95.85
         },
         {
           "score": 191,
           "teams": 22,
-          "percentile": 95.83
+          "percentile": 95.8
         },
         {
           "score": 190.5,
           "teams": 8,
-          "percentile": 95.79
+          "percentile": 95.75
         },
         {
           "score": 190,
           "teams": 18,
-          "percentile": 95.75
+          "percentile": 95.71
         },
         {
           "score": 189.5,
           "teams": 13,
-          "percentile": 95.7
+          "percentile": 95.67
         },
         {
           "score": 189,
           "teams": 30,
-          "percentile": 95.63
+          "percentile": 95.6
         },
         {
           "score": 188.5,
           "teams": 21,
-          "percentile": 95.55
+          "percentile": 95.52
         },
         {
           "score": 188,
           "teams": 34,
-          "percentile": 95.47
+          "percentile": 95.43
         },
         {
           "score": 187.5,
           "teams": 10,
-          "percentile": 95.4
+          "percentile": 95.37
         },
         {
           "score": 187,
           "teams": 25,
-          "percentile": 95.35
+          "percentile": 95.32
         },
         {
           "score": 186.5,
           "teams": 11,
-          "percentile": 95.3
+          "percentile": 95.26
         },
         {
           "score": 186,
           "teams": 27,
-          "percentile": 95.24
+          "percentile": 95.21
         },
         {
           "score": 185.91,
           "teams": 1,
-          "percentile": 95.2
+          "percentile": 95.17
         },
         {
           "score": 185.5,
           "teams": 15,
-          "percentile": 95.18
+          "percentile": 95.14
         },
         {
           "score": 185,
           "teams": 32,
-          "percentile": 95.1
+          "percentile": 95.07
         },
         {
           "score": 184.5,
           "teams": 13,
-          "percentile": 95.02
+          "percentile": 94.99
         },
         {
           "score": 184,
-          "teams": 25,
-          "percentile": 94.96
+          "teams": 26,
+          "percentile": 94.92
         },
         {
           "score": 183.5,
           "teams": 18,
-          "percentile": 94.89
+          "percentile": 94.85
         },
         {
           "score": 183,
           "teams": 32,
-          "percentile": 94.81
+          "percentile": 94.78
         },
         {
           "score": 182.95,
           "teams": 1,
-          "percentile": 94.76
+          "percentile": 94.72
         },
         {
           "score": 182.73,
           "teams": 1,
-          "percentile": 94.76
+          "percentile": 94.72
         },
         {
           "score": 182.5,
           "teams": 17,
-          "percentile": 94.73
+          "percentile": 94.7
         },
         {
           "score": 182,
           "teams": 20,
-          "percentile": 94.68
+          "percentile": 94.64
         },
         {
           "score": 181.5,
           "teams": 19,
-          "percentile": 94.62
+          "percentile": 94.58
         },
         {
           "score": 181.1,
           "teams": 1,
-          "percentile": 94.59
+          "percentile": 94.55
         },
         {
           "score": 181,
           "teams": 28,
-          "percentile": 94.53
+          "percentile": 94.5
         },
         {
           "score": 180.5,
           "teams": 18,
-          "percentile": 94.46
+          "percentile": 94.42
         },
         {
           "score": 180,
           "teams": 25,
-          "percentile": 94.39
+          "percentile": 94.35
         },
         {
           "score": 179.5,
           "teams": 14,
-          "percentile": 94.32
+          "percentile": 94.29
         },
         {
           "score": 179,
           "teams": 38,
-          "percentile": 94.24
+          "percentile": 94.2
         },
         {
           "score": 178.5,
           "teams": 13,
-          "percentile": 94.16
+          "percentile": 94.12
         },
         {
           "score": 178.48,
           "teams": 1,
-          "percentile": 94.14
+          "percentile": 94.1
         },
         {
           "score": 178.37,
           "teams": 1,
-          "percentile": 94.14
+          "percentile": 94.1
         },
         {
           "score": 178,
           "teams": 28,
-          "percentile": 94.09
+          "percentile": 94.06
         },
         {
           "score": 177.5,
           "teams": 21,
-          "percentile": 94.02
+          "percentile": 93.99
         },
         {
           "score": 177.4,
           "teams": 1,
-          "percentile": 93.99
+          "percentile": 93.95
         },
         {
           "score": 177,
           "teams": 31,
-          "percentile": 93.94
+          "percentile": 93.9
         },
         {
           "score": 176.5,
           "teams": 18,
-          "percentile": 93.86
+          "percentile": 93.83
         },
         {
           "score": 176,
           "teams": 30,
-          "percentile": 93.79
+          "percentile": 93.76
         },
         {
           "score": 175.5,
           "teams": 18,
-          "percentile": 93.72
+          "percentile": 93.68
         },
         {
           "score": 175,
           "teams": 43,
-          "percentile": 93.63
+          "percentile": 93.59
         },
         {
           "score": 174.5,
           "teams": 11,
-          "percentile": 93.54
+          "percentile": 93.51
         },
         {
           "score": 174,
           "teams": 38,
-          "percentile": 93.47
+          "percentile": 93.44
         },
         {
           "score": 173.6,
           "teams": 1,
-          "percentile": 93.41
+          "percentile": 93.38
         },
         {
           "score": 173.5,
           "teams": 12,
-          "percentile": 93.39
+          "percentile": 93.36
         },
         {
           "score": 173,
           "teams": 42,
-          "percentile": 93.31
+          "percentile": 93.28
         },
         {
           "score": 172.5,
           "teams": 16,
-          "percentile": 93.23
+          "percentile": 93.19
         },
         {
           "score": 172,
           "teams": 44,
-          "percentile": 93.14
+          "percentile": 93.1
         },
         {
           "score": 171.5,
           "teams": 14,
-          "percentile": 93.05
+          "percentile": 93.02
         },
         {
           "score": 171,
           "teams": 35,
-          "percentile": 92.97
+          "percentile": 92.94
         },
         {
           "score": 170.71,
           "teams": 1,
-          "percentile": 92.91
+          "percentile": 92.87
         },
         {
           "score": 170.5,
           "teams": 21,
-          "percentile": 92.88
+          "percentile": 92.84
         },
         {
           "score": 170,
           "teams": 37,
-          "percentile": 92.79
+          "percentile": 92.75
         },
         {
           "score": 169.5,
           "teams": 12,
-          "percentile": 92.71
+          "percentile": 92.68
         },
         {
           "score": 169,
           "teams": 35,
-          "percentile": 92.64
+          "percentile": 92.6
         },
         {
           "score": 168.5,
           "teams": 17,
-          "percentile": 92.55
+          "percentile": 92.52
         },
         {
           "score": 168,
           "teams": 38,
-          "percentile": 92.46
+          "percentile": 92.43
         },
         {
           "score": 167.5,
           "teams": 20,
-          "percentile": 92.37
+          "percentile": 92.34
         },
         {
           "score": 167,
           "teams": 23,
-          "percentile": 92.31
+          "percentile": 92.27
         },
         {
           "score": 166.9,
           "teams": 1,
-          "percentile": 92.27
+          "percentile": 92.24
         },
         {
           "score": 166.5,
           "teams": 25,
-          "percentile": 92.23
+          "percentile": 92.2
         },
         {
           "score": 166,
           "teams": 39,
-          "percentile": 92.14
+          "percentile": 92.1
         },
         {
           "score": 165.67,
           "teams": 1,
-          "percentile": 92.08
+          "percentile": 92.05
         },
         {
           "score": 165.5,
           "teams": 22,
-          "percentile": 92.05
+          "percentile": 92.01
         },
         {
           "score": 165,
           "teams": 39,
-          "percentile": 91.96
+          "percentile": 91.92
         },
         {
           "score": 164.79,
           "teams": 1,
-          "percentile": 91.9
+          "percentile": 91.86
         },
         {
           "score": 164.5,
           "teams": 15,
-          "percentile": 91.87
+          "percentile": 91.84
         },
         {
           "score": 164,
           "teams": 41,
-          "percentile": 91.79
+          "percentile": 91.75
         },
         {
           "score": 163.9,
           "teams": 1,
-          "percentile": 91.72
+          "percentile": 91.69
         },
         {
           "score": 163.5,
           "teams": 20,
-          "percentile": 91.69
+          "percentile": 91.66
         },
         {
           "score": 163.17,
           "teams": 1,
-          "percentile": 91.66
+          "percentile": 91.63
         },
         {
           "score": 163,
           "teams": 41,
-          "percentile": 91.6
+          "percentile": 91.56
         },
         {
           "score": 162.5,
           "teams": 29,
-          "percentile": 91.49
+          "percentile": 91.46
         },
         {
           "score": 162,
           "teams": 36,
-          "percentile": 91.39
+          "percentile": 91.36
         },
         {
           "score": 161.5,
           "teams": 18,
-          "percentile": 91.32
+          "percentile": 91.28
         },
         {
           "score": 161,
           "teams": 49,
-          "percentile": 91.22
+          "percentile": 91.18
         },
         {
           "score": 160.5,
           "teams": 20,
-          "percentile": 91.12
+          "percentile": 91.08
         },
         {
           "score": 160.2,
           "teams": 1,
-          "percentile": 91.09
+          "percentile": 91.05
         },
         {
           "score": 160,
           "teams": 41,
-          "percentile": 91.02
+          "percentile": 90.99
         },
         {
           "score": 159.5,
           "teams": 22,
-          "percentile": 90.93
+          "percentile": 90.89
         },
         {
           "score": 159,
           "teams": 51,
-          "percentile": 90.82
+          "percentile": 90.78
         },
         {
           "score": 158.9,
           "teams": 1,
-          "percentile": 90.73
+          "percentile": 90.7
         },
         {
           "score": 158.5,
           "teams": 22,
-          "percentile": 90.7
+          "percentile": 90.67
         },
         {
           "score": 158,
           "teams": 55,
-          "percentile": 90.58
+          "percentile": 90.55
         },
         {
           "score": 157.75,
           "teams": 1,
-          "percentile": 90.5
+          "percentile": 90.47
         },
         {
           "score": 157.5,
           "teams": 27,
-          "percentile": 90.46
+          "percentile": 90.42
         },
         {
           "score": 157,
           "teams": 40,
-          "percentile": 90.35
+          "percentile": 90.32
         },
         {
           "score": 156.72,
           "teams": 1,
-          "percentile": 90.29
+          "percentile": 90.26
         },
         {
           "score": 156.7,
           "teams": 1,
-          "percentile": 90.29
+          "percentile": 90.25
         },
         {
           "score": 156.6,
           "teams": 1,
-          "percentile": 90.28
+          "percentile": 90.25
         },
         {
           "score": 156.5,
           "teams": 16,
-          "percentile": 90.26
+          "percentile": 90.23
         },
         {
           "score": 156,
           "teams": 40,
-          "percentile": 90.17
+          "percentile": 90.14
         },
         {
           "score": 155.94,
           "teams": 1,
-          "percentile": 90.11
+          "percentile": 90.07
         },
         {
           "score": 155.5,
           "teams": 27,
-          "percentile": 90.07
+          "percentile": 90.03
         },
         {
           "score": 155,
           "teams": 50,
-          "percentile": 89.95
+          "percentile": 89.92
         },
         {
           "score": 154.8,
           "teams": 1,
-          "percentile": 89.88
+          "percentile": 89.85
         },
         {
           "score": 154.5,
           "teams": 26,
-          "percentile": 89.84
+          "percentile": 89.81
         },
         {
           "score": 154,
           "teams": 48,
-          "percentile": 89.73
+          "percentile": 89.69
         },
         {
           "score": 153.5,
           "teams": 32,
-          "percentile": 89.6
+          "percentile": 89.57
         },
         {
           "score": 153,
           "teams": 39,
-          "percentile": 89.49
+          "percentile": 89.46
         },
         {
           "score": 152.6,
           "teams": 1,
-          "percentile": 89.43
+          "percentile": 89.4
         },
         {
           "score": 152.5,
           "teams": 20,
-          "percentile": 89.4
+          "percentile": 89.37
         },
         {
           "score": 152.4,
           "teams": 2,
-          "percentile": 89.37
+          "percentile": 89.34
         },
         {
           "score": 152.1,
           "teams": 1,
-          "percentile": 89.36
+          "percentile": 89.33
         },
         {
           "score": 152,
           "teams": 56,
-          "percentile": 89.28
+          "percentile": 89.25
         },
         {
           "score": 151.5,
           "teams": 28,
-          "percentile": 89.16
+          "percentile": 89.13
         },
         {
           "score": 151.3,
           "teams": 1,
-          "percentile": 89.12
+          "percentile": 89.08
         },
         {
           "score": 151,
           "teams": 45,
-          "percentile": 89.05
+          "percentile": 89.01
         },
         {
           "score": 150.5,
           "teams": 26,
-          "percentile": 88.94
+          "percentile": 88.91
         },
         {
           "score": 150.36,
           "teams": 1,
-          "percentile": 88.9
+          "percentile": 88.87
         },
         {
           "score": 150,
           "teams": 57,
-          "percentile": 88.81
+          "percentile": 88.78
         },
         {
           "score": 149.5,
           "teams": 31,
-          "percentile": 88.68
+          "percentile": 88.65
         },
         {
           "score": 149,
           "teams": 51,
-          "percentile": 88.57
+          "percentile": 88.53
         },
         {
           "score": 148.5,
           "teams": 26,
-          "percentile": 88.45
+          "percentile": 88.42
         },
         {
           "score": 148.3,
           "teams": 1,
-          "percentile": 88.41
+          "percentile": 88.38
         },
         {
           "score": 148,
           "teams": 61,
-          "percentile": 88.33
+          "percentile": 88.29
         },
         {
           "score": 147.6,
           "teams": 1,
-          "percentile": 88.24
+          "percentile": 88.2
         },
         {
           "score": 147.5,
           "teams": 35,
-          "percentile": 88.18
+          "percentile": 88.15
         },
         {
           "score": 147.3,
           "teams": 1,
-          "percentile": 88.13
+          "percentile": 88.1
         },
         {
           "score": 147,
-          "teams": 61,
-          "percentile": 88.04
+          "teams": 62,
+          "percentile": 88
         },
         {
           "score": 146.5,
           "teams": 24,
-          "percentile": 87.91
+          "percentile": 87.87
         },
         {
           "score": 146,
           "teams": 60,
-          "percentile": 87.77
+          "percentile": 87.73
         },
         {
           "score": 145.6,
           "teams": 2,
-          "percentile": 87.67
+          "percentile": 87.63
         },
         {
           "score": 145.5,
           "teams": 25,
-          "percentile": 87.63
+          "percentile": 87.59
         },
         {
           "score": 145,
           "teams": 65,
-          "percentile": 87.49
+          "percentile": 87.46
         },
         {
           "score": 144.5,
           "teams": 23,
-          "percentile": 87.36
+          "percentile": 87.32
         },
         {
           "score": 144,
           "teams": 73,
-          "percentile": 87.21
+          "percentile": 87.18
         },
         {
           "score": 143.5,
           "teams": 44,
-          "percentile": 87.04
+          "percentile": 87
         },
         {
           "score": 143,
           "teams": 72,
-          "percentile": 86.86
+          "percentile": 86.82
         },
         {
           "score": 142.5,
           "teams": 36,
-          "percentile": 86.7
+          "percentile": 86.66
         },
         {
           "score": 142,
           "teams": 60,
-          "percentile": 86.55
+          "percentile": 86.52
         },
         {
           "score": 141.5,
           "teams": 28,
-          "percentile": 86.42
+          "percentile": 86.38
         },
         {
           "score": 141.49,
           "teams": 1,
-          "percentile": 86.37
+          "percentile": 86.34
         },
         {
           "score": 141.2,
           "teams": 1,
-          "percentile": 86.37
+          "percentile": 86.33
         },
         {
           "score": 141,
           "teams": 60,
-          "percentile": 86.28
+          "percentile": 86.25
         },
         {
           "score": 140.8,
           "teams": 1,
-          "percentile": 86.19
+          "percentile": 86.16
         },
         {
           "score": 140.5,
           "teams": 31,
-          "percentile": 86.14
+          "percentile": 86.11
         },
         {
           "score": 140,
           "teams": 66,
-          "percentile": 86
+          "percentile": 85.96
         },
         {
           "score": 139.97,
           "teams": 1,
-          "percentile": 85.9
+          "percentile": 85.86
         },
         {
           "score": 139.9,
           "teams": 1,
-          "percentile": 85.89
+          "percentile": 85.86
         },
         {
           "score": 139.5,
           "teams": 26,
-          "percentile": 85.85
+          "percentile": 85.82
         },
         {
           "score": 139,
           "teams": 68,
-          "percentile": 85.71
+          "percentile": 85.68
         },
         {
           "score": 138.5,
           "teams": 27,
-          "percentile": 85.56
+          "percentile": 85.53
         },
         {
           "score": 138,
           "teams": 46,
-          "percentile": 85.45
+          "percentile": 85.42
         },
         {
           "score": 137.8,
           "teams": 1,
-          "percentile": 85.38
+          "percentile": 85.35
         },
         {
           "score": 137.5,
           "teams": 28,
-          "percentile": 85.33
+          "percentile": 85.3
         },
         {
           "score": 137,
           "teams": 73,
-          "percentile": 85.17
+          "percentile": 85.14
         },
         {
           "score": 136.5,
           "teams": 44,
-          "percentile": 84.98
+          "percentile": 84.95
         },
         {
           "score": 136.05,
           "teams": 1,
-          "percentile": 84.91
+          "percentile": 84.88
         },
         {
           "score": 136.03,
           "teams": 1,
-          "percentile": 84.91
+          "percentile": 84.88
         },
         {
           "score": 136,
           "teams": 67,
-          "percentile": 84.81
+          "percentile": 84.78
         },
         {
           "score": 135.9,
           "teams": 1,
-          "percentile": 84.71
+          "percentile": 84.68
         },
         {
           "score": 135.5,
           "teams": 41,
-          "percentile": 84.65
+          "percentile": 84.62
         },
         {
           "score": 135,
           "teams": 80,
-          "percentile": 84.47
+          "percentile": 84.43
         },
         {
           "score": 134.5,
           "teams": 32,
-          "percentile": 84.3
+          "percentile": 84.27
         },
         {
           "score": 134,
           "teams": 87,
-          "percentile": 84.12
+          "percentile": 84.09
         },
         {
           "score": 133.97,
           "teams": 1,
-          "percentile": 84
+          "percentile": 83.97
         },
         {
           "score": 133.9,
           "teams": 1,
-          "percentile": 83.99
+          "percentile": 83.96
         },
         {
           "score": 133.5,
           "teams": 40,
-          "percentile": 83.93
+          "percentile": 83.9
         },
         {
           "score": 133,
-          "teams": 71,
-          "percentile": 83.76
+          "teams": 72,
+          "percentile": 83.73
         },
         {
           "score": 132.5,
           "teams": 40,
-          "percentile": 83.6
+          "percentile": 83.56
         },
         {
           "score": 132,
           "teams": 87,
-          "percentile": 83.4
+          "percentile": 83.37
         },
         {
           "score": 131.54,
           "teams": 1,
-          "percentile": 83.27
+          "percentile": 83.23
         },
         {
           "score": 131.5,
           "teams": 34,
-          "percentile": 83.21
+          "percentile": 83.18
         },
         {
           "score": 131.32,
           "teams": 1,
-          "percentile": 83.16
+          "percentile": 83.12
         },
         {
           "score": 131,
           "teams": 78,
-          "percentile": 83.03
+          "percentile": 83
         },
         {
           "score": 130.5,
           "teams": 36,
-          "percentile": 82.85
+          "percentile": 82.82
         },
         {
           "score": 130,
           "teams": 95,
-          "percentile": 82.65
+          "percentile": 82.62
         },
         {
           "score": 129.5,
           "teams": 31,
-          "percentile": 82.46
+          "percentile": 82.43
         },
         {
           "score": 129,
           "teams": 84,
-          "percentile": 82.28
+          "percentile": 82.25
         },
         {
           "score": 128.6,
           "teams": 1,
-          "percentile": 82.15
+          "percentile": 82.12
         },
         {
           "score": 128.5,
           "teams": 48,
-          "percentile": 82.07
+          "percentile": 82.04
         },
         {
           "score": 128.26,
           "teams": 1,
-          "percentile": 82
+          "percentile": 81.96
         },
         {
           "score": 128.1,
           "teams": 1,
-          "percentile": 81.99
+          "percentile": 81.96
         },
         {
           "score": 128.06,
           "teams": 1,
-          "percentile": 81.99
+          "percentile": 81.96
         },
         {
           "score": 128,
           "teams": 81,
-          "percentile": 81.86
+          "percentile": 81.83
         },
         {
           "score": 127.61,
           "teams": 1,
-          "percentile": 81.73
+          "percentile": 81.7
         },
         {
           "score": 127.5,
           "teams": 48,
-          "percentile": 81.66
+          "percentile": 81.63
         },
         {
           "score": 127.1,
           "teams": 1,
-          "percentile": 81.59
+          "percentile": 81.55
         },
         {
           "score": 127,
           "teams": 96,
-          "percentile": 81.42
+          "percentile": 81.39
         },
         {
           "score": 126.5,
           "teams": 44,
-          "percentile": 81.19
+          "percentile": 81.16
         },
         {
           "score": 126.43,
           "teams": 1,
-          "percentile": 81.12
+          "percentile": 81.09
         },
         {
           "score": 126.09,
           "teams": 1,
-          "percentile": 81.12
+          "percentile": 81.09
         },
         {
           "score": 126,
           "teams": 96,
-          "percentile": 80.96
+          "percentile": 80.93
         },
         {
           "score": 125.5,
           "teams": 49,
-          "percentile": 80.73
+          "percentile": 80.7
         },
         {
           "score": 125.3,
           "teams": 1,
-          "percentile": 80.66
+          "percentile": 80.63
         },
         {
           "score": 125,
           "teams": 98,
-          "percentile": 80.51
+          "percentile": 80.47
         },
         {
           "score": 124.55,
           "teams": 1,
-          "percentile": 80.35
+          "percentile": 80.32
         },
         {
           "score": 124.5,
           "teams": 48,
-          "percentile": 80.28
+          "percentile": 80.25
         },
         {
           "score": 124,
           "teams": 78,
-          "percentile": 80.08
+          "percentile": 80.05
         },
         {
           "score": 123.66,
           "teams": 1,
-          "percentile": 79.95
+          "percentile": 79.92
         },
         {
           "score": 123.5,
           "teams": 51,
-          "percentile": 79.87
+          "percentile": 79.84
         },
         {
           "score": 123.25,
           "teams": 1,
-          "percentile": 79.79
+          "percentile": 79.76
         },
         {
           "score": 123,
           "teams": 88,
-          "percentile": 79.66
+          "percentile": 79.63
         },
         {
           "score": 122.5,
           "teams": 48,
-          "percentile": 79.45
+          "percentile": 79.42
         },
         {
           "score": 122,
           "teams": 98,
-          "percentile": 79.21
+          "percentile": 79.18
         },
         {
           "score": 121.5,
           "teams": 56,
-          "percentile": 78.96
+          "percentile": 78.93
         },
         {
           "score": 121.16,
           "teams": 1,
-          "percentile": 78.88
+          "percentile": 78.85
         },
         {
           "score": 121,
           "teams": 99,
-          "percentile": 78.71
+          "percentile": 78.68
         },
         {
           "score": 120.5,
           "teams": 40,
-          "percentile": 78.48
+          "percentile": 78.45
         },
         {
           "score": 120.19,
           "teams": 1,
-          "percentile": 78.41
+          "percentile": 78.38
         },
         {
           "score": 120,
           "teams": 102,
-          "percentile": 78.24
+          "percentile": 78.21
         },
         {
           "score": 119.5,
           "teams": 37,
-          "percentile": 78.01
+          "percentile": 77.98
         },
         {
           "score": 119,
           "teams": 103,
-          "percentile": 77.78
+          "percentile": 77.75
         },
         {
           "score": 118.98,
           "teams": 1,
-          "percentile": 77.6
+          "percentile": 77.57
         },
         {
           "score": 118.75,
           "teams": 1,
-          "percentile": 77.6
+          "percentile": 77.57
         },
         {
           "score": 118.5,
           "teams": 46,
-          "percentile": 77.53
+          "percentile": 77.5
         },
         {
           "score": 118,
           "teams": 89,
-          "percentile": 77.32
+          "percentile": 77.29
         },
         {
           "score": 117.5,
           "teams": 55,
-          "percentile": 77.1
+          "percentile": 77.07
         },
         {
           "score": 117.2,
           "teams": 1,
-          "percentile": 77.01
+          "percentile": 76.98
         },
         {
           "score": 117,
           "teams": 104,
-          "percentile": 76.84
+          "percentile": 76.81
         },
         {
           "score": 116.9,
           "teams": 1,
-          "percentile": 76.67
+          "percentile": 76.64
         },
         {
           "score": 116.5,
           "teams": 52,
-          "percentile": 76.59
+          "percentile": 76.57
         },
         {
           "score": 116.36,
           "teams": 1,
-          "percentile": 76.52
+          "percentile": 76.49
         },
         {
           "score": 116,
           "teams": 110,
-          "percentile": 76.34
+          "percentile": 76.31
         },
         {
           "score": 115.5,
           "teams": 53,
-          "percentile": 76.08
+          "percentile": 76.06
         },
         {
           "score": 115.49,
           "teams": 1,
-          "percentile": 76
+          "percentile": 75.97
         },
         {
           "score": 115.38,
           "teams": 2,
-          "percentile": 76
+          "percentile": 75.97
         },
         {
           "score": 115.35,
           "teams": 1,
-          "percentile": 75.99
+          "percentile": 75.96
         },
         {
           "score": 115.03,
           "teams": 1,
-          "percentile": 75.99
+          "percentile": 75.96
         },
         {
           "score": 115,
           "teams": 108,
-          "percentile": 75.82
+          "percentile": 75.79
         },
         {
           "score": 114.82,
           "teams": 1,
-          "percentile": 75.65
+          "percentile": 75.62
         },
         {
           "score": 114.5,
           "teams": 54,
-          "percentile": 75.56
+          "percentile": 75.53
         },
         {
           "score": 114,
           "teams": 118,
-          "percentile": 75.3
+          "percentile": 75.27
         },
         {
           "score": 113.5,
           "teams": 56,
-          "percentile": 75.03
+          "percentile": 75.01
         },
         {
           "score": 113,
           "teams": 128,
-          "percentile": 74.76
+          "percentile": 74.73
         },
         {
           "score": 112.97,
           "teams": 1,
-          "percentile": 74.56
+          "percentile": 74.53
         },
         {
           "score": 112.5,
           "teams": 71,
-          "percentile": 74.45
+          "percentile": 74.42
         },
         {
           "score": 112,
           "teams": 111,
-          "percentile": 74.17
+          "percentile": 74.14
         },
         {
           "score": 111.77,
           "teams": 1,
-          "percentile": 73.99
+          "percentile": 73.97
         },
         {
           "score": 111.5,
           "teams": 60,
-          "percentile": 73.9
+          "percentile": 73.87
         },
         {
           "score": 111.25,
           "teams": 1,
-          "percentile": 73.8
+          "percentile": 73.77
         },
         {
           "score": 111,
           "teams": 131,
-          "percentile": 73.6
+          "percentile": 73.57
         },
         {
           "score": 110.89,
           "teams": 1,
-          "percentile": 73.4
+          "percentile": 73.37
         },
         {
           "score": 110.5,
           "teams": 67,
-          "percentile": 73.3
+          "percentile": 73.27
         },
         {
           "score": 110.3,
           "teams": 2,
-          "percentile": 73.19
+          "percentile": 73.17
         },
         {
           "score": 110.1,
           "teams": 1,
-          "percentile": 73.19
+          "percentile": 73.16
         },
         {
           "score": 110,
           "teams": 118,
-          "percentile": 73
+          "percentile": 72.97
         },
         {
           "score": 109.5,
           "teams": 53,
-          "percentile": 72.73
+          "percentile": 72.71
         },
         {
           "score": 109,
           "teams": 114,
-          "percentile": 72.48
+          "percentile": 72.45
         },
         {
           "score": 108.66,
           "teams": 1,
-          "percentile": 72.3
+          "percentile": 72.27
         },
         {
           "score": 108.6,
           "teams": 1,
-          "percentile": 72.29
+          "percentile": 72.27
         },
         {
           "score": 108.5,
           "teams": 58,
-          "percentile": 72.21
+          "percentile": 72.18
         },
         {
           "score": 108.37,
           "teams": 1,
-          "percentile": 72.12
+          "percentile": 72.09
         },
         {
           "score": 108.27,
           "teams": 1,
-          "percentile": 72.11
+          "percentile": 72.09
         },
         {
           "score": 108,
           "teams": 131,
-          "percentile": 71.91
+          "percentile": 71.89
         },
         {
           "score": 107.5,
           "teams": 68,
-          "percentile": 71.61
+          "percentile": 71.59
         },
         {
           "score": 107.18,
           "teams": 1,
-          "percentile": 71.51
+          "percentile": 71.48
         },
         {
           "score": 107,
           "teams": 114,
-          "percentile": 71.33
+          "percentile": 71.3
         },
         {
           "score": 106.74,
           "teams": 1,
-          "percentile": 71.15
+          "percentile": 71.12
         },
         {
           "score": 106.5,
           "teams": 74,
-          "percentile": 71.03
+          "percentile": 71
         },
         {
           "score": 106.4,
           "teams": 1,
-          "percentile": 70.91
+          "percentile": 70.89
         },
         {
           "score": 106.3,
           "teams": 1,
-          "percentile": 70.91
+          "percentile": 70.88
         },
         {
           "score": 106,
           "teams": 112,
-          "percentile": 70.73
+          "percentile": 70.71
         },
         {
           "score": 105.75,
           "teams": 2,
-          "percentile": 70.55
+          "percentile": 70.53
         },
         {
           "score": 105.5,
           "teams": 63,
-          "percentile": 70.46
+          "percentile": 70.44
         },
         {
           "score": 105,
           "teams": 122,
-          "percentile": 70.19
+          "percentile": 70.16
         },
         {
           "score": 104.5,
           "teams": 65,
-          "percentile": 69.91
+          "percentile": 69.88
         },
         {
           "score": 104.1,
           "teams": 1,
-          "percentile": 69.81
+          "percentile": 69.79
         },
         {
           "score": 104,
           "teams": 126,
-          "percentile": 69.62
+          "percentile": 69.59
         },
         {
           "score": 103.7,
           "teams": 1,
-          "percentile": 69.42
+          "percentile": 69.4
         },
         {
           "score": 103.6,
           "teams": 1,
-          "percentile": 69.42
+          "percentile": 69.4
         },
         {
           "score": 103.5,
           "teams": 50,
-          "percentile": 69.35
+          "percentile": 69.32
         },
         {
           "score": 103.43,
           "teams": 1,
-          "percentile": 69.27
+          "percentile": 69.25
         },
         {
           "score": 103.4,
           "teams": 1,
-          "percentile": 69.27
+          "percentile": 69.25
         },
         {
           "score": 103.04,
           "teams": 1,
-          "percentile": 69.27
+          "percentile": 69.24
         },
         {
           "score": 103,
           "teams": 120,
-          "percentile": 69.08
+          "percentile": 69.06
         },
         {
           "score": 102.9,
           "teams": 2,
-          "percentile": 68.89
+          "percentile": 68.87
         },
         {
           "score": 102.5,
           "teams": 70,
-          "percentile": 68.78
+          "percentile": 68.76
         },
         {
           "score": 102,
           "teams": 119,
-          "percentile": 68.5
+          "percentile": 68.47
         },
         {
           "score": 101.5,
           "teams": 66,
-          "percentile": 68.22
+          "percentile": 68.19
         },
         {
           "score": 101.3,
           "teams": 2,
-          "percentile": 68.11
+          "percentile": 68.09
         },
         {
           "score": 101.13,
           "teams": 1,
-          "percentile": 68.11
+          "percentile": 68.08
         },
         {
           "score": 101,
-          "teams": 138,
-          "percentile": 67.9
+          "teams": 139,
+          "percentile": 67.87
         },
         {
           "score": 100.8,
           "teams": 1,
-          "percentile": 67.68
+          "percentile": 67.66
         },
         {
           "score": 100.75,
           "teams": 1,
-          "percentile": 67.68
+          "percentile": 67.66
         },
         {
           "score": 100.5,
           "teams": 75,
-          "percentile": 67.57
+          "percentile": 67.54
         },
         {
           "score": 100.39,
           "teams": 1,
-          "percentile": 67.46
+          "percentile": 67.43
         },
         {
           "score": 100.3,
           "teams": 1,
-          "percentile": 67.45
+          "percentile": 67.43
         },
         {
           "score": 100,
           "teams": 132,
-          "percentile": 67.25
+          "percentile": 67.22
         },
         {
           "score": 99.6,
           "teams": 2,
-          "percentile": 67.04
+          "percentile": 67.02
         },
         {
           "score": 99.5,
           "teams": 66,
-          "percentile": 66.94
+          "percentile": 66.91
         },
         {
           "score": 99.3,
           "teams": 1,
-          "percentile": 66.84
+          "percentile": 66.81
         },
         {
           "score": 99,
           "teams": 134,
-          "percentile": 66.63
+          "percentile": 66.6
         },
         {
           "score": 98.5,
           "teams": 67,
-          "percentile": 66.32
+          "percentile": 66.29
         },
         {
           "score": 98.25,
           "teams": 1,
-          "percentile": 66.22
+          "percentile": 66.19
         },
         {
           "score": 98.2,
           "teams": 1,
-          "percentile": 66.21
+          "percentile": 66.19
         },
         {
           "score": 98,
-          "teams": 128,
-          "percentile": 66.02
+          "teams": 129,
+          "percentile": 65.99
         },
         {
           "score": 97.9,
           "teams": 1,
-          "percentile": 65.83
+          "percentile": 65.8
         },
         {
           "score": 97.5,
           "teams": 70,
-          "percentile": 65.72
+          "percentile": 65.7
         },
         {
           "score": 97,
           "teams": 163,
-          "percentile": 65.37
+          "percentile": 65.34
         },
         {
           "score": 96.5,
           "teams": 78,
-          "percentile": 64.99
+          "percentile": 64.96
         },
         {
           "score": 96.34,
           "teams": 1,
-          "percentile": 64.87
+          "percentile": 64.84
         },
         {
           "score": 96,
           "teams": 135,
-          "percentile": 64.66
+          "percentile": 64.63
         },
         {
           "score": 95.5,
           "teams": 81,
-          "percentile": 64.33
+          "percentile": 64.3
         },
         {
           "score": 95,
           "teams": 135,
-          "percentile": 64
+          "percentile": 63.97
         },
         {
           "score": 94.59,
           "teams": 1,
-          "percentile": 63.79
+          "percentile": 63.76
         },
         {
           "score": 94.5,
           "teams": 65,
-          "percentile": 63.69
+          "percentile": 63.66
         },
         {
           "score": 94,
-          "teams": 169,
-          "percentile": 63.33
+          "teams": 170,
+          "percentile": 63.3
         },
         {
           "score": 93.9,
           "teams": 1,
-          "percentile": 63.07
+          "percentile": 63.04
         },
         {
           "score": 93.5,
           "teams": 94,
-          "percentile": 62.92
+          "percentile": 62.9
         },
         {
           "score": 93.25,
           "teams": 1,
-          "percentile": 62.78
+          "percentile": 62.75
         },
         {
           "score": 93,
-          "teams": 178,
-          "percentile": 62.5
+          "teams": 179,
+          "percentile": 62.48
         },
         {
           "score": 92.75,
           "teams": 1,
-          "percentile": 62.23
+          "percentile": 62.2
         },
         {
           "score": 92.5,
           "teams": 65,
-          "percentile": 62.13
+          "percentile": 62.1
         },
         {
           "score": 92,
           "teams": 153,
-          "percentile": 61.81
+          "percentile": 61.78
         },
         {
           "score": 91.94,
           "teams": 1,
-          "percentile": 61.58
+          "percentile": 61.55
         },
         {
           "score": 91.9,
           "teams": 1,
-          "percentile": 61.57
+          "percentile": 61.54
         },
         {
           "score": 91.5,
           "teams": 75,
-          "percentile": 61.45
+          "percentile": 61.43
         },
         {
           "score": 91,
           "teams": 150,
-          "percentile": 61.11
+          "percentile": 61.08
         },
         {
           "score": 90.7,
           "teams": 2,
-          "percentile": 60.87
+          "percentile": 60.84
         },
         {
           "score": 90.5,
           "teams": 87,
-          "percentile": 60.74
+          "percentile": 60.71
         },
         {
           "score": 90.32,
           "teams": 1,
-          "percentile": 60.6
+          "percentile": 60.58
         },
         {
           "score": 90,
           "teams": 149,
-          "percentile": 60.37
+          "percentile": 60.35
         },
         {
           "score": 89.5,
           "teams": 83,
-          "percentile": 60.02
+          "percentile": 59.99
         },
         {
           "score": 89,
           "teams": 127,
-          "percentile": 59.7
+          "percentile": 59.67
         },
         {
           "score": 88.5,
           "teams": 76,
-          "percentile": 59.38
+          "percentile": 59.35
         },
         {
           "score": 88.25,
           "teams": 1,
-          "percentile": 59.26
+          "percentile": 59.23
         },
         {
           "score": 88.1,
           "teams": 1,
-          "percentile": 59.26
+          "percentile": 59.23
         },
         {
           "score": 88,
           "teams": 167,
-          "percentile": 58.99
+          "percentile": 58.97
         },
         {
           "score": 87.7,
           "teams": 1,
-          "percentile": 58.73
+          "percentile": 58.7
         },
         {
           "score": 87.5,
           "teams": 76,
-          "percentile": 58.61
+          "percentile": 58.59
         },
         {
           "score": 87.38,
           "teams": 1,
-          "percentile": 58.49
+          "percentile": 58.47
         },
         {
           "score": 87.33,
           "teams": 2,
-          "percentile": 58.49
+          "percentile": 58.46
         },
         {
           "score": 87.25,
           "teams": 1,
-          "percentile": 58.49
+          "percentile": 58.46
         },
         {
           "score": 87,
           "teams": 152,
-          "percentile": 58.25
+          "percentile": 58.22
         },
         {
           "score": 86.5,
           "teams": 77,
-          "percentile": 57.9
+          "percentile": 57.87
         },
         {
           "score": 86.39,
           "teams": 1,
-          "percentile": 57.78
+          "percentile": 57.75
         },
         {
           "score": 86.3,
           "teams": 1,
-          "percentile": 57.78
+          "percentile": 57.75
         },
         {
           "score": 86,
           "teams": 150,
-          "percentile": 57.55
+          "percentile": 57.53
         },
         {
           "score": 85.7,
           "teams": 2,
-          "percentile": 57.33
+          "percentile": 57.3
         },
         {
           "score": 85.5,
           "teams": 58,
-          "percentile": 57.23
+          "percentile": 57.21
         },
         {
           "score": 85.2,
           "teams": 1,
-          "percentile": 57.14
+          "percentile": 57.12
         },
         {
           "score": 85,
           "teams": 160,
-          "percentile": 56.89
+          "percentile": 56.87
         },
         {
           "score": 84.75,
           "teams": 1,
-          "percentile": 56.64
+          "percentile": 56.61
         },
         {
           "score": 84.6,
           "teams": 2,
-          "percentile": 56.63
+          "percentile": 56.61
         },
         {
           "score": 84.5,
           "teams": 75,
-          "percentile": 56.51
+          "percentile": 56.49
         },
         {
           "score": 84.33,
           "teams": 1,
-          "percentile": 56.39
+          "percentile": 56.37
         },
         {
           "score": 84.3,
           "teams": 2,
-          "percentile": 56.39
+          "percentile": 56.36
         },
         {
           "score": 84.1,
           "teams": 1,
-          "percentile": 56.38
+          "percentile": 56.36
         },
         {
           "score": 84,
           "teams": 150,
-          "percentile": 56.15
+          "percentile": 56.12
         },
         {
           "score": 83.8,
           "teams": 1,
-          "percentile": 55.91
+          "percentile": 55.89
         },
         {
           "score": 83.5,
           "teams": 79,
-          "percentile": 55.79
+          "percentile": 55.76
         },
         {
           "score": 83.1,
           "teams": 1,
-          "percentile": 55.66
+          "percentile": 55.64
         },
         {
           "score": 83,
           "teams": 164,
-          "percentile": 55.41
+          "percentile": 55.39
         },
         {
           "score": 82.6,
           "teams": 1,
-          "percentile": 55.17
+          "percentile": 55.14
         },
         {
           "score": 82.5,
           "teams": 72,
-          "percentile": 55.06
+          "percentile": 55.03
         },
         {
           "score": 82,
           "teams": 149,
-          "percentile": 54.73
+          "percentile": 54.7
         },
         {
           "score": 81.5,
           "teams": 89,
-          "percentile": 54.37
+          "percentile": 54.34
         },
         {
           "score": 81,
           "teams": 181,
-          "percentile": 53.97
+          "percentile": 53.94
         },
         {
           "score": 80.5,
           "teams": 94,
-          "percentile": 53.56
+          "percentile": 53.53
         },
         {
           "score": 80,
-          "teams": 150,
-          "percentile": 53.18
+          "teams": 151,
+          "percentile": 53.15
         },
         {
           "score": 79.94,
           "teams": 1,
-          "percentile": 52.94
+          "percentile": 52.91
         },
         {
           "score": 79.84,
           "teams": 1,
-          "percentile": 52.94
+          "percentile": 52.91
         },
         {
           "score": 79.66,
           "teams": 1,
-          "percentile": 52.93
+          "percentile": 52.91
         },
         {
           "score": 79.6,
           "teams": 1,
-          "percentile": 52.93
+          "percentile": 52.9
         },
         {
           "score": 79.5,
           "teams": 77,
-          "percentile": 52.82
+          "percentile": 52.79
         },
         {
           "score": 79.38,
           "teams": 1,
-          "percentile": 52.71
+          "percentile": 52.68
         },
         {
           "score": 79.33,
           "teams": 1,
-          "percentile": 52.7
+          "percentile": 52.68
         },
         {
           "score": 79,
           "teams": 151,
-          "percentile": 52.48
+          "percentile": 52.45
         },
         {
           "score": 78.8,
           "teams": 1,
-          "percentile": 52.25
+          "percentile": 52.22
         },
         {
           "score": 78.6,
           "teams": 1,
-          "percentile": 52.25
+          "percentile": 52.22
         },
         {
           "score": 78.52,
           "teams": 1,
-          "percentile": 52.24
+          "percentile": 52.22
         },
         {
           "score": 78.5,
           "teams": 89,
-          "percentile": 52.11
+          "percentile": 52.08
         },
         {
           "score": 78.3,
           "teams": 1,
-          "percentile": 51.97
+          "percentile": 51.95
         },
         {
           "score": 78,
           "teams": 174,
-          "percentile": 51.7
+          "percentile": 51.68
         },
         {
           "score": 77.5,
           "teams": 97,
-          "percentile": 51.28
+          "percentile": 51.26
         },
         {
           "score": 77.32,
           "teams": 1,
-          "percentile": 51.13
+          "percentile": 51.1
         },
         {
           "score": 77,
           "teams": 177,
-          "percentile": 50.87
+          "percentile": 50.84
         },
         {
           "score": 76.67,
           "teams": 1,
-          "percentile": 50.61
+          "percentile": 50.58
         },
         {
           "score": 76.5,
           "teams": 81,
-          "percentile": 50.48
+          "percentile": 50.46
         },
         {
           "score": 76.4,
           "teams": 1,
-          "percentile": 50.36
+          "percentile": 50.33
         },
         {
           "score": 76,
           "teams": 191,
-          "percentile": 50.07
+          "percentile": 50.04
         },
         {
           "score": 75.5,
           "teams": 63,
-          "percentile": 49.68
+          "percentile": 49.66
         },
         {
           "score": 75,
           "teams": 162,
-          "percentile": 49.34
+          "percentile": 49.32
         },
         {
           "score": 74.9,
           "teams": 1,
-          "percentile": 49.1
+          "percentile": 49.07
         },
         {
           "score": 74.5,
           "teams": 70,
-          "percentile": 48.99
+          "percentile": 48.97
         },
         {
           "score": 74.3,
           "teams": 1,
-          "percentile": 48.89
+          "percentile": 48.87
         },
         {
           "score": 74.1,
           "teams": 1,
-          "percentile": 48.89
+          "percentile": 48.86
         },
         {
           "score": 74,
           "teams": 163,
-          "percentile": 48.64
+          "percentile": 48.62
         },
         {
           "score": 73.6,
           "teams": 1,
-          "percentile": 48.4
+          "percentile": 48.38
         },
         {
           "score": 73.5,
           "teams": 66,
-          "percentile": 48.3
+          "percentile": 48.28
         },
         {
           "score": 73.3,
           "teams": 1,
-          "percentile": 48.2
+          "percentile": 48.18
         },
         {
           "score": 73.16,
           "teams": 1,
-          "percentile": 48.2
+          "percentile": 48.17
         },
         {
           "score": 73,
           "teams": 185,
-          "percentile": 47.92
+          "percentile": 47.89
         },
         {
           "score": 72.9,
           "teams": 1,
-          "percentile": 47.64
+          "percentile": 47.61
         },
         {
           "score": 72.5,
           "teams": 91,
-          "percentile": 47.5
+          "percentile": 47.48
         },
         {
           "score": 72,
           "teams": 162,
-          "percentile": 47.12
+          "percentile": 47.1
         },
         {
           "score": 71.75,
           "teams": 1,
-          "percentile": 46.88
+          "percentile": 46.86
         },
         {
           "score": 71.6,
           "teams": 1,
-          "percentile": 46.88
+          "percentile": 46.85
         },
         {
           "score": 71.5,
           "teams": 84,
-          "percentile": 46.75
+          "percentile": 46.73
         },
         {
           "score": 71.33,
           "teams": 1,
-          "percentile": 46.63
+          "percentile": 46.61
         },
         {
           "score": 71.3,
           "teams": 1,
-          "percentile": 46.63
+          "percentile": 46.6
         },
         {
           "score": 71.2,
           "teams": 1,
-          "percentile": 46.62
+          "percentile": 46.6
         },
         {
           "score": 71,
           "teams": 158,
-          "percentile": 46.37
+          "percentile": 46.35
         },
         {
           "score": 70.9,
           "teams": 1,
-          "percentile": 46.12
+          "percentile": 46.1
         },
         {
           "score": 70.5,
           "teams": 90,
-          "percentile": 45.98
+          "percentile": 45.96
         },
         {
           "score": 70.4,
           "teams": 1,
-          "percentile": 45.84
+          "percentile": 45.82
         },
         {
           "score": 70,
           "teams": 192,
-          "percentile": 45.54
+          "percentile": 45.52
         },
         {
           "score": 69.88,
           "teams": 1,
-          "percentile": 45.24
+          "percentile": 45.22
         },
         {
           "score": 69.5,
           "teams": 82,
-          "percentile": 45.12
+          "percentile": 45.1
         },
         {
           "score": 69,
           "teams": 174,
-          "percentile": 44.73
+          "percentile": 44.71
         },
         {
           "score": 68.5,
           "teams": 86,
-          "percentile": 44.33
+          "percentile": 44.31
         },
         {
           "score": 68,
           "teams": 155,
-          "percentile": 43.97
+          "percentile": 43.95
         },
         {
           "score": 67.7,
           "teams": 1,
-          "percentile": 43.73
+          "percentile": 43.71
         },
         {
           "score": 67.5,
           "teams": 72,
-          "percentile": 43.62
+          "percentile": 43.6
         },
         {
           "score": 67.3,
           "teams": 1,
-          "percentile": 43.5
+          "percentile": 43.48
         },
         {
           "score": 67,
           "teams": 168,
-          "percentile": 43.24
+          "percentile": 43.22
         },
         {
           "score": 66.5,
           "teams": 94,
-          "percentile": 42.84
+          "percentile": 42.82
         },
         {
           "score": 66,
           "teams": 183,
-          "percentile": 42.43
+          "percentile": 42.41
         },
         {
           "score": 65.6,
           "teams": 1,
-          "percentile": 42.15
+          "percentile": 42.13
         },
         {
           "score": 65.5,
           "teams": 76,
-          "percentile": 42.03
+          "percentile": 42.02
         },
         {
           "score": 65.29,
           "teams": 1,
-          "percentile": 41.92
+          "percentile": 41.9
         },
         {
           "score": 65.2,
           "teams": 1,
-          "percentile": 41.92
+          "percentile": 41.9
         },
         {
           "score": 65,
           "teams": 199,
-          "percentile": 41.6
+          "percentile": 41.58
         },
         {
           "score": 64.7,
           "teams": 1,
-          "percentile": 41.29
+          "percentile": 41.27
         },
         {
           "score": 64.67,
           "teams": 1,
-          "percentile": 41.28
+          "percentile": 41.27
         },
         {
           "score": 64.66,
           "teams": 1,
-          "percentile": 41.28
+          "percentile": 41.26
         },
         {
           "score": 64.5,
           "teams": 83,
-          "percentile": 41.15
+          "percentile": 41.13
         },
         {
           "score": 64.3,
           "teams": 1,
-          "percentile": 41.02
+          "percentile": 41.01
         },
         {
           "score": 64.25,
           "teams": 1,
-          "percentile": 41.02
+          "percentile": 41
         },
         {
           "score": 64,
           "teams": 169,
-          "percentile": 40.76
+          "percentile": 40.74
         },
         {
           "score": 63.5,
           "teams": 81,
-          "percentile": 40.37
+          "percentile": 40.35
         },
         {
           "score": 63.3,
           "teams": 1,
-          "percentile": 40.25
+          "percentile": 40.23
         },
         {
           "score": 63,
           "teams": 194,
-          "percentile": 39.95
+          "percentile": 39.94
         },
         {
           "score": 62.6,
           "teams": 1,
-          "percentile": 39.66
+          "percentile": 39.64
         },
         {
           "score": 62.5,
           "teams": 73,
-          "percentile": 39.55
+          "percentile": 39.53
         },
         {
           "score": 62.44,
           "teams": 1,
-          "percentile": 39.44
+          "percentile": 39.43
         },
         {
           "score": 62.33,
           "teams": 1,
-          "percentile": 39.44
+          "percentile": 39.42
         },
         {
           "score": 62,
           "teams": 174,
-          "percentile": 39.17
+          "percentile": 39.16
         },
         {
           "score": 61.89,
           "teams": 1,
-          "percentile": 38.9
+          "percentile": 38.89
         },
         {
           "score": 61.6,
           "teams": 1,
-          "percentile": 38.9
+          "percentile": 38.88
         },
         {
           "score": 61.5,
           "teams": 90,
-          "percentile": 38.76
+          "percentile": 38.75
         },
         {
           "score": 61.3,
           "teams": 1,
-          "percentile": 38.63
+          "percentile": 38.61
         },
         {
           "score": 61,
           "teams": 196,
-          "percentile": 38.32
+          "percentile": 38.31
         },
         {
           "score": 60.6,
           "teams": 2,
-          "percentile": 38.02
+          "percentile": 38
         },
         {
           "score": 60.5,
           "teams": 97,
-          "percentile": 37.86
+          "percentile": 37.85
         },
         {
           "score": 60.4,
           "teams": 2,
-          "percentile": 37.71
+          "percentile": 37.7
         },
         {
           "score": 60,
           "teams": 192,
-          "percentile": 37.41
+          "percentile": 37.39
         },
         {
           "score": 59.5,
           "teams": 82,
-          "percentile": 36.99
+          "percentile": 36.97
         },
         {
           "score": 59.16,
           "teams": 1,
-          "percentile": 36.87
+          "percentile": 36.86
         },
         {
           "score": 59.1,
           "teams": 1,
-          "percentile": 36.87
+          "percentile": 36.85
         },
         {
           "score": 59,
           "teams": 188,
-          "percentile": 36.59
+          "percentile": 36.58
         },
         {
           "score": 58.8,
           "teams": 1,
-          "percentile": 36.32
+          "percentile": 36.3
         },
         {
           "score": 58.75,
           "teams": 1,
-          "percentile": 36.31
+          "percentile": 36.3
         },
         {
           "score": 58.6,
           "teams": 1,
-          "percentile": 36.31
+          "percentile": 36.3
         },
         {
           "score": 58.5,
           "teams": 93,
-          "percentile": 36.17
+          "percentile": 36.15
         },
         {
           "score": 58.1,
           "teams": 1,
-          "percentile": 36.02
+          "percentile": 36.01
         },
         {
           "score": 58,
           "teams": 180,
-          "percentile": 35.74
+          "percentile": 35.73
         },
         {
           "score": 57.5,
           "teams": 85,
-          "percentile": 35.33
+          "percentile": 35.32
         },
         {
           "score": 57,
           "teams": 198,
-          "percentile": 34.9
+          "percentile": 34.89
         },
         {
           "score": 56.67,
           "teams": 1,
-          "percentile": 34.6
+          "percentile": 34.59
         },
         {
           "score": 56.5,
           "teams": 98,
-          "percentile": 34.46
+          "percentile": 34.44
         },
         {
           "score": 56.4,
           "teams": 1,
-          "percentile": 34.31
+          "percentile": 34.3
         },
         {
           "score": 56.3,
           "teams": 1,
-          "percentile": 34.31
+          "percentile": 34.3
         },
         {
           "score": 56,
           "teams": 184,
-          "percentile": 34.02
+          "percentile": 34.01
         },
         {
           "score": 55.77,
           "teams": 1,
-          "percentile": 33.74
+          "percentile": 33.73
         },
         {
           "score": 55.5,
           "teams": 71,
-          "percentile": 33.63
+          "percentile": 33.62
         },
         {
           "score": 55.45,
           "teams": 1,
-          "percentile": 33.53
+          "percentile": 33.52
         },
         {
           "score": 55.3,
           "teams": 1,
-          "percentile": 33.52
+          "percentile": 33.51
         },
         {
           "score": 55,
           "teams": 164,
-          "percentile": 33.27
+          "percentile": 33.26
         },
         {
           "score": 54.5,
           "teams": 81,
-          "percentile": 32.89
+          "percentile": 32.88
         },
         {
           "score": 54,
-          "teams": 167,
-          "percentile": 32.52
+          "teams": 168,
+          "percentile": 32.51
         },
         {
           "score": 53.67,
           "teams": 1,
-          "percentile": 32.28
+          "percentile": 32.26
         },
         {
           "score": 53.5,
           "teams": 73,
-          "percentile": 32.17
+          "percentile": 32.15
         },
         {
           "score": 53,
           "teams": 163,
-          "percentile": 31.8
+          "percentile": 31.79
         },
         {
           "score": 52.5,
           "teams": 66,
-          "percentile": 31.44
+          "percentile": 31.43
         },
         {
           "score": 52,
           "teams": 175,
-          "percentile": 31.07
+          "percentile": 31.05
         },
         {
           "score": 51.7,
           "teams": 1,
-          "percentile": 30.79
+          "percentile": 30.78
         },
         {
           "score": 51.5,
           "teams": 74,
-          "percentile": 30.68
+          "percentile": 30.67
         },
         {
           "score": 51,
           "teams": 169,
-          "percentile": 30.32
+          "percentile": 30.31
         },
         {
           "score": 50.7,
           "teams": 1,
-          "percentile": 30.07
+          "percentile": 30.06
         },
         {
           "score": 50.63,
           "teams": 1,
-          "percentile": 30.07
+          "percentile": 30.05
         },
         {
           "score": 50.6,
           "teams": 1,
-          "percentile": 30.06
+          "percentile": 30.05
         },
         {
           "score": 50.5,
           "teams": 82,
-          "percentile": 29.94
+          "percentile": 29.93
         },
         {
           "score": 50.3,
           "teams": 2,
-          "percentile": 29.82
+          "percentile": 29.81
         },
         {
           "score": 50,
           "teams": 190,
-          "percentile": 29.54
+          "percentile": 29.52
         },
         {
           "score": 49.8,
           "teams": 2,
-          "percentile": 29.25
+          "percentile": 29.24
         },
         {
           "score": 49.6,
           "teams": 2,
-          "percentile": 29.25
+          "percentile": 29.24
         },
         {
           "score": 49.5,
           "teams": 74,
-          "percentile": 29.13
+          "percentile": 29.12
         },
         {
           "score": 49,
           "teams": 168,
-          "percentile": 28.76
+          "percentile": 28.75
         },
         {
           "score": 48.5,
           "teams": 71,
-          "percentile": 28.4
+          "percentile": 28.38
         },
         {
           "score": 48,
           "teams": 146,
-          "percentile": 28.07
+          "percentile": 28.06
         },
         {
           "score": 47.6,
           "teams": 2,
-          "percentile": 27.84
+          "percentile": 27.83
         },
         {
           "score": 47.5,
           "teams": 68,
-          "percentile": 27.74
+          "percentile": 27.73
         },
         {
           "score": 47.35,
           "teams": 1,
-          "percentile": 27.63
+          "percentile": 27.62
         },
         {
           "score": 47,
           "teams": 154,
-          "percentile": 27.4
+          "percentile": 27.39
         },
         {
           "score": 46.67,
           "teams": 1,
-          "percentile": 27.16
+          "percentile": 27.15
         },
         {
           "score": 46.5,
           "teams": 77,
-          "percentile": 27.05
+          "percentile": 27.04
         },
         {
           "score": 46,
           "teams": 148,
-          "percentile": 26.72
+          "percentile": 26.71
         },
         {
           "score": 45.6,
           "teams": 1,
-          "percentile": 26.49
+          "percentile": 26.48
         },
         {
           "score": 45.5,
           "teams": 58,
-          "percentile": 26.4
+          "percentile": 26.39
         },
         {
           "score": 45.49,
           "teams": 1,
-          "percentile": 26.31
+          "percentile": 26.3
         },
         {
           "score": 45,
           "teams": 167,
-          "percentile": 26.05
+          "percentile": 26.04
         },
         {
           "score": 44.8,
           "teams": 1,
-          "percentile": 25.79
+          "percentile": 25.78
         },
         {
           "score": 44.7,
           "teams": 1,
-          "percentile": 25.79
+          "percentile": 25.78
         },
         {
           "score": 44.67,
           "teams": 1,
-          "percentile": 25.79
+          "percentile": 25.78
         },
         {
           "score": 44.5,
           "teams": 66,
-          "percentile": 25.69
+          "percentile": 25.68
         },
         {
           "score": 44.4,
           "teams": 2,
-          "percentile": 25.6
+          "percentile": 25.59
         },
         {
           "score": 44,
           "teams": 151,
-          "percentile": 25.37
+          "percentile": 25.36
         },
         {
           "score": 43.67,
           "teams": 1,
-          "percentile": 25.14
+          "percentile": 25.13
         },
         {
           "score": 43.5,
           "teams": 56,
-          "percentile": 25.06
+          "percentile": 25.05
         },
         {
           "score": 43.3,
           "teams": 1,
-          "percentile": 24.97
+          "percentile": 24.96
         },
         {
           "score": 43,
@@ -4054,22 +4069,22 @@
         {
           "score": 42.76,
           "teams": 1,
-          "percentile": 24.48
+          "percentile": 24.47
         },
         {
           "score": 42.75,
           "teams": 1,
-          "percentile": 24.47
+          "percentile": 24.46
         },
         {
           "score": 42.5,
           "teams": 60,
-          "percentile": 24.38
+          "percentile": 24.37
         },
         {
           "score": 42.25,
           "teams": 1,
-          "percentile": 24.29
+          "percentile": 24.28
         },
         {
           "score": 42,
@@ -4079,57 +4094,57 @@
         {
           "score": 41.5,
           "teams": 78,
-          "percentile": 23.72
+          "percentile": 23.71
         },
         {
           "score": 41,
-          "teams": 158,
-          "percentile": 23.36
+          "teams": 159,
+          "percentile": 23.35
         },
         {
           "score": 40.67,
           "teams": 1,
-          "percentile": 23.11
+          "percentile": 23.1
         },
         {
           "score": 40.5,
           "teams": 59,
-          "percentile": 23.02
+          "percentile": 23.01
         },
         {
           "score": 40.03,
           "teams": 1,
-          "percentile": 22.93
+          "percentile": 22.92
         },
         {
           "score": 40,
           "teams": 170,
-          "percentile": 22.67
+          "percentile": 22.66
         },
         {
           "score": 39.8,
           "teams": 1,
-          "percentile": 22.4
+          "percentile": 22.39
         },
         {
           "score": 39.5,
           "teams": 68,
-          "percentile": 22.3
+          "percentile": 22.29
         },
         {
           "score": 39,
           "teams": 184,
-          "percentile": 21.92
+          "percentile": 21.91
         },
         {
           "score": 38.5,
           "teams": 69,
-          "percentile": 21.54
+          "percentile": 21.53
         },
         {
           "score": 38.4,
           "teams": 1,
-          "percentile": 21.43
+          "percentile": 21.42
         },
         {
           "score": 38.3,
@@ -4139,47 +4154,47 @@
         {
           "score": 38,
           "teams": 168,
-          "percentile": 21.17
+          "percentile": 21.16
         },
         {
           "score": 37.5,
           "teams": 68,
-          "percentile": 20.82
+          "percentile": 20.81
         },
         {
           "score": 37,
           "teams": 146,
-          "percentile": 20.51
+          "percentile": 20.5
         },
         {
           "score": 36.5,
           "teams": 53,
-          "percentile": 20.21
+          "percentile": 20.2
         },
         {
           "score": 36.3,
           "teams": 1,
-          "percentile": 20.13
+          "percentile": 20.12
         },
         {
           "score": 36,
           "teams": 130,
-          "percentile": 19.94
+          "percentile": 19.93
         },
         {
           "score": 35.6,
           "teams": 1,
-          "percentile": 19.74
+          "percentile": 19.73
         },
         {
           "score": 35.5,
           "teams": 59,
-          "percentile": 19.66
+          "percentile": 19.65
         },
         {
           "score": 35.3,
           "teams": 2,
-          "percentile": 19.57
+          "percentile": 19.56
         },
         {
           "score": 35,
@@ -4189,12 +4204,12 @@
         {
           "score": 34.5,
           "teams": 64,
-          "percentile": 18.91
+          "percentile": 18.9
         },
         {
           "score": 34.2,
           "teams": 1,
-          "percentile": 18.82
+          "percentile": 18.81
         },
         {
           "score": 34,
@@ -4209,17 +4224,17 @@
         {
           "score": 33.3,
           "teams": 1,
-          "percentile": 18.29
+          "percentile": 18.28
         },
         {
           "score": 33.2,
           "teams": 1,
-          "percentile": 18.29
+          "percentile": 18.28
         },
         {
           "score": 33,
           "teams": 153,
-          "percentile": 18.06
+          "percentile": 18.05
         },
         {
           "score": 32.5,
@@ -4229,77 +4244,77 @@
         {
           "score": 32.1,
           "teams": 1,
-          "percentile": 17.66
+          "percentile": 17.65
         },
         {
           "score": 32,
-          "teams": 134,
-          "percentile": 17.47
+          "teams": 135,
+          "percentile": 17.46
         },
         {
           "score": 31.9,
           "teams": 1,
-          "percentile": 17.27
+          "percentile": 17.26
         },
         {
           "score": 31.8,
           "teams": 1,
-          "percentile": 17.27
+          "percentile": 17.26
         },
         {
           "score": 31.5,
           "teams": 67,
-          "percentile": 17.17
+          "percentile": 17.16
         },
         {
           "score": 31,
           "teams": 159,
-          "percentile": 16.83
+          "percentile": 16.82
         },
         {
           "score": 30.5,
           "teams": 72,
-          "percentile": 16.49
+          "percentile": 16.48
         },
         {
           "score": 30.3,
           "teams": 1,
-          "percentile": 16.38
+          "percentile": 16.37
         },
         {
           "score": 30.1,
           "teams": 1,
-          "percentile": 16.38
+          "percentile": 16.37
         },
         {
           "score": 30,
           "teams": 156,
-          "percentile": 16.14
+          "percentile": 16.13
         },
         {
           "score": 29.5,
           "teams": 58,
-          "percentile": 15.81
+          "percentile": 15.8
         },
         {
           "score": 29.3,
           "teams": 1,
-          "percentile": 15.71
+          "percentile": 15.7
         },
         {
           "score": 29,
           "teams": 158,
-          "percentile": 15.45
+          "percentile": 15.44
         },
         {
           "score": 28.9,
           "teams": 1,
-          "percentile": 15.19
+          "percentile": 15.18
         },
         {
           "score": 28.65,
           "teams": 1,
-          "percentile": 15.19
+          "percentile": 15.18
         },
         {
           "score": 28.5,
@@ -4309,42 +4324,42 @@
         {
           "score": 28.2,
           "teams": 1,
-          "percentile": 15.04
+          "percentile": 15.03
         },
         {
           "score": 28,
           "teams": 150,
-          "percentile": 14.82
+          "percentile": 14.81
         },
         {
           "score": 27.8,
           "teams": 1,
-          "percentile": 14.6
+          "percentile": 14.59
         },
         {
           "score": 27.5,
           "teams": 68,
-          "percentile": 14.5
+          "percentile": 14.49
         },
         {
           "score": 27,
           "teams": 141,
-          "percentile": 14.19
+          "percentile": 14.18
         },
         {
           "score": 26.5,
           "teams": 50,
-          "percentile": 13.91
+          "percentile": 13.9
         },
         {
           "score": 26.4,
           "teams": 1,
-          "percentile": 13.83
+          "percentile": 13.82
         },
         {
           "score": 26,
           "teams": 119,
-          "percentile": 13.65
+          "percentile": 13.64
         },
         {
           "score": 25.6,
@@ -4364,12 +4379,12 @@
         {
           "score": 25.3,
           "teams": 1,
-          "percentile": 13.3
+          "percentile": 13.29
         },
         {
           "score": 25,
           "teams": 143,
-          "percentile": 13.08
+          "percentile": 13.07
         },
         {
           "score": 24.9,
@@ -4379,12 +4394,12 @@
         {
           "score": 24.5,
           "teams": 49,
-          "percentile": 12.78
+          "percentile": 12.77
         },
         {
           "score": 24,
           "teams": 110,
-          "percentile": 12.54
+          "percentile": 12.53
         },
         {
           "score": 23.5,
@@ -4394,12 +4409,12 @@
         {
           "score": 23.34,
           "teams": 1,
-          "percentile": 12.25
+          "percentile": 12.24
         },
         {
           "score": 23.3,
           "teams": 1,
-          "percentile": 12.25
+          "percentile": 12.24
         },
         {
           "score": 23,
@@ -4414,12 +4429,12 @@
         {
           "score": 22,
           "teams": 113,
-          "percentile": 11.74
+          "percentile": 11.73
         },
         {
           "score": 21.5,
           "teams": 35,
-          "percentile": 11.52
+          "percentile": 11.51
         },
         {
           "score": 21,
@@ -4434,22 +4449,22 @@
         {
           "score": 20.5,
           "teams": 28,
-          "percentile": 11.08
+          "percentile": 11.07
         },
         {
           "score": 20,
           "teams": 114,
-          "percentile": 10.87
+          "percentile": 10.86
         },
         {
           "score": 19.5,
           "teams": 43,
-          "percentile": 10.64
+          "percentile": 10.63
         },
         {
           "score": 19,
           "teams": 85,
-          "percentile": 10.45
+          "percentile": 10.44
         },
         {
           "score": 18.5,
@@ -4459,22 +4474,22 @@
         {
           "score": 18,
           "teams": 84,
-          "percentile": 10.11
+          "percentile": 10.1
         },
         {
           "score": 17.5,
           "teams": 20,
-          "percentile": 9.96
+          "percentile": 9.95
         },
         {
           "score": 17,
           "teams": 56,
-          "percentile": 9.85
+          "percentile": 9.84
         },
         {
           "score": 16.5,
           "teams": 19,
-          "percentile": 9.74
+          "percentile": 9.73
         },
         {
           "score": 16,
@@ -4494,47 +4509,47 @@
         {
           "score": 15.2,
           "teams": 1,
-          "percentile": 9.47
+          "percentile": 9.46
         },
         {
           "score": 15,
-          "teams": 60,
-          "percentile": 9.38
+          "teams": 61,
+          "percentile": 9.37
         },
         {
           "score": 14.5,
           "teams": 18,
-          "percentile": 9.26
+          "percentile": 9.25
         },
         {
           "score": 14,
           "teams": 37,
-          "percentile": 9.18
+          "percentile": 9.17
         },
         {
           "score": 13.5,
           "teams": 10,
-          "percentile": 9.11
+          "percentile": 9.1
         },
         {
           "score": 13,
           "teams": 38,
-          "percentile": 9.04
+          "percentile": 9.03
         },
         {
           "score": 12.5,
           "teams": 5,
-          "percentile": 8.98
+          "percentile": 8.97
         },
         {
           "score": 12,
           "teams": 34,
-          "percentile": 8.92
+          "percentile": 8.91
         },
         {
           "score": 11.5,
           "teams": 8,
-          "percentile": 8.86
+          "percentile": 8.85
         },
         {
           "score": 11,
@@ -4544,7 +4559,7 @@
         {
           "score": 10.5,
           "teams": 17,
-          "percentile": 8.72
+          "percentile": 8.71
         },
         {
           "score": 10,
@@ -4554,22 +4569,22 @@
         {
           "score": 9.5,
           "teams": 15,
-          "percentile": 8.57
+          "percentile": 8.56
         },
         {
           "score": 9,
           "teams": 33,
-          "percentile": 8.49
+          "percentile": 8.48
         },
         {
           "score": 8.5,
           "teams": 6,
-          "percentile": 8.43
+          "percentile": 8.42
         },
         {
           "score": 8,
           "teams": 17,
-          "percentile": 8.4
+          "percentile": 8.39
         },
         {
           "score": 7.5,
@@ -4594,17 +4609,17 @@
         {
           "score": 5,
           "teams": 16,
-          "percentile": 8.28
+          "percentile": 8.27
         },
         {
           "score": 4.5,
           "teams": 1,
-          "percentile": 8.26
+          "percentile": 8.25
         },
         {
           "score": 4,
           "teams": 5,
-          "percentile": 8.25
+          "percentile": 8.24
         },
         {
           "score": 3.5,
@@ -4614,22 +4629,22 @@
         {
           "score": 3,
           "teams": 4,
-          "percentile": 8.23
+          "percentile": 8.22
         },
         {
           "score": 2.5,
           "teams": 3,
-          "percentile": 8.22
+          "percentile": 8.21
         },
         {
           "score": 2,
           "teams": 4,
-          "percentile": 8.21
+          "percentile": 8.2
         },
         {
           "score": 1.5,
           "teams": 1,
-          "percentile": 8.2
+          "percentile": 8.19
         },
         {
           "score": 1,
@@ -4639,7 +4654,7 @@
         {
           "score": 0,
           "teams": 1956,
-          "percentile": 4.1
+          "percentile": 4.09
         }
       ]
     },
@@ -5240,7 +5255,7 @@
         },
         {
           "score": 39,
-          "teams": 196,
+          "teams": 197,
           "percentile": 98.56
         },
         {
@@ -5255,7 +5270,7 @@
         },
         {
           "score": 36,
-          "teams": 293,
+          "teams": 294,
           "percentile": 97.33
         },
         {
@@ -5280,7 +5295,7 @@
         },
         {
           "score": 31,
-          "teams": 532,
+          "teams": 533,
           "percentile": 94.18
         },
         {
@@ -5295,8 +5310,8 @@
         },
         {
           "score": 28,
-          "teams": 641,
-          "percentile": 88.61
+          "teams": 642,
+          "percentile": 88.6
         },
         {
           "score": 27,
@@ -5310,12 +5325,12 @@
         },
         {
           "score": 25,
-          "teams": 874,
+          "teams": 875,
           "percentile": 81.76
         },
         {
           "score": 24,
-          "teams": 1388,
+          "teams": 1389,
           "percentile": 79.66
         },
         {
@@ -5325,22 +5340,22 @@
         },
         {
           "score": 22,
-          "teams": 2462,
+          "teams": 2463,
           "percentile": 74.47
         },
         {
           "score": 21,
           "teams": 1601,
-          "percentile": 70.61
+          "percentile": 70.6
         },
         {
           "score": 20,
           "teams": 2707,
-          "percentile": 66.26
+          "percentile": 66.25
         },
         {
           "score": 19,
-          "teams": 3293,
+          "teams": 3294,
           "percentile": 59.77
         },
         {
@@ -5360,7 +5375,7 @@
         },
         {
           "score": 15,
-          "teams": 1937,
+          "teams": 1939,
           "percentile": 41.29
         },
         {
@@ -5370,27 +5385,27 @@
         },
         {
           "score": 13,
-          "teams": 1360,
+          "teams": 1362,
           "percentile": 35.13
         },
         {
           "score": 12,
-          "teams": 4126,
+          "teams": 4127,
           "percentile": 30.54
         },
         {
           "score": 11,
-          "teams": 1621,
+          "teams": 1622,
           "percentile": 25.73
         },
         {
           "score": 10,
-          "teams": 3329,
+          "teams": 3330,
           "percentile": 21.79
         },
         {
           "score": 9,
-          "teams": 2711,
+          "teams": 2712,
           "percentile": 16.92
         },
         {
@@ -20154,7 +20169,7 @@
         {
           "score": 40,
           "teams": 288,
-          "percentile": 91.8
+          "percentile": 91.81
         },
         {
           "score": 39,
@@ -20174,7 +20189,7 @@
         {
           "score": 36,
           "teams": 541,
-          "percentile": 86.23
+          "percentile": 86.24
         },
         {
           "score": 35,
@@ -20184,11 +20199,11 @@
         {
           "score": 34,
           "teams": 711,
-          "percentile": 83.1
+          "percentile": 83.11
         },
         {
           "score": 33,
-          "teams": 801,
+          "teams": 802,
           "percentile": 80.65
         },
         {
@@ -20204,7 +20219,7 @@
         {
           "score": 30,
           "teams": 469,
-          "percentile": 74.37
+          "percentile": 74.36
         },
         {
           "score": 29,
@@ -20223,7 +20238,7 @@
         },
         {
           "score": 26,
-          "teams": 811,
+          "teams": 812,
           "percentile": 62.69
         },
         {
@@ -20233,18 +20248,18 @@
         },
         {
           "score": 24,
-          "teams": 2498,
+          "teams": 2500,
           "percentile": 55.58
         },
         {
           "score": 23,
           "teams": 557,
-          "percentile": 49.92
+          "percentile": 49.91
         },
         {
           "score": 22,
           "teams": 455,
-          "percentile": 48.63
+          "percentile": 48.62
         },
         {
           "score": 21,
@@ -20284,7 +20299,7 @@
         {
           "score": 14,
           "teams": 1030,
-          "percentile": 39.17
+          "percentile": 39.16
         },
         {
           "score": 12,
@@ -20298,23 +20313,23 @@
         },
         {
           "score": 10,
-          "teams": 2434,
+          "teams": 2435,
           "percentile": 32.89
         },
         {
           "score": 9,
           "teams": 8,
-          "percentile": 28.03
+          "percentile": 28.02
         },
         {
           "score": 8,
           "teams": 2,
-          "percentile": 28.02
+          "percentile": 28.01
         },
         {
           "score": 7,
           "teams": 1223,
-          "percentile": 26.31
+          "percentile": 26.3
         },
         {
           "score": 6,
@@ -20329,7 +20344,7 @@
         {
           "score": 4,
           "teams": 425,
-          "percentile": 20.17
+          "percentile": 20.16
         },
         {
           "score": 3,
@@ -21920,7 +21935,7 @@
         {
           "score": 53,
           "teams": 392,
-          "percentile": 97.69
+          "percentile": 97.68
         },
         {
           "score": 52,
@@ -21934,13 +21949,13 @@
         },
         {
           "score": 50,
-          "teams": 298,
+          "teams": 299,
           "percentile": 96.35
         },
         {
           "score": 49,
           "teams": 612,
-          "percentile": 95.7
+          "percentile": 95.69
         },
         {
           "score": 48,
@@ -21955,11 +21970,11 @@
         {
           "score": 46,
           "teams": 434,
-          "percentile": 93.61
+          "percentile": 93.6
         },
         {
           "score": 45,
-          "teams": 893,
+          "teams": 894,
           "percentile": 92.68
         },
         {
@@ -21970,7 +21985,7 @@
         {
           "score": 43,
           "teams": 963,
-          "percentile": 90.61
+          "percentile": 90.6
         },
         {
           "score": 42,
@@ -21979,43 +21994,43 @@
         },
         {
           "score": 41,
-          "teams": 1074,
+          "teams": 1075,
           "percentile": 88.07
         },
         {
           "score": 40,
           "teams": 969,
-          "percentile": 86.7
+          "percentile": 86.69
         },
         {
           "score": 39,
           "teams": 988,
-          "percentile": 85.41
+          "percentile": 85.4
         },
         {
           "score": 38,
-          "teams": 1048,
-          "percentile": 84.06
+          "teams": 1049,
+          "percentile": 84.05
         },
         {
           "score": 37,
-          "teams": 1465,
-          "percentile": 82.31
+          "teams": 1466,
+          "percentile": 82.3
         },
         {
           "score": 36,
           "teams": 1501,
-          "percentile": 80.2
+          "percentile": 80.19
         },
         {
           "score": 35,
           "teams": 1455,
-          "percentile": 78.16
+          "percentile": 78.15
         },
         {
           "score": 34,
           "teams": 1138,
-          "percentile": 76.47
+          "percentile": 76.46
         },
         {
           "score": 33,
@@ -22025,32 +22040,32 @@
         {
           "score": 32,
           "teams": 1714,
-          "percentile": 72.69
+          "percentile": 72.68
         },
         {
           "score": 31,
           "teams": 1546,
-          "percentile": 70.54
+          "percentile": 70.53
         },
         {
           "score": 30,
           "teams": 2244,
-          "percentile": 67.96
+          "percentile": 67.95
         },
         {
           "score": 29,
-          "teams": 2060,
-          "percentile": 64.98
+          "teams": 2061,
+          "percentile": 64.97
         },
         {
           "score": 28,
           "teams": 1795,
-          "percentile": 62.4
+          "percentile": 62.39
         },
         {
           "score": 27,
           "teams": 1458,
-          "percentile": 60.31
+          "percentile": 60.3
         },
         {
           "score": 26,
@@ -22065,7 +22080,7 @@
         {
           "score": 24,
           "teams": 2877,
-          "percentile": 52.49
+          "percentile": 52.48
         },
         {
           "score": 23,
@@ -22075,7 +22090,7 @@
         {
           "score": 22,
           "teams": 1638,
-          "percentile": 46.8
+          "percentile": 46.79
         },
         {
           "score": 21,
@@ -22135,7 +22150,7 @@
         {
           "score": 10,
           "teams": 1310,
-          "percentile": 16.71
+          "percentile": 16.7
         },
         {
           "score": 9,
@@ -22301,7 +22316,7 @@
         {
           "score": 54,
           "teams": 14,
-          "percentile": 94.18
+          "percentile": 94.19
         },
         {
           "score": 53,
@@ -22341,12 +22356,12 @@
         {
           "score": 46,
           "teams": 52,
-          "percentile": 88.15
+          "percentile": 88.16
         },
         {
           "score": 45,
           "teams": 359,
-          "percentile": 86.14
+          "percentile": 86.15
         },
         {
           "score": 44,
@@ -22361,7 +22376,7 @@
         {
           "score": 42,
           "teams": 60,
-          "percentile": 81.9
+          "percentile": 81.91
         },
         {
           "score": 41,
@@ -22396,7 +22411,7 @@
         {
           "score": 35,
           "teams": 448,
-          "percentile": 69.15
+          "percentile": 69.16
         },
         {
           "score": 34,
@@ -22406,27 +22421,27 @@
         {
           "score": 33,
           "teams": 256,
-          "percentile": 65.02
+          "percentile": 65.03
         },
         {
           "score": 32,
           "teams": 261,
-          "percentile": 62.83
+          "percentile": 62.84
         },
         {
           "score": 31,
           "teams": 178,
-          "percentile": 60.99
+          "percentile": 61
         },
         {
           "score": 30,
           "teams": 418,
-          "percentile": 58.33
+          "percentile": 58.34
         },
         {
           "score": 29,
           "teams": 227,
-          "percentile": 55.47
+          "percentile": 55.48
         },
         {
           "score": 28,
@@ -22436,7 +22451,7 @@
         {
           "score": 27,
           "teams": 157,
-          "percentile": 51.34
+          "percentile": 51.35
         },
         {
           "score": 26,
@@ -22445,7 +22460,7 @@
         },
         {
           "score": 25,
-          "teams": 466,
+          "teams": 467,
           "percentile": 47.19
         },
         {
@@ -22470,8 +22485,8 @@
         },
         {
           "score": 20,
-          "teams": 533,
-          "percentile": 35.46
+          "teams": 534,
+          "percentile": 35.45
         },
         {
           "score": 19,
@@ -22481,12 +22496,12 @@
         {
           "score": 18,
           "teams": 242,
-          "percentile": 30.43
+          "percentile": 30.42
         },
         {
           "score": 17,
           "teams": 136,
-          "percentile": 28.93
+          "percentile": 28.92
         },
         {
           "score": 16,
@@ -22501,7 +22516,7 @@
         {
           "score": 14,
           "teams": 203,
-          "percentile": 21.13
+          "percentile": 21.12
         },
         {
           "score": 13,
@@ -22516,7 +22531,7 @@
         {
           "score": 11,
           "teams": 165,
-          "percentile": 16.58
+          "percentile": 16.57
         },
         {
           "score": 10,
