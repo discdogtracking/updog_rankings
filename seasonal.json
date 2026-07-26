@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T16:39:38.573Z",
+  "lastUpdated": "2026-07-26T20:39:38.274Z",
   "data": {
     "level1": {
       "boom_level_one_average": [
@@ -4280,24 +4280,17 @@
         },
         {
           "rank": 10,
-          "teamid": "T14050201",
-          "teamname": "Shining Stars",
-          "avgscore": 43.6,
-          "rounds": 5
-        },
-        {
-          "rank": 10,
           "teamid": "T25212230",
           "teamname": "Daniel and Theory",
           "avgscore": 43.6,
           "rounds": 5
         },
         {
-          "rank": 12,
-          "teamid": "T8623183",
-          "teamname": "High Flyin' Hoopla",
-          "avgscore": 43,
-          "rounds": 2
+          "rank": 10,
+          "teamid": "T14050201",
+          "teamname": "Shining Stars",
+          "avgscore": 43.6,
+          "rounds": 5
         },
         {
           "rank": 12,
@@ -4305,6 +4298,13 @@
           "teamname": "Sam Mo and Pico",
           "avgscore": 43,
           "rounds": 1
+        },
+        {
+          "rank": 12,
+          "teamid": "T8623183",
+          "teamname": "High Flyin' Hoopla",
+          "avgscore": 43,
+          "rounds": 2
         },
         {
           "rank": 14,
@@ -4343,10 +4343,10 @@
         },
         {
           "rank": 19,
-          "teamid": "T21701226",
-          "teamname": "Pyromaniacs",
+          "teamid": "T15682209",
+          "teamname": "Illusion Confusion 👻",
           "avgscore": 40.3333,
-          "rounds": 6
+          "rounds": 3
         },
         {
           "rank": 19,
@@ -4357,17 +4357,17 @@
         },
         {
           "rank": 19,
-          "teamid": "T15682209",
-          "teamname": "Illusion Confusion 👻",
+          "teamid": "T21701226",
+          "teamname": "Pyromaniacs",
           "avgscore": 40.3333,
-          "rounds": 3
+          "rounds": 6
         },
         {
           "rank": 22,
-          "teamid": "T11294195",
-          "teamname": "A Little Extra",
+          "teamid": "T19764210",
+          "teamname": "Shawn Bellingham and Hexadecimal",
           "avgscore": 40,
-          "rounds": 1
+          "rounds": 3
         },
         {
           "rank": 22,
@@ -4378,17 +4378,17 @@
         },
         {
           "rank": 22,
+          "teamid": "T11294195",
+          "teamname": "A Little Extra",
+          "avgscore": 40,
+          "rounds": 1
+        },
+        {
+          "rank": 22,
           "teamid": "T8938182",
           "teamname": "Chompy Otter",
           "avgscore": 40,
           "rounds": 4
-        },
-        {
-          "rank": 22,
-          "teamid": "T19764210",
-          "teamname": "Shawn Bellingham and Hexadecimal",
-          "avgscore": 40,
-          "rounds": 3
         },
         {
           "rank": 22,
@@ -4420,15 +4420,15 @@
         },
         {
           "rank": 30,
-          "teamid": "T13661209",
-          "teamname": "Jordan Thompson and Newt",
+          "teamid": "T41603265",
+          "teamname": "Sam Mo and Ghost",
           "avgscore": 39,
           "rounds": 1
         },
         {
           "rank": 30,
-          "teamid": "T41603265",
-          "teamname": "Sam Mo and Ghost",
+          "teamid": "T13661209",
+          "teamname": "Jordan Thompson and Newt",
           "avgscore": 39,
           "rounds": 1
         },
@@ -4448,17 +4448,17 @@
         },
         {
           "rank": 34,
-          "teamid": "T25692231",
-          "teamname": "Emika’s Blessing",
-          "avgscore": 38.5,
-          "rounds": 4
-        },
-        {
-          "rank": 34,
           "teamid": "T9607196",
           "teamname": "The Legend of Billie Jean 🇺🇸",
           "avgscore": 38.5,
           "rounds": 6
+        },
+        {
+          "rank": 34,
+          "teamid": "T25692231",
+          "teamname": "Emika’s Blessing",
+          "avgscore": 38.5,
+          "rounds": 4
         },
         {
           "rank": 36,
@@ -4497,20 +4497,6 @@
         },
         {
           "rank": 41,
-          "teamid": "T31770241",
-          "teamname": "The Flying Mango",
-          "avgscore": 38,
-          "rounds": 2
-        },
-        {
-          "rank": 41,
-          "teamid": "T22785224",
-          "teamname": "Fiddle Sticks",
-          "avgscore": 38,
-          "rounds": 4
-        },
-        {
-          "rank": 41,
           "teamid": "T21697224",
           "teamname": "Cream Filled!",
           "avgscore": 38,
@@ -4522,6 +4508,20 @@
           "teamname": "The Blue Blur",
           "avgscore": 38,
           "rounds": 1
+        },
+        {
+          "rank": 41,
+          "teamid": "T22785224",
+          "teamname": "Fiddle Sticks",
+          "avgscore": 38,
+          "rounds": 4
+        },
+        {
+          "rank": 41,
+          "teamid": "T31770241",
+          "teamname": "The Flying Mango",
+          "avgscore": 38,
+          "rounds": 2
         },
         {
           "rank": 45,
@@ -4546,17 +4546,17 @@
         },
         {
           "rank": 48,
-          "teamid": "T24324224",
-          "teamname": "Bear Down",
-          "avgscore": 37.6667,
-          "rounds": 3
-        },
-        {
-          "rank": 48,
           "teamid": "T28229236",
           "teamname": "#flamingoals",
           "avgscore": 37.6667,
           "rounds": 6
+        },
+        {
+          "rank": 48,
+          "teamid": "T24324224",
+          "teamname": "Bear Down",
+          "avgscore": 37.6667,
+          "rounds": 3
         },
         {
           "rank": 50,
@@ -4595,34 +4595,6 @@
         },
         {
           "rank": 55,
-          "teamid": "T16620216",
-          "teamname": "Team Dennis and Disc Jockey",
-          "avgscore": 37,
-          "rounds": 3
-        },
-        {
-          "rank": 55,
-          "teamid": "T35678250",
-          "teamname": "Lyle and James Tang",
-          "avgscore": 37,
-          "rounds": 1
-        },
-        {
-          "rank": 55,
-          "teamid": "T37814253",
-          "teamname": "Hyper Hypo",
-          "avgscore": 37,
-          "rounds": 1
-        },
-        {
-          "rank": 55,
-          "teamid": "T36780257",
-          "teamname": "Lovely Dovely",
-          "avgscore": 37,
-          "rounds": 1
-        },
-        {
-          "rank": 55,
           "teamid": "T37752255",
           "teamname": "Jodi and Ghost",
           "avgscore": 37,
@@ -4636,6 +4608,34 @@
           "rounds": 1
         },
         {
+          "rank": 55,
+          "teamid": "T36780257",
+          "teamname": "Lovely Dovely",
+          "avgscore": 37,
+          "rounds": 1
+        },
+        {
+          "rank": 55,
+          "teamid": "T37814253",
+          "teamname": "Hyper Hypo",
+          "avgscore": 37,
+          "rounds": 1
+        },
+        {
+          "rank": 55,
+          "teamid": "T35678250",
+          "teamname": "Lyle and James Tang",
+          "avgscore": 37,
+          "rounds": 1
+        },
+        {
+          "rank": 55,
+          "teamid": "T16620216",
+          "teamname": "Team Dennis and Disc Jockey",
+          "avgscore": 37,
+          "rounds": 3
+        },
+        {
           "rank": 61,
           "teamid": "T39172257",
           "teamname": "Teardrops On My Jump Tunnel Jump",
@@ -4644,10 +4644,10 @@
         },
         {
           "rank": 62,
-          "teamid": "T13353209",
-          "teamname": "Blake and Surfy Turfy",
+          "teamid": "T31979248",
+          "teamname": "Hot leaf juice!",
           "avgscore": 36.5,
-          "rounds": 4
+          "rounds": 2
         },
         {
           "rank": 62,
@@ -4658,10 +4658,10 @@
         },
         {
           "rank": 62,
-          "teamid": "T31979248",
-          "teamname": "Hot leaf juice!",
+          "teamid": "T13353209",
+          "teamname": "Blake and Surfy Turfy",
           "avgscore": 36.5,
-          "rounds": 2
+          "rounds": 4
         },
         {
           "rank": 65,
@@ -4672,15 +4672,15 @@
         },
         {
           "rank": 66,
-          "teamid": "T16495214",
-          "teamname": "Kiera Hensley and RJ",
+          "teamid": "T6758176",
+          "teamname": "I Am Electric",
           "avgscore": 36,
-          "rounds": 1
+          "rounds": 3
         },
         {
           "rank": 66,
-          "teamid": "T31971249",
-          "teamname": "Danny Christian and Riley",
+          "teamid": "T26415230",
+          "teamname": "Is It Cake?",
           "avgscore": 36,
           "rounds": 1
         },
@@ -4693,36 +4693,29 @@
         },
         {
           "rank": 66,
-          "teamid": "T16848210",
-          "teamname": "Rachael and Strike",
-          "avgscore": 36,
-          "rounds": 1
-        },
-        {
-          "rank": 66,
-          "teamid": "T12581192",
-          "teamname": "Start A Riot",
+          "teamid": "T10448195",
+          "teamname": "The Shooting Stars",
           "avgscore": 36,
           "rounds": 2
         },
         {
           "rank": 66,
-          "teamid": "T6758176",
-          "teamname": "I Am Electric",
-          "avgscore": 36,
-          "rounds": 3
-        },
-        {
-          "rank": 66,
-          "teamid": "T8499188",
-          "teamname": "Mavis Mayhem",
+          "teamid": "T31971249",
+          "teamname": "Danny Christian and Riley",
           "avgscore": 36,
           "rounds": 1
         },
         {
           "rank": 66,
-          "teamid": "T26282233",
-          "teamname": "Itty Bitty Kitty Committee",
+          "teamid": "T25359230",
+          "teamname": "#RaptorSquad",
+          "avgscore": 36,
+          "rounds": 4
+        },
+        {
+          "rank": 66,
+          "teamid": "T16495214",
+          "teamname": "Kiera Hensley and RJ",
           "avgscore": 36,
           "rounds": 1
         },
@@ -4735,24 +4728,31 @@
         },
         {
           "rank": 66,
-          "teamid": "T26415230",
-          "teamname": "Is It Cake?",
-          "avgscore": 36,
-          "rounds": 1
-        },
-        {
-          "rank": 66,
-          "teamid": "T10448195",
-          "teamname": "The Shooting Stars",
+          "teamid": "T12581192",
+          "teamname": "Start A Riot",
           "avgscore": 36,
           "rounds": 2
         },
         {
           "rank": 66,
-          "teamid": "T25359230",
-          "teamname": "#RaptorSquad",
+          "teamid": "T16848210",
+          "teamname": "Rachael and Strike",
           "avgscore": 36,
-          "rounds": 4
+          "rounds": 1
+        },
+        {
+          "rank": 66,
+          "teamid": "T26282233",
+          "teamname": "Itty Bitty Kitty Committee",
+          "avgscore": 36,
+          "rounds": 1
+        },
+        {
+          "rank": 66,
+          "teamid": "T8499188",
+          "teamname": "Mavis Mayhem",
+          "avgscore": 36,
+          "rounds": 1
         },
         {
           "rank": 78,
@@ -4760,13 +4760,6 @@
           "teamname": "Disc Game Is Wrigged",
           "avgscore": 35.8,
           "rounds": 5
-        },
-        {
-          "rank": 79,
-          "teamid": "T4297163",
-          "teamname": "Skip’n Trebs",
-          "avgscore": 35.5,
-          "rounds": 2
         },
         {
           "rank": 79,
@@ -4784,10 +4777,24 @@
         },
         {
           "rank": 79,
+          "teamid": "T4297163",
+          "teamname": "Skip’n Trebs",
+          "avgscore": 35.5,
+          "rounds": 2
+        },
+        {
+          "rank": 79,
           "teamid": "T32719244",
           "teamname": "Blake and Covert Operations",
           "avgscore": 35.5,
           "rounds": 4
+        },
+        {
+          "rank": 83,
+          "teamid": "T38984258",
+          "teamname": "Shooting stars break the mold",
+          "avgscore": 35,
+          "rounds": 5
         },
         {
           "rank": 83,
@@ -4812,17 +4819,17 @@
         },
         {
           "rank": 83,
-          "teamid": "T38984258",
-          "teamname": "Shooting stars break the mold",
-          "avgscore": 35,
-          "rounds": 5
-        },
-        {
-          "rank": 83,
           "teamid": "T23222223",
           "teamname": "Moose on the Loose",
           "avgscore": 35,
           "rounds": 2
+        },
+        {
+          "rank": 88,
+          "teamid": "T12021195",
+          "teamname": "Shonna Sale and Etch-A-Sketch",
+          "avgscore": 34.75,
+          "rounds": 4
         },
         {
           "rank": 88,
@@ -4835,13 +4842,6 @@
           "rank": 88,
           "teamid": "T19107211",
           "teamname": "Team Brown Dog",
-          "avgscore": 34.75,
-          "rounds": 4
-        },
-        {
-          "rank": 88,
-          "teamid": "T12021195",
-          "teamname": "Shonna Sale and Etch-A-Sketch",
           "avgscore": 34.75,
           "rounds": 4
         },
@@ -4889,31 +4889,31 @@
         },
         {
           "rank": 97,
-          "teamid": "T29844239",
-          "teamname": "Bonne with the Wind",
-          "avgscore": 34.25,
-          "rounds": 4
-        },
-        {
-          "rank": 97,
           "teamid": "T15164200",
           "teamname": "Speck-Tacular",
           "avgscore": 34.25,
           "rounds": 4
         },
         {
+          "rank": 97,
+          "teamid": "T29844239",
+          "teamname": "Bonne with the Wind",
+          "avgscore": 34.25,
+          "rounds": 4
+        },
+        {
           "rank": 99,
-          "teamid": "T35169240",
-          "teamname": "Jordan Thompson and Pickett",
+          "teamid": "T33404241",
+          "teamname": "Katie and Nori",
           "avgscore": 34,
           "rounds": 1
         },
         {
           "rank": 99,
-          "teamid": "T7398186",
-          "teamname": "Dixie Dog - DD & JJ",
+          "teamid": "T39931252",
+          "teamname": "InFinnite Banana for Scale",
           "avgscore": 34,
-          "rounds": 1
+          "rounds": 2
         }
       ],
       "four_way_play_level_one_cumulative": [
@@ -5052,17 +5052,17 @@
         },
         {
           "rank": 20,
-          "teamid": "T18176216",
-          "teamname": "Bad Pennies",
-          "avgscore": 275,
-          "rounds": 8
-        },
-        {
-          "rank": 20,
           "teamid": "T36320256",
           "teamname": "Oobie",
           "avgscore": 275,
           "rounds": 10
+        },
+        {
+          "rank": 20,
+          "teamid": "T18176216",
+          "teamname": "Bad Pennies",
+          "avgscore": 275,
+          "rounds": 8
         },
         {
           "rank": 22,
@@ -5164,17 +5164,17 @@
         },
         {
           "rank": 36,
-          "teamid": "T21543227",
-          "teamname": "Melanie Smith and Nick",
-          "avgscore": 227,
-          "rounds": 5
-        },
-        {
-          "rank": 36,
           "teamid": "T14049208",
           "teamname": "The Doctors Worm",
           "avgscore": 227,
           "rounds": 6
+        },
+        {
+          "rank": 36,
+          "teamid": "T21543227",
+          "teamname": "Melanie Smith and Nick",
+          "avgscore": 227,
+          "rounds": 5
         },
         {
           "rank": 38,
@@ -5241,15 +5241,15 @@
         },
         {
           "rank": 47,
-          "teamid": "T25212230",
-          "teamname": "Daniel and Theory",
+          "teamid": "T14050201",
+          "teamname": "Shining Stars",
           "avgscore": 218,
           "rounds": 5
         },
         {
           "rank": 47,
-          "teamid": "T14050201",
-          "teamname": "Shining Stars",
+          "teamid": "T25212230",
+          "teamname": "Daniel and Theory",
           "avgscore": 218,
           "rounds": 5
         },
@@ -5325,17 +5325,17 @@
         },
         {
           "rank": 59,
-          "teamid": "T35091241",
-          "teamname": "Disc-obedient Swifties",
-          "avgscore": 197,
-          "rounds": 7
-        },
-        {
-          "rank": 59,
           "teamid": "T1845159",
           "teamname": "Action Jackson",
           "avgscore": 197,
           "rounds": 4
+        },
+        {
+          "rank": 59,
+          "teamid": "T35091241",
+          "teamname": "Disc-obedient Swifties",
+          "avgscore": 197,
+          "rounds": 7
         },
         {
           "rank": 61,
@@ -5367,6 +5367,13 @@
         },
         {
           "rank": 65,
+          "teamid": "T20349214",
+          "teamname": "Daniel Bene and Rise",
+          "avgscore": 192,
+          "rounds": 5
+        },
+        {
+          "rank": 65,
           "teamid": "T26486235",
           "teamname": "Tell My Story",
           "avgscore": 192,
@@ -5376,13 +5383,6 @@
           "rank": 65,
           "teamid": "T33991240",
           "teamname": "Shrimp Scampi",
-          "avgscore": 192,
-          "rounds": 5
-        },
-        {
-          "rank": 65,
-          "teamid": "T20349214",
-          "teamname": "Daniel Bene and Rise",
           "avgscore": 192,
           "rounds": 5
         },
@@ -5402,24 +5402,10 @@
         },
         {
           "rank": 70,
-          "teamid": "T2155162",
-          "teamname": "Moves Like Jagger",
-          "avgscore": 188,
-          "rounds": 7
-        },
-        {
-          "rank": 70,
           "teamid": "T13476209",
           "teamname": "Kaine Man",
           "avgscore": 188,
           "rounds": 9
-        },
-        {
-          "rank": 70,
-          "teamid": "T23770226",
-          "teamname": "Sugar and Spice and More Spice",
-          "avgscore": 188,
-          "rounds": 4
         },
         {
           "rank": 70,
@@ -5430,24 +5416,24 @@
         },
         {
           "rank": 70,
+          "teamid": "T2155162",
+          "teamname": "Moves Like Jagger",
+          "avgscore": 188,
+          "rounds": 7
+        },
+        {
+          "rank": 70,
+          "teamid": "T23770226",
+          "teamname": "Sugar and Spice and More Spice",
+          "avgscore": 188,
+          "rounds": 4
+        },
+        {
+          "rank": 70,
           "teamid": "T7580181",
           "teamname": "Checkmate",
           "avgscore": 188,
           "rounds": 6
-        },
-        {
-          "rank": 75,
-          "teamid": "T27675238",
-          "teamname": "Chemical Solution",
-          "avgscore": 187,
-          "rounds": 5
-        },
-        {
-          "rank": 75,
-          "teamid": "T33435245",
-          "teamname": "Abracadabra",
-          "avgscore": 187,
-          "rounds": 10
         },
         {
           "rank": 75,
@@ -5462,6 +5448,20 @@
           "teamname": "Leap'n Legacy",
           "avgscore": 187,
           "rounds": 4
+        },
+        {
+          "rank": 75,
+          "teamid": "T27675238",
+          "teamname": "Chemical Solution",
+          "avgscore": 187,
+          "rounds": 5
+        },
+        {
+          "rank": 75,
+          "teamid": "T33435245",
+          "teamname": "Abracadabra",
+          "avgscore": 187,
+          "rounds": 10
         },
         {
           "rank": 79,
@@ -5528,10 +5528,10 @@
         },
         {
           "rank": 88,
-          "teamid": "T38984258",
-          "teamname": "Shooting stars break the mold",
+          "teamid": "T35100245",
+          "teamname": "Arlene and Khaoz",
           "avgscore": 175,
-          "rounds": 5
+          "rounds": 10
         },
         {
           "rank": 88,
@@ -5542,10 +5542,10 @@
         },
         {
           "rank": 88,
-          "teamid": "T35100245",
-          "teamname": "Arlene and Khaoz",
+          "teamid": "T38984258",
+          "teamname": "Shooting stars break the mold",
           "avgscore": 175,
-          "rounds": 10
+          "rounds": 5
         },
         {
           "rank": 91,
@@ -5553,6 +5553,13 @@
           "teamname": "Lauren Redford and Ziti",
           "avgscore": 174,
           "rounds": 7
+        },
+        {
+          "rank": 92,
+          "teamid": "T24039228",
+          "teamname": "Frisbee Force Kodi",
+          "avgscore": 171,
+          "rounds": 8
         },
         {
           "rank": 92,
@@ -5567,13 +5574,6 @@
           "teamname": "Switch-a-roo",
           "avgscore": 171,
           "rounds": 7
-        },
-        {
-          "rank": 92,
-          "teamid": "T24039228",
-          "teamname": "Frisbee Force Kodi",
-          "avgscore": 171,
-          "rounds": 8
         },
         {
           "rank": 95,
@@ -5605,15 +5605,15 @@
         },
         {
           "rank": 99,
-          "teamid": "T35220243",
-          "teamname": "Poodle Dog Path of Destruction",
+          "teamid": "T35692255",
+          "teamname": "Ricochet Renegades",
           "avgscore": 167,
           "rounds": 9
         },
         {
           "rank": 99,
-          "teamid": "T35692255",
-          "teamname": "Ricochet Renegades",
+          "teamid": "T35220243",
+          "teamname": "Poodle Dog Path of Destruction",
           "avgscore": 167,
           "rounds": 9
         }
@@ -9910,15 +9910,15 @@
         },
         {
           "rank": 12,
-          "teamid": "T24388225",
-          "teamname": "Kiera Hensley and Remix",
+          "teamid": "T38504251",
+          "teamname": "Soggy Bottoms",
           "avgscore": 50,
           "rounds": 1
         },
         {
           "rank": 12,
-          "teamid": "T38504251",
-          "teamname": "Soggy Bottoms",
+          "teamid": "T24388225",
+          "teamname": "Kiera Hensley and Remix",
           "avgscore": 50,
           "rounds": 1
         },
@@ -9945,17 +9945,17 @@
         },
         {
           "rank": 16,
-          "teamid": "T14049208",
-          "teamname": "The Doctors Worm",
-          "avgscore": 49,
-          "rounds": 5
-        },
-        {
-          "rank": 16,
           "teamid": "T23770226",
           "teamname": "Sugar and Spice and More Spice",
           "avgscore": 49,
           "rounds": 3
+        },
+        {
+          "rank": 16,
+          "teamid": "T14049208",
+          "teamname": "The Doctors Worm",
+          "avgscore": 49,
+          "rounds": 5
         },
         {
           "rank": 19,
@@ -9966,15 +9966,15 @@
         },
         {
           "rank": 20,
-          "teamid": "T10790197",
-          "teamname": "Team Limitless & CraZi",
+          "teamid": "T24863222",
+          "teamname": "Sandy and Paisley Roen",
           "avgscore": 48,
           "rounds": 1
         },
         {
           "rank": 20,
-          "teamid": "T24863222",
-          "teamname": "Sandy and Paisley Roen",
+          "teamid": "T10790197",
+          "teamname": "Team Limitless & CraZi",
           "avgscore": 48,
           "rounds": 1
         },
@@ -10029,6 +10029,34 @@
         },
         {
           "rank": 29,
+          "teamid": "T31596241",
+          "teamname": "Tyler and Encore",
+          "avgscore": 46,
+          "rounds": 4
+        },
+        {
+          "rank": 29,
+          "teamid": "T35985252",
+          "teamname": "Brioche du cannelle",
+          "avgscore": 46,
+          "rounds": 1
+        },
+        {
+          "rank": 29,
+          "teamid": "T17842219",
+          "teamname": "Aqua Axolotls",
+          "avgscore": 46,
+          "rounds": 1
+        },
+        {
+          "rank": 29,
+          "teamid": "T37290253",
+          "teamname": "Noodling Around",
+          "avgscore": 46,
+          "rounds": 1
+        },
+        {
+          "rank": 29,
           "teamid": "T30840242",
           "teamname": "Brewing Rebellion",
           "avgscore": 46,
@@ -10043,38 +10071,10 @@
         },
         {
           "rank": 29,
-          "teamid": "T37290253",
-          "teamname": "Noodling Around",
-          "avgscore": 46,
-          "rounds": 1
-        },
-        {
-          "rank": 29,
           "teamid": "T30632240",
           "teamname": "BorderBlitz - Red",
           "avgscore": 46,
           "rounds": 6
-        },
-        {
-          "rank": 29,
-          "teamid": "T17842219",
-          "teamname": "Aqua Axolotls",
-          "avgscore": 46,
-          "rounds": 1
-        },
-        {
-          "rank": 29,
-          "teamid": "T31596241",
-          "teamname": "Tyler and Encore",
-          "avgscore": 46,
-          "rounds": 4
-        },
-        {
-          "rank": 29,
-          "teamid": "T35985252",
-          "teamname": "Brioche du cannelle",
-          "avgscore": 46,
-          "rounds": 1
         },
         {
           "rank": 29,
@@ -10099,29 +10099,29 @@
         },
         {
           "rank": 39,
-          "teamid": "T38014257",
-          "teamname": "Leftovers",
-          "avgscore": 45,
-          "rounds": 1
-        },
-        {
-          "rank": 39,
           "teamid": "T7398186",
           "teamname": "Dixie Dog - DD & JJ",
           "avgscore": 45,
           "rounds": 1
         },
         {
-          "rank": 41,
-          "teamid": "T26380236",
-          "teamname": "Let's get Ready to Rumble!",
-          "avgscore": 44.8,
-          "rounds": 5
+          "rank": 39,
+          "teamid": "T38014257",
+          "teamname": "Leftovers",
+          "avgscore": 45,
+          "rounds": 1
         },
         {
           "rank": 41,
           "teamid": "T14702203",
           "teamname": "Tammy Montgomery and Hondo - Platinum's Texas Edition",
+          "avgscore": 44.8,
+          "rounds": 5
+        },
+        {
+          "rank": 41,
+          "teamid": "T26380236",
+          "teamname": "Let's get Ready to Rumble!",
           "avgscore": 44.8,
           "rounds": 5
         },
@@ -10155,15 +10155,8 @@
         },
         {
           "rank": 47,
-          "teamid": "T4297163",
-          "teamname": "Skip’n Trebs",
-          "avgscore": 44,
-          "rounds": 2
-        },
-        {
-          "rank": 47,
-          "teamid": "T16789211",
-          "teamname": "Alana Totton and PT's Patsy",
+          "teamid": "T16372218",
+          "teamname": "A Mid-Summer Nights Team",
           "avgscore": 44,
           "rounds": 1
         },
@@ -10176,8 +10169,15 @@
         },
         {
           "rank": 47,
-          "teamid": "T16372218",
-          "teamname": "A Mid-Summer Nights Team",
+          "teamid": "T4297163",
+          "teamname": "Skip’n Trebs",
+          "avgscore": 44,
+          "rounds": 2
+        },
+        {
+          "rank": 47,
+          "teamid": "T16789211",
+          "teamname": "Alana Totton and PT's Patsy",
           "avgscore": 44,
           "rounds": 1
         },
@@ -10204,31 +10204,10 @@
         },
         {
           "rank": 54,
-          "teamid": "T6416177",
-          "teamname": "Tammy Montgomery and Skeet Shootin'",
-          "avgscore": 43,
-          "rounds": 4
-        },
-        {
-          "rank": 54,
-          "teamid": "T31979248",
-          "teamname": "Hot leaf juice!",
+          "teamid": "T34364247",
+          "teamname": "Your Morning Just Got A Whole Lot Sweeter - Waffles",
           "avgscore": 43,
           "rounds": 1
-        },
-        {
-          "rank": 54,
-          "teamid": "T6647178",
-          "teamname": "Blake and Splish Splash",
-          "avgscore": 43,
-          "rounds": 1
-        },
-        {
-          "rank": 54,
-          "teamid": "T37006258",
-          "teamname": "Get Saucy 🌶",
-          "avgscore": 43,
-          "rounds": 4
         },
         {
           "rank": 54,
@@ -10239,10 +10218,31 @@
         },
         {
           "rank": 54,
-          "teamid": "T34364247",
-          "teamname": "Your Morning Just Got A Whole Lot Sweeter - Waffles",
+          "teamid": "T6416177",
+          "teamname": "Tammy Montgomery and Skeet Shootin'",
+          "avgscore": 43,
+          "rounds": 4
+        },
+        {
+          "rank": 54,
+          "teamid": "T6647178",
+          "teamname": "Blake and Splish Splash",
           "avgscore": 43,
           "rounds": 1
+        },
+        {
+          "rank": 54,
+          "teamid": "T31979248",
+          "teamname": "Hot leaf juice!",
+          "avgscore": 43,
+          "rounds": 1
+        },
+        {
+          "rank": 54,
+          "teamid": "T37006258",
+          "teamname": "Get Saucy 🌶",
+          "avgscore": 43,
+          "rounds": 4
         },
         {
           "rank": 54,
@@ -10281,24 +10281,17 @@
         },
         {
           "rank": 65,
+          "teamid": "T21558221",
+          "teamname": "Levi and Echo",
+          "avgscore": 42,
+          "rounds": 2
+        },
+        {
+          "rank": 65,
           "teamid": "T39635259",
           "teamname": "Leggy Gaga Cas and Mingo",
           "avgscore": 42,
           "rounds": 1
-        },
-        {
-          "rank": 65,
-          "teamid": "T28391234",
-          "teamname": "Don't Kiss 'N' Tell",
-          "avgscore": 42,
-          "rounds": 1
-        },
-        {
-          "rank": 65,
-          "teamid": "T12581192",
-          "teamname": "Start A Riot",
-          "avgscore": 42,
-          "rounds": 2
         },
         {
           "rank": 65,
@@ -10309,10 +10302,17 @@
         },
         {
           "rank": 65,
-          "teamid": "T21558221",
-          "teamname": "Levi and Echo",
+          "teamid": "T12581192",
+          "teamname": "Start A Riot",
           "avgscore": 42,
           "rounds": 2
+        },
+        {
+          "rank": 65,
+          "teamid": "T28391234",
+          "teamname": "Don't Kiss 'N' Tell",
+          "avgscore": 42,
+          "rounds": 1
         },
         {
           "rank": 70,
@@ -10320,6 +10320,13 @@
           "teamname": "Team Lynn and Disc Jockey",
           "avgscore": 41.75,
           "rounds": 4
+        },
+        {
+          "rank": 71,
+          "teamid": "T35050241",
+          "teamname": "Lauren Redford and Veda",
+          "avgscore": 41.5,
+          "rounds": 10
         },
         {
           "rank": 71,
@@ -10336,44 +10343,16 @@
           "rounds": 2
         },
         {
-          "rank": 71,
-          "teamid": "T35050241",
-          "teamname": "Lauren Redford and Veda",
-          "avgscore": 41.5,
-          "rounds": 10
-        },
-        {
           "rank": 74,
-          "teamid": "T31402247",
-          "teamname": "Fire Breathing Disc Queen",
+          "teamid": "T20203214",
+          "teamname": "Somethin’s Bruin",
           "avgscore": 41,
-          "rounds": 1
+          "rounds": 4
         },
         {
           "rank": 74,
-          "teamid": "T40792269",
-          "teamname": "Levi and Fly",
-          "avgscore": 41,
-          "rounds": 2
-        },
-        {
-          "rank": 74,
-          "teamid": "T41112268",
-          "teamname": "Jason Rigler and #Zing",
-          "avgscore": 41,
-          "rounds": 1
-        },
-        {
-          "rank": 74,
-          "teamid": "T25212230",
-          "teamname": "Daniel and Theory",
-          "avgscore": 41,
-          "rounds": 6
-        },
-        {
-          "rank": 74,
-          "teamid": "T38371254",
-          "teamname": "Rowan Shryock Taylor and Tidy",
+          "teamid": "T21020222",
+          "teamname": "Purple Tails",
           "avgscore": 41,
           "rounds": 1
         },
@@ -10386,10 +10365,17 @@
         },
         {
           "rank": 74,
-          "teamid": "T20203214",
-          "teamname": "Somethin’s Bruin",
+          "teamid": "T38371254",
+          "teamname": "Rowan Shryock Taylor and Tidy",
           "avgscore": 41,
-          "rounds": 4
+          "rounds": 1
+        },
+        {
+          "rank": 74,
+          "teamid": "T25212230",
+          "teamname": "Daniel and Theory",
+          "avgscore": 41,
+          "rounds": 6
         },
         {
           "rank": 74,
@@ -10400,15 +10386,22 @@
         },
         {
           "rank": 74,
-          "teamid": "T18545217",
-          "teamname": "Sara Scott and Poptart",
+          "teamid": "T40792269",
+          "teamname": "Levi and Fly",
           "avgscore": 41,
           "rounds": 2
         },
         {
           "rank": 74,
-          "teamid": "T21020222",
-          "teamname": "Purple Tails",
+          "teamid": "T26475237",
+          "teamname": "Cara Smeeton & Thunderoo",
+          "avgscore": 41,
+          "rounds": 3
+        },
+        {
+          "rank": 74,
+          "teamid": "T31402247",
+          "teamname": "Fire Breathing Disc Queen",
           "avgscore": 41,
           "rounds": 1
         },
@@ -10421,10 +10414,17 @@
         },
         {
           "rank": 74,
-          "teamid": "T26475237",
-          "teamname": "Cara Smeeton & Thunderoo",
+          "teamid": "T41112268",
+          "teamname": "Jason Rigler and #Zing",
           "avgscore": 41,
-          "rounds": 3
+          "rounds": 1
+        },
+        {
+          "rank": 74,
+          "teamid": "T18545217",
+          "teamname": "Sara Scott and Poptart",
+          "avgscore": 41,
+          "rounds": 2
         },
         {
           "rank": 86,
@@ -10442,20 +10442,6 @@
         },
         {
           "rank": 88,
-          "teamid": "T21411225",
-          "teamname": "Living Dead Dog",
-          "avgscore": 40.5,
-          "rounds": 2
-        },
-        {
-          "rank": 88,
-          "teamid": "T22966222",
-          "teamname": "AirStrike",
-          "avgscore": 40.5,
-          "rounds": 2
-        },
-        {
-          "rank": 88,
           "teamid": "T35608257",
           "teamname": "I Cannoli Imagine",
           "avgscore": 40.5,
@@ -10469,16 +10455,30 @@
           "rounds": 2
         },
         {
-          "rank": 92,
-          "teamid": "T27842233",
-          "teamname": "He's a mooch! - Cas and Mazer",
-          "avgscore": 40.4,
-          "rounds": 5
+          "rank": 88,
+          "teamid": "T21411225",
+          "teamname": "Living Dead Dog",
+          "avgscore": 40.5,
+          "rounds": 2
+        },
+        {
+          "rank": 88,
+          "teamid": "T22966222",
+          "teamname": "AirStrike",
+          "avgscore": 40.5,
+          "rounds": 2
         },
         {
           "rank": 92,
           "teamid": "T25664233",
           "teamname": "Thundering Skies",
+          "avgscore": 40.4,
+          "rounds": 5
+        },
+        {
+          "rank": 92,
+          "teamid": "T27842233",
+          "teamname": "He's a mooch! - Cas and Mazer",
           "avgscore": 40.4,
           "rounds": 5
         },
@@ -10495,13 +10495,6 @@
           "teamname": "Keeper of Valinor's Light",
           "avgscore": 40.1429,
           "rounds": 7
-        },
-        {
-          "rank": 96,
-          "teamid": "T23316222",
-          "teamname": "It's T-Time",
-          "avgscore": 40,
-          "rounds": 1
         },
         {
           "rank": 96,
@@ -10523,6 +10516,13 @@
           "teamname": "Bite Me",
           "avgscore": 40,
           "rounds": 2
+        },
+        {
+          "rank": 96,
+          "teamid": "T23316222",
+          "teamname": "It's T-Time",
+          "avgscore": 40,
+          "rounds": 1
         },
         {
           "rank": 96,
@@ -10752,23 +10752,16 @@
         },
         {
           "rank": 31,
-          "teamid": "T30537234",
-          "teamname": "Just a lil crazy",
-          "avgscore": 228,
-          "rounds": 5
-        },
-        {
-          "rank": 31,
           "teamid": "T30702245",
           "teamname": "Fulcrum Flyer",
           "avgscore": 228,
           "rounds": 6
         },
         {
-          "rank": 34,
-          "teamid": "T26380236",
-          "teamname": "Let's get Ready to Rumble!",
-          "avgscore": 224,
+          "rank": 31,
+          "teamid": "T30537234",
+          "teamname": "Just a lil crazy",
+          "avgscore": 228,
           "rounds": 5
         },
         {
@@ -10786,11 +10779,11 @@
           "rounds": 5
         },
         {
-          "rank": 37,
-          "teamid": "T38156252",
-          "teamname": "Rolling Over Records",
-          "avgscore": 222,
-          "rounds": 12
+          "rank": 34,
+          "teamid": "T26380236",
+          "teamname": "Let's get Ready to Rumble!",
+          "avgscore": 224,
+          "rounds": 5
         },
         {
           "rank": 37,
@@ -10807,11 +10800,11 @@
           "rounds": 4
         },
         {
-          "rank": 40,
-          "teamid": "T9997195",
-          "teamname": "Dale Johnston and Riley",
-          "avgscore": 220,
-          "rounds": 11
+          "rank": 37,
+          "teamid": "T38156252",
+          "teamname": "Rolling Over Records",
+          "avgscore": 222,
+          "rounds": 12
         },
         {
           "rank": 40,
@@ -10819,6 +10812,13 @@
           "teamname": "Daniel Bene and Rise",
           "avgscore": 220,
           "rounds": 6
+        },
+        {
+          "rank": 40,
+          "teamid": "T9997195",
+          "teamname": "Dale Johnston and Riley",
+          "avgscore": 220,
+          "rounds": 11
         },
         {
           "rank": 42,
@@ -10836,17 +10836,17 @@
         },
         {
           "rank": 44,
-          "teamid": "T38514254",
-          "teamname": "Ben Shryock and Tidy",
-          "avgscore": 212,
-          "rounds": 5
-        },
-        {
-          "rank": 44,
           "teamid": "T7998182",
           "teamname": "Corey + Anya 👑",
           "avgscore": 212,
           "rounds": 6
+        },
+        {
+          "rank": 44,
+          "teamid": "T38514254",
+          "teamname": "Ben Shryock and Tidy",
+          "avgscore": 212,
+          "rounds": 5
         },
         {
           "rank": 46,
@@ -10871,15 +10871,15 @@
         },
         {
           "rank": 49,
-          "teamid": "T27842233",
-          "teamname": "He's a mooch! - Cas and Mazer",
+          "teamid": "T25664233",
+          "teamname": "Thundering Skies",
           "avgscore": 202,
           "rounds": 5
         },
         {
           "rank": 49,
-          "teamid": "T25664233",
-          "teamname": "Thundering Skies",
+          "teamid": "T27842233",
+          "teamname": "He's a mooch! - Cas and Mazer",
           "avgscore": 202,
           "rounds": 5
         },
@@ -10962,13 +10962,6 @@
         },
         {
           "rank": 62,
-          "teamid": "T29063234",
-          "teamname": "Blake and Mah He He",
-          "avgscore": 190,
-          "rounds": 5
-        },
-        {
-          "rank": 62,
           "teamid": "T26733237",
           "teamname": "Wingardium Lyra-osa",
           "avgscore": 190,
@@ -10982,10 +10975,10 @@
           "rounds": 10
         },
         {
-          "rank": 65,
-          "teamid": "T9134189",
-          "teamname": "Blake and Tuggy Buggy",
-          "avgscore": 189,
+          "rank": 62,
+          "teamid": "T29063234",
+          "teamname": "Blake and Mah He He",
+          "avgscore": 190,
           "rounds": 5
         },
         {
@@ -10997,9 +10990,23 @@
         },
         {
           "rank": 65,
+          "teamid": "T9134189",
+          "teamname": "Blake and Tuggy Buggy",
+          "avgscore": 189,
+          "rounds": 5
+        },
+        {
+          "rank": 65,
           "teamid": "T23237229",
           "teamname": "ZP galaxy far far away",
           "avgscore": 189,
+          "rounds": 5
+        },
+        {
+          "rank": 68,
+          "teamid": "T26965239",
+          "teamname": "Danielle Sexton and Josie",
+          "avgscore": 188,
           "rounds": 5
         },
         {
@@ -11008,13 +11015,6 @@
           "teamname": "Gary Duke and Phierce",
           "avgscore": 188,
           "rounds": 6
-        },
-        {
-          "rank": 68,
-          "teamid": "T26965239",
-          "teamname": "Danielle Sexton and Josie",
-          "avgscore": 188,
-          "rounds": 5
         },
         {
           "rank": 68,
@@ -11046,15 +11046,22 @@
         },
         {
           "rank": 74,
-          "teamid": "T14010204",
-          "teamname": "Melanie Smith and Pete",
+          "teamid": "T35692255",
+          "teamname": "Ricochet Renegades",
           "avgscore": 179,
           "rounds": 7
         },
         {
           "rank": 74,
-          "teamid": "T35692255",
-          "teamname": "Ricochet Renegades",
+          "teamid": "T17281218",
+          "teamname": "Team Discy Business",
+          "avgscore": 179,
+          "rounds": 5
+        },
+        {
+          "rank": 74,
+          "teamid": "T14010204",
+          "teamname": "Melanie Smith and Pete",
           "avgscore": 179,
           "rounds": 7
         },
@@ -11064,13 +11071,6 @@
           "teamname": "Sweet Like Candy",
           "avgscore": 179,
           "rounds": 4
-        },
-        {
-          "rank": 74,
-          "teamid": "T17281218",
-          "teamname": "Team Discy Business",
-          "avgscore": 179,
-          "rounds": 5
         },
         {
           "rank": 78,
@@ -11116,17 +11116,17 @@
         },
         {
           "rank": 83,
-          "teamid": "T30634245",
-          "teamname": "Totally Ri-disc-u-lous",
-          "avgscore": 172,
-          "rounds": 10
-        },
-        {
-          "rank": 83,
           "teamid": "T6416177",
           "teamname": "Tammy Montgomery and Skeet Shootin'",
           "avgscore": 172,
           "rounds": 4
+        },
+        {
+          "rank": 83,
+          "teamid": "T30634245",
+          "teamname": "Totally Ri-disc-u-lous",
+          "avgscore": 172,
+          "rounds": 10
         },
         {
           "rank": 86,
@@ -11158,13 +11158,6 @@
         },
         {
           "rank": 90,
-          "teamid": "T4233164",
-          "teamname": "Leap'n Legacy",
-          "avgscore": 164,
-          "rounds": 6
-        },
-        {
-          "rank": 90,
           "teamid": "T20203214",
           "teamname": "Somethin’s Bruin",
           "avgscore": 164,
@@ -11176,6 +11169,13 @@
           "teamname": "CP fast and loud",
           "avgscore": 164,
           "rounds": 5
+        },
+        {
+          "rank": 90,
+          "teamid": "T4233164",
+          "teamname": "Leap'n Legacy",
+          "avgscore": 164,
+          "rounds": 6
         },
         {
           "rank": 93,
@@ -11214,17 +11214,17 @@
         },
         {
           "rank": 98,
-          "teamid": "T17115214",
-          "teamname": "Happy Red BOCO",
-          "avgscore": 158,
-          "rounds": 5
-        },
-        {
-          "rank": 98,
           "teamid": "T21330227",
           "teamname": "Hype Squad",
           "avgscore": 158,
           "rounds": 4
+        },
+        {
+          "rank": 98,
+          "teamid": "T17115214",
+          "teamname": "Happy Red BOCO",
+          "avgscore": 158,
+          "rounds": 5
         },
         {
           "rank": 100,
@@ -12767,34 +12767,6 @@
         },
         {
           "rank": 19,
-          "teamid": "T21697224",
-          "teamname": "Cream Filled!",
-          "avgscore": 105,
-          "rounds": 1
-        },
-        {
-          "rank": 19,
-          "teamid": "T15164200",
-          "teamname": "Speck-Tacular",
-          "avgscore": 105,
-          "rounds": 3
-        },
-        {
-          "rank": 19,
-          "teamid": "T37785258",
-          "teamname": "Sam and Jimmy",
-          "avgscore": 105,
-          "rounds": 1
-        },
-        {
-          "rank": 19,
-          "teamid": "T26385233",
-          "teamname": "Rick's Race against time",
-          "avgscore": 105,
-          "rounds": 1
-        },
-        {
-          "rank": 19,
           "teamid": "T39635259",
           "teamname": "Leggy Gaga Cas and Mingo",
           "avgscore": 105,
@@ -12802,15 +12774,8 @@
         },
         {
           "rank": 19,
-          "teamid": "T41123264",
-          "teamname": "8 Disc Assholes",
-          "avgscore": 105,
-          "rounds": 1
-        },
-        {
-          "rank": 19,
-          "teamid": "T10973197",
-          "teamname": "Let It Whip",
+          "teamid": "T21697224",
+          "teamname": "Cream Filled!",
           "avgscore": 105,
           "rounds": 1
         },
@@ -12823,8 +12788,15 @@
         },
         {
           "rank": 19,
-          "teamid": "T33413247",
-          "teamname": "Savana Bennett and Minnie the Minniature",
+          "teamid": "T37785258",
+          "teamname": "Sam and Jimmy",
+          "avgscore": 105,
+          "rounds": 1
+        },
+        {
+          "rank": 19,
+          "teamid": "T10973197",
+          "teamname": "Let It Whip",
           "avgscore": 105,
           "rounds": 1
         },
@@ -12837,8 +12809,8 @@
         },
         {
           "rank": 19,
-          "teamid": "T26592234",
-          "teamname": "Jordan Thompson and Éile",
+          "teamid": "T33413247",
+          "teamname": "Savana Bennett and Minnie the Minniature",
           "avgscore": 105,
           "rounds": 1
         },
@@ -12846,6 +12818,34 @@
           "rank": 19,
           "teamid": "T19764210",
           "teamname": "Shawn Bellingham and Hexadecimal",
+          "avgscore": 105,
+          "rounds": 1
+        },
+        {
+          "rank": 19,
+          "teamid": "T26385233",
+          "teamname": "Rick's Race against time",
+          "avgscore": 105,
+          "rounds": 1
+        },
+        {
+          "rank": 19,
+          "teamid": "T15164200",
+          "teamname": "Speck-Tacular",
+          "avgscore": 105,
+          "rounds": 3
+        },
+        {
+          "rank": 19,
+          "teamid": "T26592234",
+          "teamname": "Jordan Thompson and Éile",
+          "avgscore": 105,
+          "rounds": 1
+        },
+        {
+          "rank": 19,
+          "teamid": "T41123264",
+          "teamname": "8 Disc Assholes",
           "avgscore": 105,
           "rounds": 1
         },
@@ -12872,22 +12872,8 @@
         },
         {
           "rank": 33,
-          "teamid": "T13911200",
-          "teamname": "Athena - Wisdom is Power",
-          "avgscore": 100,
-          "rounds": 3
-        },
-        {
-          "rank": 33,
           "teamid": "T26965239",
           "teamname": "Danielle Sexton and Josie",
-          "avgscore": 100,
-          "rounds": 1
-        },
-        {
-          "rank": 33,
-          "teamid": "T15475208",
-          "teamname": "Cathy Lombritto and RUDY!",
           "avgscore": 100,
           "rounds": 1
         },
@@ -12900,24 +12886,17 @@
         },
         {
           "rank": 33,
-          "teamid": "T16304219",
-          "teamname": "Tyler and Excalibur",
+          "teamid": "T11981196",
+          "teamname": "Team Pancake",
+          "avgscore": 100,
+          "rounds": 2
+        },
+        {
+          "rank": 33,
+          "teamid": "T13911200",
+          "teamname": "Athena - Wisdom is Power",
           "avgscore": 100,
           "rounds": 3
-        },
-        {
-          "rank": 33,
-          "teamid": "T22375228",
-          "teamname": "Bite Me",
-          "avgscore": 100,
-          "rounds": 2
-        },
-        {
-          "rank": 33,
-          "teamid": "T12581192",
-          "teamname": "Start A Riot",
-          "avgscore": 100,
-          "rounds": 2
         },
         {
           "rank": 33,
@@ -12928,10 +12907,10 @@
         },
         {
           "rank": 33,
-          "teamid": "T11981196",
-          "teamname": "Team Pancake",
+          "teamid": "T16304219",
+          "teamname": "Tyler and Excalibur",
           "avgscore": 100,
-          "rounds": 2
+          "rounds": 3
         },
         {
           "rank": 33,
@@ -12939,6 +12918,27 @@
           "teamname": "Twilight Goddess",
           "avgscore": 100,
           "rounds": 1
+        },
+        {
+          "rank": 33,
+          "teamid": "T12581192",
+          "teamname": "Start A Riot",
+          "avgscore": 100,
+          "rounds": 2
+        },
+        {
+          "rank": 33,
+          "teamid": "T15475208",
+          "teamname": "Cathy Lombritto and RUDY!",
+          "avgscore": 100,
+          "rounds": 1
+        },
+        {
+          "rank": 33,
+          "teamid": "T22375228",
+          "teamname": "Bite Me",
+          "avgscore": 100,
+          "rounds": 2
         },
         {
           "rank": 44,
@@ -12956,22 +12956,22 @@
         },
         {
           "rank": 46,
-          "teamid": "T32719244",
-          "teamname": "Blake and Covert Operations",
+          "teamid": "T14050201",
+          "teamname": "Shining Stars",
           "avgscore": 97.5,
-          "rounds": 2
-        },
-        {
-          "rank": 46,
-          "teamid": "T22785224",
-          "teamname": "Fiddle Sticks",
-          "avgscore": 97.5,
-          "rounds": 2
+          "rounds": 4
         },
         {
           "rank": 46,
           "teamid": "T37895253",
           "teamname": "Fireball Drama",
+          "avgscore": 97.5,
+          "rounds": 2
+        },
+        {
+          "rank": 46,
+          "teamid": "T32719244",
+          "teamname": "Blake and Covert Operations",
           "avgscore": 97.5,
           "rounds": 2
         },
@@ -12984,15 +12984,15 @@
         },
         {
           "rank": 46,
-          "teamid": "T26380236",
-          "teamname": "Let's get Ready to Rumble!",
+          "teamid": "T22785224",
+          "teamname": "Fiddle Sticks",
           "avgscore": 97.5,
-          "rounds": 4
+          "rounds": 2
         },
         {
           "rank": 46,
-          "teamid": "T14050201",
-          "teamname": "Shining Stars",
+          "teamid": "T26380236",
+          "teamname": "Let's get Ready to Rumble!",
           "avgscore": 97.5,
           "rounds": 4
         },
@@ -13005,71 +13005,15 @@
         },
         {
           "rank": 53,
-          "teamid": "T16487211",
-          "teamname": "Aida Peterson and KRAKEN!",
+          "teamid": "T28419232",
+          "teamname": "Cheralea and Acre",
           "avgscore": 95,
           "rounds": 1
         },
         {
           "rank": 53,
-          "teamid": "T24863222",
-          "teamname": "Sandy and Paisley Roen",
-          "avgscore": 95,
-          "rounds": 1
-        },
-        {
-          "rank": 53,
-          "teamid": "T13337208",
-          "teamname": "Alicia Picon and Epic Thrill",
-          "avgscore": 95,
-          "rounds": 1
-        },
-        {
-          "rank": 53,
-          "teamid": "T9134189",
-          "teamname": "Blake and Tuggy Buggy",
-          "avgscore": 95,
-          "rounds": 2
-        },
-        {
-          "rank": 53,
-          "teamid": "T30642243",
-          "teamname": "Nicky Monson and Jett",
-          "avgscore": 95,
-          "rounds": 1
-        },
-        {
-          "rank": 53,
-          "teamid": "T13290202",
-          "teamname": "Megan Taris and Belle",
-          "avgscore": 95,
-          "rounds": 1
-        },
-        {
-          "rank": 53,
-          "teamid": "T16495214",
-          "teamname": "Kiera Hensley and RJ",
-          "avgscore": 95,
-          "rounds": 1
-        },
-        {
-          "rank": 53,
-          "teamid": "T17281218",
-          "teamname": "Team Discy Business",
-          "avgscore": 95,
-          "rounds": 1
-        },
-        {
-          "rank": 53,
-          "teamid": "T33379241",
-          "teamname": "Alexa Mclaren and Fiction",
-          "avgscore": 95,
-          "rounds": 1
-        },
-        {
-          "rank": 53,
-          "teamid": "T22778220",
-          "teamname": "the spinning bullet",
+          "teamid": "T28961239",
+          "teamname": "“Ready or Not”",
           "avgscore": 95,
           "rounds": 1
         },
@@ -13082,13 +13026,6 @@
         },
         {
           "rank": 53,
-          "teamid": "T8522182",
-          "teamname": "Disc Game Is Wrigged",
-          "avgscore": 95,
-          "rounds": 3
-        },
-        {
-          "rank": 53,
           "teamid": "T10448195",
           "teamname": "The Shooting Stars",
           "avgscore": 95,
@@ -13096,15 +13033,22 @@
         },
         {
           "rank": 53,
-          "teamid": "T31021242",
-          "teamname": "Dee Close and Tigger",
+          "teamid": "T22778220",
+          "teamname": "the spinning bullet",
           "avgscore": 95,
           "rounds": 1
         },
         {
           "rank": 53,
-          "teamid": "T41375260",
-          "teamname": "Are you sure that's a different dog?",
+          "teamid": "T9134189",
+          "teamname": "Blake and Tuggy Buggy",
+          "avgscore": 95,
+          "rounds": 2
+        },
+        {
+          "rank": 53,
+          "teamid": "T13290202",
+          "teamname": "Megan Taris and Belle",
           "avgscore": 95,
           "rounds": 1
         },
@@ -13117,15 +13061,8 @@
         },
         {
           "rank": 53,
-          "teamid": "T28419232",
-          "teamname": "Cheralea and Acre",
-          "avgscore": 95,
-          "rounds": 1
-        },
-        {
-          "rank": 53,
-          "teamid": "T11927191",
-          "teamname": "Sam and Rush",
+          "teamid": "T16487211",
+          "teamname": "Aida Peterson and KRAKEN!",
           "avgscore": 95,
           "rounds": 1
         },
@@ -13138,6 +13075,41 @@
         },
         {
           "rank": 53,
+          "teamid": "T8522182",
+          "teamname": "Disc Game Is Wrigged",
+          "avgscore": 95,
+          "rounds": 3
+        },
+        {
+          "rank": 53,
+          "teamid": "T31021242",
+          "teamname": "Dee Close and Tigger",
+          "avgscore": 95,
+          "rounds": 1
+        },
+        {
+          "rank": 53,
+          "teamid": "T33379241",
+          "teamname": "Alexa Mclaren and Fiction",
+          "avgscore": 95,
+          "rounds": 1
+        },
+        {
+          "rank": 53,
+          "teamid": "T30642243",
+          "teamname": "Nicky Monson and Jett",
+          "avgscore": 95,
+          "rounds": 1
+        },
+        {
+          "rank": 53,
+          "teamid": "T16495214",
+          "teamname": "Kiera Hensley and RJ",
+          "avgscore": 95,
+          "rounds": 1
+        },
+        {
+          "rank": 53,
           "teamid": "T40871265",
           "teamname": "Nick and Twizzler",
           "avgscore": 95,
@@ -13145,8 +13117,36 @@
         },
         {
           "rank": 53,
-          "teamid": "T28961239",
-          "teamname": "“Ready or Not”",
+          "teamid": "T11927191",
+          "teamname": "Sam and Rush",
+          "avgscore": 95,
+          "rounds": 1
+        },
+        {
+          "rank": 53,
+          "teamid": "T41375260",
+          "teamname": "Are you sure that's a different dog?",
+          "avgscore": 95,
+          "rounds": 1
+        },
+        {
+          "rank": 53,
+          "teamid": "T13337208",
+          "teamname": "Alicia Picon and Epic Thrill",
+          "avgscore": 95,
+          "rounds": 1
+        },
+        {
+          "rank": 53,
+          "teamid": "T24863222",
+          "teamname": "Sandy and Paisley Roen",
+          "avgscore": 95,
+          "rounds": 1
+        },
+        {
+          "rank": 53,
+          "teamid": "T17281218",
+          "teamname": "Team Discy Business",
           "avgscore": 95,
           "rounds": 1
         },
@@ -13159,15 +13159,15 @@
         },
         {
           "rank": 75,
-          "teamid": "T34063242",
-          "teamname": "Grimm and Dim",
+          "teamid": "T34667248",
+          "teamname": "Keeper of Valinor's Light",
           "avgscore": 93.75,
           "rounds": 4
         },
         {
           "rank": 75,
-          "teamid": "T34667248",
-          "teamname": "Keeper of Valinor's Light",
+          "teamid": "T34063242",
+          "teamname": "Grimm and Dim",
           "avgscore": 93.75,
           "rounds": 4
         },
@@ -13187,13 +13187,6 @@
         },
         {
           "rank": 79,
-          "teamid": "T21519228",
-          "teamname": "Clueminati",
-          "avgscore": 92.5,
-          "rounds": 4
-        },
-        {
-          "rank": 79,
           "teamid": "T35783251",
           "teamname": "The Other Brother",
           "avgscore": 92.5,
@@ -13205,6 +13198,13 @@
           "teamname": "Mavis Mayhem",
           "avgscore": 92.5,
           "rounds": 2
+        },
+        {
+          "rank": 79,
+          "teamid": "T21519228",
+          "teamname": "Clueminati",
+          "avgscore": 92.5,
+          "rounds": 4
         },
         {
           "rank": 79,
@@ -13236,10 +13236,24 @@
         },
         {
           "rank": 86,
-          "teamid": "T25312238",
-          "teamname": "Colleen Hegyi and Rosie Hegyi",
+          "teamid": "T29671231",
+          "teamname": "Anna Radomska and Oxx",
           "avgscore": 90,
-          "rounds": 5
+          "rounds": 1
+        },
+        {
+          "rank": 86,
+          "teamid": "T30840242",
+          "teamname": "Brewing Rebellion",
+          "avgscore": 90,
+          "rounds": 1
+        },
+        {
+          "rank": 86,
+          "teamid": "T6837182",
+          "teamname": "Dale McElrath and Volt",
+          "avgscore": 90,
+          "rounds": 1
         },
         {
           "rank": 86,
@@ -13257,8 +13271,15 @@
         },
         {
           "rank": 86,
-          "teamid": "T6837182",
-          "teamname": "Dale McElrath and Volt",
+          "teamid": "T25312238",
+          "teamname": "Colleen Hegyi and Rosie Hegyi",
+          "avgscore": 90,
+          "rounds": 5
+        },
+        {
+          "rank": 86,
+          "teamid": "T31323244",
+          "teamname": "Jordan Thompson and Nimona",
           "avgscore": 90,
           "rounds": 1
         },
@@ -13271,29 +13292,8 @@
         },
         {
           "rank": 86,
-          "teamid": "T30840242",
-          "teamname": "Brewing Rebellion",
-          "avgscore": 90,
-          "rounds": 1
-        },
-        {
-          "rank": 86,
-          "teamid": "T31323244",
-          "teamname": "Jordan Thompson and Nimona",
-          "avgscore": 90,
-          "rounds": 1
-        },
-        {
-          "rank": 86,
-          "teamid": "T29671231",
-          "teamname": "Anna Radomska and Oxx",
-          "avgscore": 90,
-          "rounds": 1
-        },
-        {
-          "rank": 86,
-          "teamid": "T13053192",
-          "teamname": "Lisa Mangrich and Windy",
+          "teamid": "T27008235",
+          "teamname": "Megan Taris and Raya",
           "avgscore": 90,
           "rounds": 1
         },
@@ -13306,22 +13306,15 @@
         },
         {
           "rank": 86,
-          "teamid": "T27008235",
-          "teamname": "Megan Taris and Raya",
+          "teamid": "T13053192",
+          "teamname": "Lisa Mangrich and Windy",
           "avgscore": 90,
           "rounds": 1
         },
         {
           "rank": 97,
-          "teamid": "T29844239",
-          "teamname": "Bonne with the Wind",
-          "avgscore": 88.3333,
-          "rounds": 3
-        },
-        {
-          "rank": 97,
-          "teamid": "T24324224",
-          "teamname": "Bear Down",
+          "teamid": "T16220217",
+          "teamname": "Heidi Pitts and Gaige",
           "avgscore": 88.3333,
           "rounds": 3
         },
@@ -13329,6 +13322,13 @@
           "rank": 97,
           "teamid": "T18735214",
           "teamname": "Keeping Up With Tornado TYKE",
+          "avgscore": 88.3333,
+          "rounds": 3
+        },
+        {
+          "rank": 97,
+          "teamid": "T29844239",
+          "teamname": "Bonne with the Wind",
           "avgscore": 88.3333,
           "rounds": 3
         },
@@ -13406,13 +13406,6 @@
         },
         {
           "rank": 10,
-          "teamid": "T39172257",
-          "teamname": "Teardrops On My Jump Tunnel Jump",
-          "avgscore": 615,
-          "rounds": 8
-        },
-        {
-          "rank": 10,
           "teamid": "T24786225",
           "teamname": "ZP speedy and screamy",
           "avgscore": 615,
@@ -13424,6 +13417,13 @@
           "teamname": "Deadly Black Mamba",
           "avgscore": 615,
           "rounds": 5
+        },
+        {
+          "rank": 10,
+          "teamid": "T39172257",
+          "teamname": "Teardrops On My Jump Tunnel Jump",
+          "avgscore": 615,
+          "rounds": 8
         },
         {
           "rank": 13,
@@ -13455,17 +13455,17 @@
         },
         {
           "rank": 17,
-          "teamid": "T17999215",
-          "teamname": "Dale Christianson and Sparkz of Pyro",
-          "avgscore": 540,
-          "rounds": 14
-        },
-        {
-          "rank": 17,
           "teamid": "T17570213",
           "teamname": "Steven Smith and Pete",
           "avgscore": 540,
           "rounds": 8
+        },
+        {
+          "rank": 17,
+          "teamid": "T17999215",
+          "teamname": "Dale Christianson and Sparkz of Pyro",
+          "avgscore": 540,
+          "rounds": 14
         },
         {
           "rank": 19,
@@ -13473,13 +13473,6 @@
           "teamname": "The Bucket List",
           "avgscore": 530,
           "rounds": 7
-        },
-        {
-          "rank": 20,
-          "teamid": "T32009244",
-          "teamname": "Athena Braun and Hitch",
-          "avgscore": 525,
-          "rounds": 9
         },
         {
           "rank": 20,
@@ -13494,6 +13487,13 @@
           "teamname": "Incoming Floof",
           "avgscore": 525,
           "rounds": 5
+        },
+        {
+          "rank": 20,
+          "teamid": "T32009244",
+          "teamname": "Athena Braun and Hitch",
+          "avgscore": 525,
+          "rounds": 9
         },
         {
           "rank": 23,
@@ -13546,15 +13546,15 @@
         },
         {
           "rank": 29,
-          "teamid": "T28463239",
-          "teamname": "Rip Happens",
+          "teamid": "T31404240",
+          "teamname": "ZP update in process",
           "avgscore": 455,
           "rounds": 5
         },
         {
           "rank": 29,
-          "teamid": "T31404240",
-          "teamname": "ZP update in process",
+          "teamid": "T28463239",
+          "teamname": "Rip Happens",
           "avgscore": 455,
           "rounds": 5
         },
@@ -13602,8 +13602,8 @@
         },
         {
           "rank": 38,
-          "teamid": "T18208212",
-          "teamname": "Rhyme Time",
+          "teamid": "T31565249",
+          "teamname": "Rock Me Like A Hurricane",
           "avgscore": 420,
           "rounds": 6
         },
@@ -13616,8 +13616,8 @@
         },
         {
           "rank": 38,
-          "teamid": "T31565249",
-          "teamname": "Rock Me Like A Hurricane",
+          "teamid": "T18208212",
+          "teamname": "Rhyme Time",
           "avgscore": 420,
           "rounds": 6
         },
@@ -13658,8 +13658,8 @@
         },
         {
           "rank": 46,
-          "teamid": "T16388211",
-          "teamname": "Raisin the Bar",
+          "teamid": "T23237229",
+          "teamname": "ZP galaxy far far away",
           "avgscore": 395,
           "rounds": 4
         },
@@ -13672,15 +13672,15 @@
         },
         {
           "rank": 46,
-          "teamid": "T23237229",
-          "teamname": "ZP galaxy far far away",
+          "teamid": "T16388211",
+          "teamname": "Raisin the Bar",
           "avgscore": 395,
           "rounds": 4
         },
         {
           "rank": 49,
-          "teamid": "T26380236",
-          "teamname": "Let's get Ready to Rumble!",
+          "teamid": "T14050201",
+          "teamname": "Shining Stars",
           "avgscore": 390,
           "rounds": 4
         },
@@ -13693,13 +13693,6 @@
         },
         {
           "rank": 49,
-          "teamid": "T14050201",
-          "teamname": "Shining Stars",
-          "avgscore": 390,
-          "rounds": 4
-        },
-        {
-          "rank": 49,
           "teamid": "T31259242",
           "teamname": "Marion Paulson and Get Nauti",
           "avgscore": 390,
@@ -13707,24 +13700,17 @@
         },
         {
           "rank": 49,
+          "teamid": "T26380236",
+          "teamname": "Let's get Ready to Rumble!",
+          "avgscore": 390,
+          "rounds": 4
+        },
+        {
+          "rank": 49,
           "teamid": "T31873243",
           "teamname": "The Pocket Monsters",
           "avgscore": 390,
           "rounds": 7
-        },
-        {
-          "rank": 54,
-          "teamid": "T19054219",
-          "teamname": "Coco's Eminent Destiny",
-          "avgscore": 385,
-          "rounds": 3
-        },
-        {
-          "rank": 54,
-          "teamid": "T35608257",
-          "teamname": "I Cannoli Imagine",
-          "avgscore": 385,
-          "rounds": 3
         },
         {
           "rank": 54,
@@ -13741,6 +13727,20 @@
           "rounds": 4
         },
         {
+          "rank": 54,
+          "teamid": "T35608257",
+          "teamname": "I Cannoli Imagine",
+          "avgscore": 385,
+          "rounds": 3
+        },
+        {
+          "rank": 54,
+          "teamid": "T19054219",
+          "teamname": "Coco's Eminent Destiny",
+          "avgscore": 385,
+          "rounds": 3
+        },
+        {
           "rank": 58,
           "teamid": "T17115214",
           "teamname": "Happy Red BOCO",
@@ -13749,10 +13749,10 @@
         },
         {
           "rank": 59,
-          "teamid": "T25582237",
-          "teamname": "Kristin and Jase",
+          "teamid": "T34667248",
+          "teamname": "Keeper of Valinor's Light",
           "avgscore": 375,
-          "rounds": 3
+          "rounds": 4
         },
         {
           "rank": 59,
@@ -13763,15 +13763,15 @@
         },
         {
           "rank": 59,
-          "teamid": "T34063242",
-          "teamname": "Grimm and Dim",
+          "teamid": "T25582237",
+          "teamname": "Kristin and Jase",
           "avgscore": 375,
-          "rounds": 4
+          "rounds": 3
         },
         {
           "rank": 59,
-          "teamid": "T34667248",
-          "teamname": "Keeper of Valinor's Light",
+          "teamid": "T34063242",
+          "teamname": "Grimm and Dim",
           "avgscore": 375,
           "rounds": 4
         },
@@ -13791,17 +13791,17 @@
         },
         {
           "rank": 65,
-          "teamid": "T36787250",
-          "teamname": "Kristin and Eli",
+          "teamid": "T31596241",
+          "teamname": "Tyler and Encore",
           "avgscore": 360,
           "rounds": 4
         },
         {
           "rank": 65,
-          "teamid": "T31596241",
-          "teamname": "Tyler and Encore",
+          "teamid": "T20531224",
+          "teamname": "Team Busy",
           "avgscore": 360,
-          "rounds": 4
+          "rounds": 6
         },
         {
           "rank": 65,
@@ -13812,10 +13812,10 @@
         },
         {
           "rank": 65,
-          "teamid": "T20531224",
-          "teamname": "Team Busy",
+          "teamid": "T36787250",
+          "teamname": "Kristin and Eli",
           "avgscore": 360,
-          "rounds": 6
+          "rounds": 4
         },
         {
           "rank": 69,
@@ -14108,15 +14108,15 @@
         },
         {
           "rank": 10,
-          "teamid": "T27713239",
-          "teamname": "BorderStaffyDelight",
+          "teamid": "T17281218",
+          "teamname": "Team Discy Business",
           "avgscore": 59,
           "rounds": 1
         },
         {
           "rank": 10,
-          "teamid": "T17281218",
-          "teamname": "Team Discy Business",
+          "teamid": "T27713239",
+          "teamname": "BorderStaffyDelight",
           "avgscore": 59,
           "rounds": 1
         },
@@ -14143,20 +14143,6 @@
         },
         {
           "rank": 15,
-          "teamid": "T28780235",
-          "teamname": "Fast, Loud, Zero Regrets",
-          "avgscore": 57,
-          "rounds": 2
-        },
-        {
-          "rank": 15,
-          "teamid": "T40813260",
-          "teamname": "Scott Crump and Jade",
-          "avgscore": 57,
-          "rounds": 1
-        },
-        {
-          "rank": 15,
           "teamid": "T35368242",
           "teamname": "Catch Me If You Candy",
           "avgscore": 57,
@@ -14164,8 +14150,22 @@
         },
         {
           "rank": 15,
+          "teamid": "T28780235",
+          "teamname": "Fast, Loud, Zero Regrets",
+          "avgscore": 57,
+          "rounds": 2
+        },
+        {
+          "rank": 15,
           "teamid": "T26475237",
           "teamname": "Cara Smeeton & Thunderoo",
+          "avgscore": 57,
+          "rounds": 1
+        },
+        {
+          "rank": 15,
+          "teamid": "T40813260",
+          "teamname": "Scott Crump and Jade",
           "avgscore": 57,
           "rounds": 1
         },
@@ -14220,15 +14220,8 @@
         },
         {
           "rank": 25,
-          "teamid": "T34185243",
-          "teamname": "Alicja Kowalska and NomiX",
-          "avgscore": 55,
-          "rounds": 1
-        },
-        {
-          "rank": 25,
-          "teamid": "T41964268",
-          "teamname": "Emilia Kielczyk and MaeviX",
+          "teamid": "T10299199",
+          "teamname": "DreamCatchers Moxee Man",
           "avgscore": 55,
           "rounds": 1
         },
@@ -14255,8 +14248,15 @@
         },
         {
           "rank": 25,
-          "teamid": "T10299199",
-          "teamname": "DreamCatchers Moxee Man",
+          "teamid": "T41964268",
+          "teamname": "Emilia Kielczyk and MaeviX",
+          "avgscore": 55,
+          "rounds": 1
+        },
+        {
+          "rank": 25,
+          "teamid": "T34185243",
+          "teamname": "Alicja Kowalska and NomiX",
           "avgscore": 55,
           "rounds": 1
         },
@@ -14269,24 +14269,17 @@
         },
         {
           "rank": 33,
-          "teamid": "T24000223",
-          "teamname": "Kickass Little Heartbreaker",
-          "avgscore": 54,
-          "rounds": 1
-        },
-        {
-          "rank": 33,
           "teamid": "T16620216",
           "teamname": "Team Dennis and Disc Jockey",
           "avgscore": 54,
           "rounds": 1
         },
         {
-          "rank": 35,
-          "teamid": "T8759180",
-          "teamname": "Let's Fighting Love ☆<(-^_^-)>☆",
-          "avgscore": 53.5,
-          "rounds": 2
+          "rank": 33,
+          "teamid": "T24000223",
+          "teamname": "Kickass Little Heartbreaker",
+          "avgscore": 54,
+          "rounds": 1
         },
         {
           "rank": 35,
@@ -14296,18 +14289,18 @@
           "rounds": 2
         },
         {
+          "rank": 35,
+          "teamid": "T8759180",
+          "teamname": "Let's Fighting Love ☆<(-^_^-)>☆",
+          "avgscore": 53.5,
+          "rounds": 2
+        },
+        {
           "rank": 37,
           "teamid": "T35608257",
           "teamname": "I Cannoli Imagine",
           "avgscore": 53.3333,
           "rounds": 3
-        },
-        {
-          "rank": 38,
-          "teamid": "T39881258",
-          "teamname": "Gary Shockley and Reele Deele Steele",
-          "avgscore": 53,
-          "rounds": 1
         },
         {
           "rank": 38,
@@ -14322,6 +14315,13 @@
           "teamname": "Tori and Scylla",
           "avgscore": 53,
           "rounds": 2
+        },
+        {
+          "rank": 38,
+          "teamid": "T39881258",
+          "teamname": "Gary Shockley and Reele Deele Steele",
+          "avgscore": 53,
+          "rounds": 1
         },
         {
           "rank": 41,
@@ -14339,13 +14339,6 @@
         },
         {
           "rank": 43,
-          "teamid": "T26380236",
-          "teamname": "Let's get Ready to Rumble!",
-          "avgscore": 52,
-          "rounds": 2
-        },
-        {
-          "rank": 43,
           "teamid": "T31918245",
           "teamname": "Team Hold my Beer",
           "avgscore": 52,
@@ -14359,11 +14352,39 @@
           "rounds": 2
         },
         {
+          "rank": 43,
+          "teamid": "T26380236",
+          "teamname": "Let's get Ready to Rumble!",
+          "avgscore": 52,
+          "rounds": 2
+        },
+        {
           "rank": 46,
           "teamid": "T30955246",
           "teamname": "Glitch in the Matrix",
           "avgscore": 51.4444,
           "rounds": 9
+        },
+        {
+          "rank": 47,
+          "teamid": "T20455228",
+          "teamname": "Kylie white and Timmally Million Dollar Baby - Hope",
+          "avgscore": 51,
+          "rounds": 1
+        },
+        {
+          "rank": 47,
+          "teamid": "T31595245",
+          "teamname": "Tyler and Echo",
+          "avgscore": 51,
+          "rounds": 4
+        },
+        {
+          "rank": 47,
+          "teamid": "T16621218",
+          "teamname": "Team Lynn and Disc Jockey",
+          "avgscore": 51,
+          "rounds": 4
         },
         {
           "rank": 47,
@@ -14381,31 +14402,10 @@
         },
         {
           "rank": 47,
-          "teamid": "T16621218",
-          "teamname": "Team Lynn and Disc Jockey",
-          "avgscore": 51,
-          "rounds": 4
-        },
-        {
-          "rank": 47,
           "teamid": "T16372218",
           "teamname": "A Mid-Summer Nights Team",
           "avgscore": 51,
           "rounds": 1
-        },
-        {
-          "rank": 47,
-          "teamid": "T20455228",
-          "teamname": "Kylie white and Timmally Million Dollar Baby - Hope",
-          "avgscore": 51,
-          "rounds": 1
-        },
-        {
-          "rank": 47,
-          "teamid": "T31595245",
-          "teamname": "Tyler and Echo",
-          "avgscore": 51,
-          "rounds": 4
         },
         {
           "rank": 53,
@@ -14416,22 +14416,8 @@
         },
         {
           "rank": 54,
-          "teamid": "T38396252",
-          "teamname": "2 Brain Cells and a Dream",
-          "avgscore": 50,
-          "rounds": 3
-        },
-        {
-          "rank": 54,
-          "teamid": "T11957192",
-          "teamname": "The Intimidators #DoItForDale",
-          "avgscore": 50,
-          "rounds": 2
-        },
-        {
-          "rank": 54,
-          "teamid": "T36097259",
-          "teamname": "Brittney Voth and Everest",
+          "teamid": "T24863222",
+          "teamname": "Sandy and Paisley Roen",
           "avgscore": 50,
           "rounds": 1
         },
@@ -14451,10 +14437,24 @@
         },
         {
           "rank": 54,
-          "teamid": "T24863222",
-          "teamname": "Sandy and Paisley Roen",
+          "teamid": "T36097259",
+          "teamname": "Brittney Voth and Everest",
           "avgscore": 50,
           "rounds": 1
+        },
+        {
+          "rank": 54,
+          "teamid": "T38396252",
+          "teamname": "2 Brain Cells and a Dream",
+          "avgscore": 50,
+          "rounds": 3
+        },
+        {
+          "rank": 54,
+          "teamid": "T11957192",
+          "teamname": "The Intimidators #DoItForDale",
+          "avgscore": 50,
+          "rounds": 2
         },
         {
           "rank": 60,
@@ -14486,20 +14486,6 @@
         },
         {
           "rank": 64,
-          "teamid": "T30840242",
-          "teamname": "Brewing Rebellion",
-          "avgscore": 49,
-          "rounds": 2
-        },
-        {
-          "rank": 64,
-          "teamid": "T30889249",
-          "teamname": "Flameo hotman",
-          "avgscore": 49,
-          "rounds": 2
-        },
-        {
-          "rank": 64,
           "teamid": "T24939221",
           "teamname": "Team Thorin",
           "avgscore": 49,
@@ -14507,15 +14493,15 @@
         },
         {
           "rank": 64,
-          "teamid": "T34936247",
-          "teamname": "Focal Point",
+          "teamid": "T30840242",
+          "teamname": "Brewing Rebellion",
           "avgscore": 49,
-          "rounds": 1
+          "rounds": 2
         },
         {
           "rank": 64,
-          "teamid": "T13897200",
-          "teamname": "Madi & Howie (DDOGH)",
+          "teamid": "T31734245",
+          "teamname": "Magdalena Świtalska and CardanX",
           "avgscore": 49,
           "rounds": 1
         },
@@ -14528,8 +14514,8 @@
         },
         {
           "rank": 64,
-          "teamid": "T16787210",
-          "teamname": "The Blue Blur",
+          "teamid": "T34936247",
+          "teamname": "Focal Point",
           "avgscore": 49,
           "rounds": 1
         },
@@ -14542,8 +14528,15 @@
         },
         {
           "rank": 64,
-          "teamid": "T31734245",
-          "teamname": "Magdalena Świtalska and CardanX",
+          "teamid": "T30889249",
+          "teamname": "Flameo hotman",
+          "avgscore": 49,
+          "rounds": 2
+        },
+        {
+          "rank": 64,
+          "teamid": "T16787210",
+          "teamname": "The Blue Blur",
           "avgscore": 49,
           "rounds": 1
         },
@@ -14556,10 +14549,10 @@
         },
         {
           "rank": 64,
-          "teamid": "T35091241",
-          "teamname": "Disc-obedient Swifties",
+          "teamid": "T13897200",
+          "teamname": "Madi & Howie (DDOGH)",
           "avgscore": 49,
-          "rounds": 3
+          "rounds": 1
         },
         {
           "rank": 64,
@@ -14567,6 +14560,13 @@
           "teamname": "Dale McElrath and On Target's Land Shark (Finn)",
           "avgscore": 49,
           "rounds": 1
+        },
+        {
+          "rank": 64,
+          "teamid": "T35091241",
+          "teamname": "Disc-obedient Swifties",
+          "avgscore": 49,
+          "rounds": 3
         },
         {
           "rank": 76,
@@ -14591,6 +14591,13 @@
         },
         {
           "rank": 77,
+          "teamid": "T38298257",
+          "teamname": "Lark-a-doodle-doo",
+          "avgscore": 48,
+          "rounds": 8
+        },
+        {
+          "rank": 77,
           "teamid": "T41953269",
           "teamname": "Jagoda Woźnicka and KosaX",
           "avgscore": 48,
@@ -14605,13 +14612,6 @@
         },
         {
           "rank": 77,
-          "teamid": "T25198233",
-          "teamname": "Team Skittle Squad",
-          "avgscore": 48,
-          "rounds": 1
-        },
-        {
-          "rank": 77,
           "teamid": "T27259235",
           "teamname": "Broken Promise",
           "avgscore": 48,
@@ -14619,17 +14619,17 @@
         },
         {
           "rank": 77,
-          "teamid": "T26056231",
-          "teamname": "Sons Of Anarchy",
+          "teamid": "T25198233",
+          "teamname": "Team Skittle Squad",
           "avgscore": 48,
           "rounds": 1
         },
         {
           "rank": 77,
-          "teamid": "T38298257",
-          "teamname": "Lark-a-doodle-doo",
+          "teamid": "T26056231",
+          "teamname": "Sons Of Anarchy",
           "avgscore": 48,
-          "rounds": 8
+          "rounds": 1
         },
         {
           "rank": 85,
@@ -14654,45 +14654,10 @@
         },
         {
           "rank": 88,
-          "teamid": "T24786225",
-          "teamname": "ZP speedy and screamy",
-          "avgscore": 47,
-          "rounds": 7
-        },
-        {
-          "rank": 88,
-          "teamid": "T12867196",
-          "teamname": "Lisa Mangrich and Duff",
-          "avgscore": 47,
-          "rounds": 1
-        },
-        {
-          "rank": 88,
           "teamid": "T17848213",
           "teamname": "Team Sarah and The Biscuit",
           "avgscore": 47,
           "rounds": 2
-        },
-        {
-          "rank": 88,
-          "teamid": "T36787250",
-          "teamname": "Kristin and Eli",
-          "avgscore": 47,
-          "rounds": 2
-        },
-        {
-          "rank": 88,
-          "teamid": "T25040237",
-          "teamname": "HolyTerrors",
-          "avgscore": 47,
-          "rounds": 1
-        },
-        {
-          "rank": 88,
-          "teamid": "T18592212",
-          "teamname": "Luckyboy",
-          "avgscore": 47,
-          "rounds": 1
         },
         {
           "rank": 88,
@@ -14703,22 +14668,8 @@
         },
         {
           "rank": 88,
-          "teamid": "T29479233",
-          "teamname": "InFinnite Notorious F.I.G.",
-          "avgscore": 47,
-          "rounds": 1
-        },
-        {
-          "rank": 88,
           "teamid": "T10990194",
           "teamname": "Sneak Attack!",
-          "avgscore": 47,
-          "rounds": 1
-        },
-        {
-          "rank": 88,
-          "teamid": "T17570213",
-          "teamname": "Steven Smith and Pete",
           "avgscore": 47,
           "rounds": 1
         },
@@ -14731,8 +14682,22 @@
         },
         {
           "rank": 88,
-          "teamid": "T37147254",
-          "teamname": "Chris Eddy and Feldspar",
+          "teamid": "T12867196",
+          "teamname": "Lisa Mangrich and Duff",
+          "avgscore": 47,
+          "rounds": 1
+        },
+        {
+          "rank": 88,
+          "teamid": "T18592212",
+          "teamname": "Luckyboy",
+          "avgscore": 47,
+          "rounds": 1
+        },
+        {
+          "rank": 88,
+          "teamid": "T29479233",
+          "teamname": "InFinnite Notorious F.I.G.",
           "avgscore": 47,
           "rounds": 1
         },
@@ -14742,6 +14707,41 @@
           "teamname": "Eric Tanguay and Neph",
           "avgscore": 47,
           "rounds": 1
+        },
+        {
+          "rank": 88,
+          "teamid": "T17570213",
+          "teamname": "Steven Smith and Pete",
+          "avgscore": 47,
+          "rounds": 1
+        },
+        {
+          "rank": 88,
+          "teamid": "T25040237",
+          "teamname": "HolyTerrors",
+          "avgscore": 47,
+          "rounds": 1
+        },
+        {
+          "rank": 88,
+          "teamid": "T37147254",
+          "teamname": "Chris Eddy and Feldspar",
+          "avgscore": 47,
+          "rounds": 1
+        },
+        {
+          "rank": 88,
+          "teamid": "T24786225",
+          "teamname": "ZP speedy and screamy",
+          "avgscore": 47,
+          "rounds": 7
+        },
+        {
+          "rank": 88,
+          "teamid": "T36787250",
+          "teamname": "Kristin and Eli",
+          "avgscore": 47,
+          "rounds": 2
         }
       ],
       "throw_n_go_level_one_cumulative": [
@@ -14978,17 +14978,17 @@
         },
         {
           "rank": 34,
-          "teamid": "T37216258",
-          "teamname": "The Taste of Fun",
-          "avgscore": 222,
-          "rounds": 8
-        },
-        {
-          "rank": 34,
           "teamid": "T37006258",
           "teamname": "Get Saucy 🌶",
           "avgscore": 222,
           "rounds": 6
+        },
+        {
+          "rank": 34,
+          "teamid": "T37216258",
+          "teamname": "The Taste of Fun",
+          "avgscore": 222,
+          "rounds": 8
         },
         {
           "rank": 36,
@@ -15041,15 +15041,15 @@
         },
         {
           "rank": 43,
-          "teamid": "T16621218",
-          "teamname": "Team Lynn and Disc Jockey",
+          "teamid": "T31595245",
+          "teamname": "Tyler and Echo",
           "avgscore": 204,
           "rounds": 4
         },
         {
           "rank": 43,
-          "teamid": "T31595245",
-          "teamname": "Tyler and Echo",
+          "teamid": "T16621218",
+          "teamname": "Team Lynn and Disc Jockey",
           "avgscore": 204,
           "rounds": 4
         },
@@ -15062,15 +15062,15 @@
         },
         {
           "rank": 46,
-          "teamid": "T10030197",
-          "teamname": "Tyler and Epic",
+          "teamid": "T35254249",
+          "teamname": "Robin and Ellie",
           "avgscore": 202,
           "rounds": 5
         },
         {
           "rank": 46,
-          "teamid": "T35254249",
-          "teamname": "Robin and Ellie",
+          "teamid": "T10030197",
+          "teamname": "Tyler and Epic",
           "avgscore": 202,
           "rounds": 5
         },
@@ -15118,15 +15118,15 @@
         },
         {
           "rank": 54,
-          "teamid": "T33050246",
-          "teamname": "Can't Hold My Licker",
+          "teamid": "T6015174",
+          "teamname": "Robin and Mac",
           "avgscore": 194,
           "rounds": 6
         },
         {
           "rank": 54,
-          "teamid": "T6015174",
-          "teamname": "Robin and Mac",
+          "teamid": "T33050246",
+          "teamname": "Can't Hold My Licker",
           "avgscore": 194,
           "rounds": 6
         },
@@ -15146,17 +15146,17 @@
         },
         {
           "rank": 58,
-          "teamid": "T24324224",
-          "teamname": "Bear Down",
-          "avgscore": 192,
-          "rounds": 4
-        },
-        {
-          "rank": 58,
           "teamid": "T15165207",
           "teamname": "Ryan and Speck",
           "avgscore": 192,
           "rounds": 5
+        },
+        {
+          "rank": 58,
+          "teamid": "T24324224",
+          "teamname": "Bear Down",
+          "avgscore": 192,
+          "rounds": 4
         },
         {
           "rank": 60,
@@ -15181,29 +15181,29 @@
         },
         {
           "rank": 62,
-          "teamid": "T38015250",
-          "teamname": "Stuart and Cabaret",
-          "avgscore": 187,
-          "rounds": 10
-        },
-        {
-          "rank": 62,
           "teamid": "T18808213",
           "teamname": "Beauty and her Bestie",
           "avgscore": 187,
           "rounds": 5
         },
         {
-          "rank": 65,
-          "teamid": "T20952226",
-          "teamname": "🌺 The Fantabulous Miss SmallSizeBigThighs from the harsh winters of the \nNorth 🌺",
-          "avgscore": 185,
-          "rounds": 5
+          "rank": 62,
+          "teamid": "T38015250",
+          "teamname": "Stuart and Cabaret",
+          "avgscore": 187,
+          "rounds": 10
         },
         {
           "rank": 65,
           "teamid": "T35050241",
           "teamname": "Lauren Redford and Veda",
+          "avgscore": 185,
+          "rounds": 5
+        },
+        {
+          "rank": 65,
+          "teamid": "T20952226",
+          "teamname": "🌺 The Fantabulous Miss SmallSizeBigThighs from the harsh winters of the \nNorth 🌺",
           "avgscore": 185,
           "rounds": 5
         },
@@ -15272,10 +15272,10 @@
         },
         {
           "rank": 76,
-          "teamid": "T32741244",
-          "teamname": "Too Hot To Handle",
+          "teamid": "T31596241",
+          "teamname": "Tyler and Encore",
           "avgscore": 175,
-          "rounds": 6
+          "rounds": 4
         },
         {
           "rank": 76,
@@ -15286,10 +15286,10 @@
         },
         {
           "rank": 76,
-          "teamid": "T31596241",
-          "teamname": "Tyler and Encore",
+          "teamid": "T32741244",
+          "teamname": "Too Hot To Handle",
           "avgscore": 175,
-          "rounds": 4
+          "rounds": 6
         },
         {
           "rank": 79,
@@ -15314,24 +15314,17 @@
         },
         {
           "rank": 82,
-          "teamid": "T17115214",
-          "teamname": "Happy Red BOCO",
-          "avgscore": 172,
-          "rounds": 4
-        },
-        {
-          "rank": 82,
           "teamid": "T16217215",
           "teamname": "LRK9 Swing For the Fences (Paxton)",
           "avgscore": 172,
           "rounds": 5
         },
         {
-          "rank": 84,
-          "teamid": "T17754214",
-          "teamname": "Haven Girl",
-          "avgscore": 171,
-          "rounds": 5
+          "rank": 82,
+          "teamid": "T17115214",
+          "teamname": "Happy Red BOCO",
+          "avgscore": 172,
+          "rounds": 4
         },
         {
           "rank": 84,
@@ -15348,18 +15341,18 @@
           "rounds": 7
         },
         {
+          "rank": 84,
+          "teamid": "T17754214",
+          "teamname": "Haven Girl",
+          "avgscore": 171,
+          "rounds": 5
+        },
+        {
           "rank": 87,
           "teamid": "T27707238",
           "teamname": "Debbie Le Blanc and Yeti Betty",
           "avgscore": 169,
           "rounds": 7
-        },
-        {
-          "rank": 88,
-          "teamid": "T11958197",
-          "teamname": "Melanie Kernor and Allura",
-          "avgscore": 168,
-          "rounds": 4
         },
         {
           "rank": 88,
@@ -15372,6 +15365,13 @@
           "rank": 88,
           "teamid": "T13502207",
           "teamname": "Melanie Kernor and Earnhardt",
+          "avgscore": 168,
+          "rounds": 4
+        },
+        {
+          "rank": 88,
+          "teamid": "T11958197",
+          "teamname": "Melanie Kernor and Allura",
           "avgscore": 168,
           "rounds": 4
         },
@@ -15405,15 +15405,15 @@
         },
         {
           "rank": 95,
-          "teamid": "T18176216",
-          "teamname": "Bad Pennies",
+          "teamid": "T10400198",
+          "teamname": "Shonna and Rampage",
           "avgscore": 165,
           "rounds": 4
         },
         {
           "rank": 95,
-          "teamid": "T10400198",
-          "teamname": "Shonna and Rampage",
+          "teamid": "T18176216",
+          "teamname": "Bad Pennies",
           "avgscore": 165,
           "rounds": 4
         },
@@ -15433,15 +15433,15 @@
         },
         {
           "rank": 99,
-          "teamid": "T30641240",
-          "teamname": "Shonna Sale and Rubix",
+          "teamid": "T19763216",
+          "teamname": "Kara Bellingham and Hexadecimal",
           "avgscore": 161,
           "rounds": 4
         },
         {
           "rank": 99,
-          "teamid": "T19763216",
-          "teamname": "Kara Bellingham and Hexadecimal",
+          "teamid": "T30641240",
+          "teamname": "Shonna Sale and Rubix",
           "avgscore": 161,
           "rounds": 4
         }
