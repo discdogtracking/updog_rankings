@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T04:46:28.175Z",
+  "lastUpdated": "2026-08-18T08:46:32.436Z",
   "data": {
     "boom_level_one": {
       "gameName": "Boom Level One",
@@ -20601,7 +20601,288 @@
     "pairs_four_way_play_level_one": {
       "gameName": "Pairs Four Way Play Level One",
       "url": "https://teams.updogchallenge.com/games/pairs-four-way-play-level-one/percentile",
-      "rankings": []
+      "rankings": [
+        {
+          "score": 57,
+          "teams": 1,
+          "percentile": 100
+        },
+        {
+          "score": 56,
+          "teams": 1,
+          "percentile": 99.97
+        },
+        {
+          "score": 54,
+          "teams": 1,
+          "percentile": 99.95
+        },
+        {
+          "score": 53,
+          "teams": 1,
+          "percentile": 99.92
+        },
+        {
+          "score": 52,
+          "teams": 1,
+          "percentile": 99.9
+        },
+        {
+          "score": 51,
+          "teams": 1,
+          "percentile": 99.87
+        },
+        {
+          "score": 50,
+          "teams": 4,
+          "percentile": 99.78
+        },
+        {
+          "score": 49,
+          "teams": 1,
+          "percentile": 99.69
+        },
+        {
+          "score": 48,
+          "teams": 3,
+          "percentile": 99.64
+        },
+        {
+          "score": 47,
+          "teams": 6,
+          "percentile": 99.53
+        },
+        {
+          "score": 46,
+          "teams": 4,
+          "percentile": 99.38
+        },
+        {
+          "score": 44,
+          "teams": 5,
+          "percentile": 99.24
+        },
+        {
+          "score": 43,
+          "teams": 6,
+          "percentile": 99.09
+        },
+        {
+          "score": 42,
+          "teams": 6,
+          "percentile": 98.94
+        },
+        {
+          "score": 41,
+          "teams": 7,
+          "percentile": 98.77
+        },
+        {
+          "score": 40,
+          "teams": 22,
+          "percentile": 98.35
+        },
+        {
+          "score": 39,
+          "teams": 28,
+          "percentile": 97.63
+        },
+        {
+          "score": 38,
+          "teams": 12,
+          "percentile": 97.08
+        },
+        {
+          "score": 37,
+          "teams": 33,
+          "percentile": 96.45
+        },
+        {
+          "score": 36,
+          "teams": 38,
+          "percentile": 95.43
+        },
+        {
+          "score": 35,
+          "teams": 19,
+          "percentile": 94.62
+        },
+        {
+          "score": 34,
+          "teams": 47,
+          "percentile": 93.72
+        },
+        {
+          "score": 33,
+          "teams": 22,
+          "percentile": 92.77
+        },
+        {
+          "score": 32,
+          "teams": 73,
+          "percentile": 91.49
+        },
+        {
+          "score": 31,
+          "teams": 51,
+          "percentile": 89.84
+        },
+        {
+          "score": 30,
+          "teams": 124,
+          "percentile": 87.44
+        },
+        {
+          "score": 29,
+          "teams": 136,
+          "percentile": 83.74
+        },
+        {
+          "score": 28,
+          "teams": 64,
+          "percentile": 80.89
+        },
+        {
+          "score": 27,
+          "teams": 118,
+          "percentile": 78.32
+        },
+        {
+          "score": 26,
+          "teams": 131,
+          "percentile": 74.85
+        },
+        {
+          "score": 25,
+          "teams": 71,
+          "percentile": 72.13
+        },
+        {
+          "score": 24,
+          "teams": 128,
+          "percentile": 69.44
+        },
+        {
+          "score": 23,
+          "teams": 74,
+          "percentile": 66.72
+        },
+        {
+          "score": 22,
+          "teams": 175,
+          "percentile": 63.36
+        },
+        {
+          "score": 21,
+          "teams": 91,
+          "percentile": 59.8
+        },
+        {
+          "score": 20,
+          "teams": 263,
+          "percentile": 54.97
+        },
+        {
+          "score": 19,
+          "teams": 203,
+          "percentile": 48.44
+        },
+        {
+          "score": 18,
+          "teams": 106,
+          "percentile": 44.17
+        },
+        {
+          "score": 17,
+          "teams": 211,
+          "percentile": 39.92
+        },
+        {
+          "score": 16,
+          "teams": 152,
+          "percentile": 35.06
+        },
+        {
+          "score": 15,
+          "teams": 108,
+          "percentile": 31.64
+        },
+        {
+          "score": 14,
+          "teams": 133,
+          "percentile": 28.4
+        },
+        {
+          "score": 13,
+          "teams": 92,
+          "percentile": 25.37
+        },
+        {
+          "score": 12,
+          "teams": 175,
+          "percentile": 21.82
+        },
+        {
+          "score": 11,
+          "teams": 57,
+          "percentile": 18.72
+        },
+        {
+          "score": 10,
+          "teams": 213,
+          "percentile": 15.11
+        },
+        {
+          "score": 9,
+          "teams": 85,
+          "percentile": 11.16
+        },
+        {
+          "score": 8,
+          "teams": 53,
+          "percentile": 9.35
+        },
+        {
+          "score": 7,
+          "teams": 74,
+          "percentile": 7.69
+        },
+        {
+          "score": 6,
+          "teams": 53,
+          "percentile": 6.04
+        },
+        {
+          "score": 5,
+          "teams": 49,
+          "percentile": 4.72
+        },
+        {
+          "score": 4,
+          "teams": 30,
+          "percentile": 3.7
+        },
+        {
+          "score": 3,
+          "teams": 25,
+          "percentile": 2.99
+        },
+        {
+          "score": 2,
+          "teams": 18,
+          "percentile": 2.42
+        },
+        {
+          "score": 1,
+          "teams": 3,
+          "percentile": 2.15
+        },
+        {
+          "score": 0,
+          "teams": 81,
+          "percentile": 1.06
+        }
+      ]
     },
     "pairs_throw_n_go_level_one": {
       "gameName": "Pairs Throw N Go Level One",
