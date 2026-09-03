@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T20:46:29.969Z",
+  "lastUpdated": "2026-09-03T00:46:31.191Z",
   "data": {
     "boom_level_one": {
       "gameName": "Boom Level One",
@@ -18361,7 +18361,913 @@
     "frizgility_level_one": {
       "gameName": "Frizgility Level One",
       "url": "https://teams.updogchallenge.com/games/frizgility-level-one/percentile",
-      "rankings": []
+      "rankings": [
+        {
+          "score": 210,
+          "teams": 2,
+          "percentile": 100
+        },
+        {
+          "score": 203,
+          "teams": 3,
+          "percentile": 99.99
+        },
+        {
+          "score": 200,
+          "teams": 9,
+          "percentile": 99.97
+        },
+        {
+          "score": 198,
+          "teams": 1,
+          "percentile": 99.95
+        },
+        {
+          "score": 196,
+          "teams": 4,
+          "percentile": 99.95
+        },
+        {
+          "score": 195,
+          "teams": 4,
+          "percentile": 99.94
+        },
+        {
+          "score": 193,
+          "teams": 3,
+          "percentile": 99.93
+        },
+        {
+          "score": 191,
+          "teams": 1,
+          "percentile": 99.93
+        },
+        {
+          "score": 190,
+          "teams": 6,
+          "percentile": 99.92
+        },
+        {
+          "score": 189,
+          "teams": 1,
+          "percentile": 99.92
+        },
+        {
+          "score": 188,
+          "teams": 7,
+          "percentile": 99.91
+        },
+        {
+          "score": 186,
+          "teams": 3,
+          "percentile": 99.9
+        },
+        {
+          "score": 185,
+          "teams": 50,
+          "percentile": 99.82
+        },
+        {
+          "score": 183,
+          "teams": 6,
+          "percentile": 99.74
+        },
+        {
+          "score": 182,
+          "teams": 1,
+          "percentile": 99.74
+        },
+        {
+          "score": 180,
+          "teams": 15,
+          "percentile": 99.72
+        },
+        {
+          "score": 178,
+          "teams": 50,
+          "percentile": 99.66
+        },
+        {
+          "score": 176,
+          "teams": 2,
+          "percentile": 99.6
+        },
+        {
+          "score": 175,
+          "teams": 107,
+          "percentile": 99.46
+        },
+        {
+          "score": 174,
+          "teams": 2,
+          "percentile": 99.32
+        },
+        {
+          "score": 173,
+          "teams": 13,
+          "percentile": 99.31
+        },
+        {
+          "score": 171,
+          "teams": 19,
+          "percentile": 99.28
+        },
+        {
+          "score": 170,
+          "teams": 35,
+          "percentile": 99.24
+        },
+        {
+          "score": 169,
+          "teams": 4,
+          "percentile": 99.21
+        },
+        {
+          "score": 168,
+          "teams": 57,
+          "percentile": 99.15
+        },
+        {
+          "score": 166,
+          "teams": 5,
+          "percentile": 99.09
+        },
+        {
+          "score": 165,
+          "teams": 114,
+          "percentile": 98.96
+        },
+        {
+          "score": 164,
+          "teams": 8,
+          "percentile": 98.83
+        },
+        {
+          "score": 163,
+          "teams": 23,
+          "percentile": 98.8
+        },
+        {
+          "score": 161,
+          "teams": 23,
+          "percentile": 98.77
+        },
+        {
+          "score": 160,
+          "teams": 214,
+          "percentile": 98.51
+        },
+        {
+          "score": 159,
+          "teams": 2,
+          "percentile": 98.27
+        },
+        {
+          "score": 158,
+          "teams": 44,
+          "percentile": 98.23
+        },
+        {
+          "score": 157,
+          "teams": 1,
+          "percentile": 98.18
+        },
+        {
+          "score": 156,
+          "teams": 10,
+          "percentile": 98.17
+        },
+        {
+          "score": 155,
+          "teams": 119,
+          "percentile": 98.05
+        },
+        {
+          "score": 154,
+          "teams": 12,
+          "percentile": 97.93
+        },
+        {
+          "score": 153,
+          "teams": 147,
+          "percentile": 97.79
+        },
+        {
+          "score": 152,
+          "teams": 1,
+          "percentile": 97.65
+        },
+        {
+          "score": 151,
+          "teams": 26,
+          "percentile": 97.63
+        },
+        {
+          "score": 150,
+          "teams": 338,
+          "percentile": 97.22
+        },
+        {
+          "score": 149,
+          "teams": 4,
+          "percentile": 96.82
+        },
+        {
+          "score": 148,
+          "teams": 81,
+          "percentile": 96.76
+        },
+        {
+          "score": 146,
+          "teams": 53,
+          "percentile": 96.66
+        },
+        {
+          "score": 145,
+          "teams": 183,
+          "percentile": 96.46
+        },
+        {
+          "score": 144,
+          "teams": 4,
+          "percentile": 96.29
+        },
+        {
+          "score": 143,
+          "teams": 197,
+          "percentile": 96.12
+        },
+        {
+          "score": 142,
+          "teams": 1,
+          "percentile": 95.95
+        },
+        {
+          "score": 141,
+          "teams": 37,
+          "percentile": 95.93
+        },
+        {
+          "score": 140,
+          "teams": 390,
+          "percentile": 95.48
+        },
+        {
+          "score": 139,
+          "teams": 22,
+          "percentile": 95.05
+        },
+        {
+          "score": 138,
+          "teams": 78,
+          "percentile": 94.97
+        },
+        {
+          "score": 137,
+          "teams": 3,
+          "percentile": 94.91
+        },
+        {
+          "score": 136,
+          "teams": 93,
+          "percentile": 94.83
+        },
+        {
+          "score": 135,
+          "teams": 644,
+          "percentile": 94.02
+        },
+        {
+          "score": 134,
+          "teams": 11,
+          "percentile": 93.27
+        },
+        {
+          "score": 133,
+          "teams": 195,
+          "percentile": 93.1
+        },
+        {
+          "score": 132,
+          "teams": 12,
+          "percentile": 92.93
+        },
+        {
+          "score": 131,
+          "teams": 39,
+          "percentile": 92.89
+        },
+        {
+          "score": 130,
+          "teams": 494,
+          "percentile": 92.39
+        },
+        {
+          "score": 129,
+          "teams": 33,
+          "percentile": 91.9
+        },
+        {
+          "score": 128,
+          "teams": 351,
+          "percentile": 91.56
+        },
+        {
+          "score": 127,
+          "teams": 7,
+          "percentile": 91.24
+        },
+        {
+          "score": 126,
+          "teams": 80,
+          "percentile": 91.17
+        },
+        {
+          "score": 125,
+          "teams": 981,
+          "percentile": 89.97
+        },
+        {
+          "score": 124,
+          "teams": 16,
+          "percentile": 88.82
+        },
+        {
+          "score": 123,
+          "teams": 270,
+          "percentile": 88.59
+        },
+        {
+          "score": 122,
+          "teams": 27,
+          "percentile": 88.35
+        },
+        {
+          "score": 121,
+          "teams": 133,
+          "percentile": 88.23
+        },
+        {
+          "score": 120,
+          "teams": 638,
+          "percentile": 87.56
+        },
+        {
+          "score": 119,
+          "teams": 37,
+          "percentile": 86.95
+        },
+        {
+          "score": 118,
+          "teams": 536,
+          "percentile": 86.45
+        },
+        {
+          "score": 117,
+          "teams": 8,
+          "percentile": 85.97
+        },
+        {
+          "score": 116,
+          "teams": 89,
+          "percentile": 85.91
+        },
+        {
+          "score": 115,
+          "teams": 1189,
+          "percentile": 84.61
+        },
+        {
+          "score": 114,
+          "teams": 56,
+          "percentile": 83.32
+        },
+        {
+          "score": 113,
+          "teams": 304,
+          "percentile": 83.05
+        },
+        {
+          "score": 112,
+          "teams": 62,
+          "percentile": 82.78
+        },
+        {
+          "score": 111,
+          "teams": 178,
+          "percentile": 82.6
+        },
+        {
+          "score": 110,
+          "teams": 1315,
+          "percentile": 81.11
+        },
+        {
+          "score": 109,
+          "teams": 93,
+          "percentile": 79.67
+        },
+        {
+          "score": 108,
+          "teams": 547,
+          "percentile": 79.16
+        },
+        {
+          "score": 107,
+          "teams": 58,
+          "percentile": 78.67
+        },
+        {
+          "score": 106,
+          "teams": 137,
+          "percentile": 78.53
+        },
+        {
+          "score": 105,
+          "teams": 1308,
+          "percentile": 77.16
+        },
+        {
+          "score": 104,
+          "teams": 109,
+          "percentile": 75.8
+        },
+        {
+          "score": 103,
+          "teams": 598,
+          "percentile": 75.21
+        },
+        {
+          "score": 102,
+          "teams": 49,
+          "percentile": 74.67
+        },
+        {
+          "score": 101,
+          "teams": 217,
+          "percentile": 74.48
+        },
+        {
+          "score": 100,
+          "teams": 1833,
+          "percentile": 72.37
+        },
+        {
+          "score": 99,
+          "teams": 67,
+          "percentile": 70.38
+        },
+        {
+          "score": 98,
+          "teams": 570,
+          "percentile": 69.88
+        },
+        {
+          "score": 97,
+          "teams": 179,
+          "percentile": 69.28
+        },
+        {
+          "score": 96,
+          "teams": 253,
+          "percentile": 68.96
+        },
+        {
+          "score": 95,
+          "teams": 1381,
+          "percentile": 67.5
+        },
+        {
+          "score": 94,
+          "teams": 225,
+          "percentile": 66.06
+        },
+        {
+          "score": 93,
+          "teams": 794,
+          "percentile": 65.21
+        },
+        {
+          "score": 92,
+          "teams": 71,
+          "percentile": 64.48
+        },
+        {
+          "score": 91,
+          "teams": 325,
+          "percentile": 64.19
+        },
+        {
+          "score": 90,
+          "teams": 2030,
+          "percentile": 61.83
+        },
+        {
+          "score": 89,
+          "teams": 178,
+          "percentile": 59.6
+        },
+        {
+          "score": 88,
+          "teams": 665,
+          "percentile": 58.94
+        },
+        {
+          "score": 87,
+          "teams": 82,
+          "percentile": 58.36
+        },
+        {
+          "score": 86,
+          "teams": 350,
+          "percentile": 58.04
+        },
+        {
+          "score": 85,
+          "teams": 1788,
+          "percentile": 56.07
+        },
+        {
+          "score": 84,
+          "teams": 153,
+          "percentile": 54.25
+        },
+        {
+          "score": 83,
+          "teams": 881,
+          "percentile": 53.43
+        },
+        {
+          "score": 82,
+          "teams": 170,
+          "percentile": 52.58
+        },
+        {
+          "score": 81,
+          "teams": 262,
+          "percentile": 52.26
+        },
+        {
+          "score": 80,
+          "teams": 2055,
+          "percentile": 50.06
+        },
+        {
+          "score": 79,
+          "teams": 325,
+          "percentile": 47.8
+        },
+        {
+          "score": 78,
+          "teams": 741,
+          "percentile": 46.97
+        },
+        {
+          "score": 77,
+          "teams": 71,
+          "percentile": 46.34
+        },
+        {
+          "score": 76,
+          "teams": 493,
+          "percentile": 45.9
+        },
+        {
+          "score": 75,
+          "teams": 2012,
+          "percentile": 43.58
+        },
+        {
+          "score": 74,
+          "teams": 178,
+          "percentile": 41.52
+        },
+        {
+          "score": 73,
+          "teams": 940,
+          "percentile": 40.61
+        },
+        {
+          "score": 72,
+          "teams": 75,
+          "percentile": 39.78
+        },
+        {
+          "score": 71,
+          "teams": 352,
+          "percentile": 39.47
+        },
+        {
+          "score": 70,
+          "teams": 2029,
+          "percentile": 37.29
+        },
+        {
+          "score": 69,
+          "teams": 199,
+          "percentile": 35.25
+        },
+        {
+          "score": 68,
+          "teams": 816,
+          "percentile": 34.46
+        },
+        {
+          "score": 67,
+          "teams": 58,
+          "percentile": 33.77
+        },
+        {
+          "score": 66,
+          "teams": 363,
+          "percentile": 33.47
+        },
+        {
+          "score": 65,
+          "teams": 1926,
+          "percentile": 31.44
+        },
+        {
+          "score": 64,
+          "teams": 235,
+          "percentile": 29.51
+        },
+        {
+          "score": 63,
+          "teams": 714,
+          "percentile": 28.79
+        },
+        {
+          "score": 62,
+          "teams": 54,
+          "percentile": 28.2
+        },
+        {
+          "score": 61,
+          "teams": 470,
+          "percentile": 27.81
+        },
+        {
+          "score": 60,
+          "teams": 1844,
+          "percentile": 25.82
+        },
+        {
+          "score": 59,
+          "teams": 172,
+          "percentile": 24.06
+        },
+        {
+          "score": 58,
+          "teams": 791,
+          "percentile": 23.32
+        },
+        {
+          "score": 57,
+          "teams": 38,
+          "percentile": 22.68
+        },
+        {
+          "score": 56,
+          "teams": 291,
+          "percentile": 22.44
+        },
+        {
+          "score": 55,
+          "teams": 1736,
+          "percentile": 20.7
+        },
+        {
+          "score": 54,
+          "teams": 142,
+          "percentile": 19.08
+        },
+        {
+          "score": 53,
+          "teams": 637,
+          "percentile": 18.49
+        },
+        {
+          "score": 52,
+          "teams": 19,
+          "percentile": 17.99
+        },
+        {
+          "score": 51,
+          "teams": 256,
+          "percentile": 17.78
+        },
+        {
+          "score": 50,
+          "teams": 1542,
+          "percentile": 16.3
+        },
+        {
+          "score": 49,
+          "teams": 115,
+          "percentile": 14.93
+        },
+        {
+          "score": 48,
+          "teams": 500,
+          "percentile": 14.47
+        },
+        {
+          "score": 47,
+          "teams": 31,
+          "percentile": 14.07
+        },
+        {
+          "score": 46,
+          "teams": 295,
+          "percentile": 13.83
+        },
+        {
+          "score": 45,
+          "teams": 1257,
+          "percentile": 12.59
+        },
+        {
+          "score": 44,
+          "teams": 77,
+          "percentile": 11.52
+        },
+        {
+          "score": 43,
+          "teams": 552,
+          "percentile": 11.04
+        },
+        {
+          "score": 42,
+          "teams": 22,
+          "percentile": 10.61
+        },
+        {
+          "score": 41,
+          "teams": 175,
+          "percentile": 10.47
+        },
+        {
+          "score": 40,
+          "teams": 1290,
+          "percentile": 9.26
+        },
+        {
+          "score": 39,
+          "teams": 56,
+          "percentile": 8.14
+        },
+        {
+          "score": 38,
+          "teams": 378,
+          "percentile": 7.82
+        },
+        {
+          "score": 37,
+          "teams": 9,
+          "percentile": 7.53
+        },
+        {
+          "score": 36,
+          "teams": 173,
+          "percentile": 7.39
+        },
+        {
+          "score": 35,
+          "teams": 903,
+          "percentile": 6.57
+        },
+        {
+          "score": 34,
+          "teams": 48,
+          "percentile": 5.83
+        },
+        {
+          "score": 33,
+          "teams": 348,
+          "percentile": 5.55
+        },
+        {
+          "score": 32,
+          "teams": 4,
+          "percentile": 5.3
+        },
+        {
+          "score": 31,
+          "teams": 108,
+          "percentile": 5.22
+        },
+        {
+          "score": 30,
+          "teams": 785,
+          "percentile": 4.52
+        },
+        {
+          "score": 29,
+          "teams": 12,
+          "percentile": 3.9
+        },
+        {
+          "score": 28,
+          "teams": 224,
+          "percentile": 3.72
+        },
+        {
+          "score": 26,
+          "teams": 70,
+          "percentile": 3.5
+        },
+        {
+          "score": 25,
+          "teams": 648,
+          "percentile": 2.95
+        },
+        {
+          "score": 24,
+          "teams": 7,
+          "percentile": 2.44
+        },
+        {
+          "score": 23,
+          "teams": 161,
+          "percentile": 2.32
+        },
+        {
+          "score": 21,
+          "teams": 28,
+          "percentile": 2.19
+        },
+        {
+          "score": 20,
+          "teams": 393,
+          "percentile": 1.87
+        },
+        {
+          "score": 18,
+          "teams": 102,
+          "percentile": 1.51
+        },
+        {
+          "score": 16,
+          "teams": 17,
+          "percentile": 1.42
+        },
+        {
+          "score": 15,
+          "teams": 318,
+          "percentile": 1.17
+        },
+        {
+          "score": 13,
+          "teams": 42,
+          "percentile": 0.9
+        },
+        {
+          "score": 10,
+          "teams": 207,
+          "percentile": 0.72
+        },
+        {
+          "score": 8,
+          "teams": 24,
+          "percentile": 0.55
+        },
+        {
+          "score": 6,
+          "teams": 1,
+          "percentile": 0.53
+        },
+        {
+          "score": 5,
+          "teams": 100,
+          "percentile": 0.46
+        },
+        {
+          "score": 4,
+          "teams": 1,
+          "percentile": 0.39
+        },
+        {
+          "score": 3,
+          "teams": 4,
+          "percentile": 0.39
+        },
+        {
+          "score": 2,
+          "teams": 1,
+          "percentile": 0.39
+        },
+        {
+          "score": 1,
+          "teams": 3,
+          "percentile": 0.38
+        },
+        {
+          "score": 0,
+          "teams": 243,
+          "percentile": 0.19
+        }
+      ]
     },
     "frizgility_level_two": {
       "gameName": "Frizgility Level Two",
