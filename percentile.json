@@ -1,10 +1,336 @@
 {
-  "lastUpdated": "2026-09-23T08:46:25.108Z",
+  "lastUpdated": "2026-09-23T12:46:30.704Z",
   "data": {
     "boom_level_one": {
       "gameName": "Boom Level One",
       "url": "https://teams.updogchallenge.com/games/boom-level-one/percentile",
-      "rankings": []
+      "rankings": [
+        {
+          "score": 115,
+          "teams": 1,
+          "percentile": 100
+        },
+        {
+          "score": 113,
+          "teams": 1,
+          "percentile": 100
+        },
+        {
+          "score": 111,
+          "teams": 7,
+          "percentile": 99.97
+        },
+        {
+          "score": 110,
+          "teams": 7,
+          "percentile": 99.93
+        },
+        {
+          "score": 103,
+          "teams": 1,
+          "percentile": 99.9
+        },
+        {
+          "score": 101,
+          "teams": 1,
+          "percentile": 99.89
+        },
+        {
+          "score": 100,
+          "teams": 14,
+          "percentile": 99.84
+        },
+        {
+          "score": 80,
+          "teams": 1,
+          "percentile": 99.78
+        },
+        {
+          "score": 78,
+          "teams": 2,
+          "percentile": 99.77
+        },
+        {
+          "score": 76,
+          "teams": 5,
+          "percentile": 99.75
+        },
+        {
+          "score": 75,
+          "teams": 18,
+          "percentile": 99.67
+        },
+        {
+          "score": 70,
+          "teams": 1,
+          "percentile": 99.6
+        },
+        {
+          "score": 68,
+          "teams": 1,
+          "percentile": 99.6
+        },
+        {
+          "score": 66,
+          "teams": 1,
+          "percentile": 99.59
+        },
+        {
+          "score": 65,
+          "teams": 35,
+          "percentile": 99.45
+        },
+        {
+          "score": 60,
+          "teams": 3,
+          "percentile": 99.29
+        },
+        {
+          "score": 56,
+          "teams": 2,
+          "percentile": 99.28
+        },
+        {
+          "score": 55,
+          "teams": 6,
+          "percentile": 99.26
+        },
+        {
+          "score": 53,
+          "teams": 17,
+          "percentile": 99.17
+        },
+        {
+          "score": 52,
+          "teams": 1,
+          "percentile": 99.11
+        },
+        {
+          "score": 51,
+          "teams": 19,
+          "percentile": 99.04
+        },
+        {
+          "score": 50,
+          "teams": 91,
+          "percentile": 98.59
+        },
+        {
+          "score": 48,
+          "teams": 2,
+          "percentile": 98.19
+        },
+        {
+          "score": 45,
+          "teams": 5,
+          "percentile": 98.17
+        },
+        {
+          "score": 43,
+          "teams": 7,
+          "percentile": 98.14
+        },
+        {
+          "score": 41,
+          "teams": 15,
+          "percentile": 98.08
+        },
+        {
+          "score": 40,
+          "teams": 152,
+          "percentile": 97.41
+        },
+        {
+          "score": 38,
+          "teams": 3,
+          "percentile": 96.77
+        },
+        {
+          "score": 36,
+          "teams": 9,
+          "percentile": 96.74
+        },
+        {
+          "score": 35,
+          "teams": 110,
+          "percentile": 96.38
+        },
+        {
+          "score": 34,
+          "teams": 4,
+          "percentile": 96.05
+        },
+        {
+          "score": 33,
+          "teams": 121,
+          "percentile": 95.64
+        },
+        {
+          "score": 32,
+          "teams": 11,
+          "percentile": 95.19
+        },
+        {
+          "score": 31,
+          "teams": 133,
+          "percentile": 94.7
+        },
+        {
+          "score": 30,
+          "teams": 401,
+          "percentile": 92.48
+        },
+        {
+          "score": 29,
+          "teams": 3,
+          "percentile": 90.7
+        },
+        {
+          "score": 28,
+          "teams": 22,
+          "percentile": 90.64
+        },
+        {
+          "score": 27,
+          "teams": 3,
+          "percentile": 90.58
+        },
+        {
+          "score": 26,
+          "teams": 35,
+          "percentile": 90.49
+        },
+        {
+          "score": 25,
+          "teams": 196,
+          "percentile": 89.8
+        },
+        {
+          "score": 24,
+          "teams": 15,
+          "percentile": 89.15
+        },
+        {
+          "score": 23,
+          "teams": 258,
+          "percentile": 88.33
+        },
+        {
+          "score": 22,
+          "teams": 35,
+          "percentile": 87.45
+        },
+        {
+          "score": 21,
+          "teams": 329,
+          "percentile": 86.29
+        },
+        {
+          "score": 20,
+          "teams": 1046,
+          "percentile": 80.12
+        },
+        {
+          "score": 19,
+          "teams": 73,
+          "percentile": 74.82
+        },
+        {
+          "score": 18,
+          "teams": 341,
+          "percentile": 73.63
+        },
+        {
+          "score": 17,
+          "teams": 91,
+          "percentile": 72.4
+        },
+        {
+          "score": 16,
+          "teams": 370,
+          "percentile": 71.06
+        },
+        {
+          "score": 15,
+          "teams": 795,
+          "percentile": 67.48
+        },
+        {
+          "score": 14,
+          "teams": 131,
+          "percentile": 64.64
+        },
+        {
+          "score": 13,
+          "teams": 450,
+          "percentile": 63.03
+        },
+        {
+          "score": 12,
+          "teams": 63,
+          "percentile": 61.61
+        },
+        {
+          "score": 11,
+          "teams": 324,
+          "percentile": 60.49
+        },
+        {
+          "score": 10,
+          "teams": 1461,
+          "percentile": 52.7
+        },
+        {
+          "score": 9,
+          "teams": 140,
+          "percentile": 45.46
+        },
+        {
+          "score": 8,
+          "teams": 548,
+          "percentile": 43.41
+        },
+        {
+          "score": 7,
+          "teams": 198,
+          "percentile": 41.18
+        },
+        {
+          "score": 6,
+          "teams": 680,
+          "percentile": 38.43
+        },
+        {
+          "score": 5,
+          "teams": 1408,
+          "percentile": 31.13
+        },
+        {
+          "score": 4,
+          "teams": 423,
+          "percentile": 24.79
+        },
+        {
+          "score": 3,
+          "teams": 951,
+          "percentile": 20.61
+        },
+        {
+          "score": 2,
+          "teams": 205,
+          "percentile": 17.09
+        },
+        {
+          "score": 1,
+          "teams": 430,
+          "percentile": 15.3
+        },
+        {
+          "score": 0,
+          "teams": 1864,
+          "percentile": 7.05
+        }
+      ]
     },
     "far_out_level_one": {
       "gameName": "Far Out Level One",
