@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T04:40:12.793Z",
+  "lastUpdated": "2026-11-01T09:39:36.306Z",
   "data": {
     "level1": {
       "boom_level_one_average": [
@@ -14059,15 +14059,15 @@
         },
         {
           "rank": 3,
-          "teamid": "T44057267",
-          "teamname": "Wiktoria Hajduk and AhriX",
+          "teamid": "T5415171",
+          "teamname": "Head over Heels",
           "avgscore": 67,
           "rounds": 1
         },
         {
           "rank": 3,
-          "teamid": "T5415171",
-          "teamname": "Head over Heels",
+          "teamid": "T44057267",
+          "teamname": "Wiktoria Hajduk and AhriX",
           "avgscore": 67,
           "rounds": 1
         },
@@ -14122,8 +14122,15 @@
         },
         {
           "rank": 12,
-          "teamid": "T19736215",
-          "teamname": "Klaudia Stefańska and NyxX",
+          "teamid": "T37706251",
+          "teamname": "Marta Pęcak and MiuraX",
+          "avgscore": 61,
+          "rounds": 1
+        },
+        {
+          "rank": 12,
+          "teamid": "T44059263",
+          "teamname": "Julia Salazar and GrandaX",
           "avgscore": 61,
           "rounds": 1
         },
@@ -14136,15 +14143,8 @@
         },
         {
           "rank": 12,
-          "teamid": "T37706251",
-          "teamname": "Marta Pęcak and MiuraX",
-          "avgscore": 61,
-          "rounds": 1
-        },
-        {
-          "rank": 12,
-          "teamid": "T43410266",
-          "teamname": "Zaborowska Julia and EffectX",
+          "teamid": "T19736215",
+          "teamname": "Klaudia Stefańska and NyxX",
           "avgscore": 61,
           "rounds": 1
         },
@@ -14157,8 +14157,8 @@
         },
         {
           "rank": 12,
-          "teamid": "T44059263",
-          "teamname": "Julia Salazar and GrandaX",
+          "teamid": "T43410266",
+          "teamname": "Zaborowska Julia and EffectX",
           "avgscore": 61,
           "rounds": 1
         },
@@ -14227,10 +14227,17 @@
         },
         {
           "rank": 27,
-          "teamid": "T39172257",
-          "teamname": "Teardrops On My Jump Tunnel Jump",
+          "teamid": "T43364267",
+          "teamname": "Buryn Kamila and UrsaX",
           "avgscore": 58,
-          "rounds": 12
+          "rounds": 1
+        },
+        {
+          "rank": 27,
+          "teamid": "T36888255",
+          "teamname": "Martyna Hamela and WillowX",
+          "avgscore": 58,
+          "rounds": 1
         },
         {
           "rank": 27,
@@ -14241,22 +14248,15 @@
         },
         {
           "rank": 27,
+          "teamid": "T39172257",
+          "teamname": "Teardrops On My Jump Tunnel Jump",
+          "avgscore": 58,
+          "rounds": 12
+        },
+        {
+          "rank": 27,
           "teamid": "T31851240",
           "teamname": "Layne Staley-Parry and Juno",
-          "avgscore": 58,
-          "rounds": 1
-        },
-        {
-          "rank": 27,
-          "teamid": "T43364267",
-          "teamname": "Buryn Kamila and UrsaX",
-          "avgscore": 58,
-          "rounds": 1
-        },
-        {
-          "rank": 27,
-          "teamid": "T36888255",
-          "teamname": "Martyna Hamela and WillowX",
           "avgscore": 58,
           "rounds": 1
         },
@@ -14332,8 +14332,8 @@
         },
         {
           "rank": 41,
-          "teamid": "T28795230",
-          "teamname": "Bryan A Smith and UltraViolet",
+          "teamid": "T43411265",
+          "teamname": "Krzewina Kaśka and GiraX",
           "avgscore": 56,
           "rounds": 1
         },
@@ -14346,17 +14346,17 @@
         },
         {
           "rank": 41,
-          "teamid": "T43411265",
-          "teamname": "Krzewina Kaśka and GiraX",
-          "avgscore": 56,
-          "rounds": 1
-        },
-        {
-          "rank": 41,
           "teamid": "T1845159",
           "teamname": "Action Jackson",
           "avgscore": 56,
           "rounds": 2
+        },
+        {
+          "rank": 41,
+          "teamid": "T28795230",
+          "teamname": "Bryan A Smith and UltraViolet",
+          "avgscore": 56,
+          "rounds": 1
         },
         {
           "rank": 46,
@@ -14738,10 +14738,10 @@
         },
         {
           "rank": 100,
-          "teamid": "T23898226",
-          "teamname": "Timothy Lake and Nemo",
+          "teamid": "T42819268",
+          "teamname": "Oliwia Sawrasewicz and CampariX",
           "avgscore": 51.5,
-          "rounds": 4
+          "rounds": 2
         }
       ],
       "throw_n_go_level_one_cumulative": [
@@ -15419,6 +15419,13 @@
         },
         {
           "rank": 97,
+          "teamid": "T13957207",
+          "teamname": "Cheryl Smith and Lucy",
+          "avgscore": 284,
+          "rounds": 9
+        },
+        {
+          "rank": 97,
           "teamid": "T12631196",
           "teamname": "Deadly Black Mamba",
           "avgscore": 284,
@@ -15428,13 +15435,6 @@
           "rank": 97,
           "teamid": "T36009257",
           "teamname": "Shawna Kondratuk and Crimson",
-          "avgscore": 284,
-          "rounds": 9
-        },
-        {
-          "rank": 97,
-          "teamid": "T13957207",
-          "teamname": "Cheryl Smith and Lucy",
           "avgscore": 284,
           "rounds": 9
         },
